@@ -1,88 +1,68 @@
-# Trilhas de Ensino
+# 📚 Trilhas de Ensino
 
-Plataforma de estudo em página única: o aluno escolhe uma **trilha** (área), navega por **temas** e **subtemas**, abre as aulas, marca o que já estudou e acompanha o progresso. Cada trilha tem identidade visual, tipografia e animações próprias, com tema **dia/noite**.
+**Aprender fica mais fácil quando o conhecimento tem um caminho.**
 
-Não há servidor nem dependências: é HTML, CSS e JavaScript puros. O progresso fica salvo no navegador (`localStorage`).
+O **Trilhas de Ensino** é uma plataforma de estudos que reúne conteúdos educacionais em diferentes áreas do conhecimento, organizados para tornar a aprendizagem mais simples, intuitiva e acessível.
 
-## Como abrir
+Com uma experiência visual personalizada para cada área, o aluno pode explorar temas, acessar aulas, acompanhar seu progresso e construir sua própria jornada de aprendizado.
 
-- Dê duplo clique em `index.html`, ou
-- abra `dist/trilhas-de-ensino.html`, a versão em **arquivo único** (tudo embutido), ideal para enviar ou hospedar.
+## ✨ Explore as trilhas
 
-## Estrutura
+Cada trilha possui uma identidade visual própria, criada para representar sua área de conhecimento.
 
-```
-trilhas-de-ensino/
-├── index.html            Estrutura da página (tela inicial, tela da trilha, cenários de fundo)
-├── css/
-│   └── style.css         Estilos: base, tema dia/noite, identidade de cada trilha, transições
-├── js/
-│   ├── app.js            Lógica: rotas, busca, filtros, progresso, efeitos e animações
-│   └── dados.js          GERADO por tools/build.py (não edite à mão)
-├── src/
-│   ├── data/             Fonte dos dados, em JSON (edite aqui)
-│   │   ├── ti.json  hu.json  en.json  ge.json  sa.json
-│   │   └── migracoes.json   Aulas que mudaram de trilha (preserva o progresso já marcado)
-│   └── saude/            Fonte da trilha Saúde, em texto simples (saude_part*.txt)
-├── tools/
-│   └── build.py          Gera js/dados.js e dist/trilhas-de-ensino.html
-└── dist/
-    └── trilhas-de-ensino.html   Versão em arquivo único
-```
+| Trilha | Área de conhecimento |
+|---|---|
+| 💻 **Tecnologia da Informação** | Programação, tecnologia e desenvolvimento. |
+| 📖 **Ciências Humanas e Sociais** | Conhecimento sobre sociedade, cultura e comportamento humano. |
+| ⚙️ **Engenharias e Ciências Exatas** | Ciências, cálculos, engenharia e conhecimentos técnicos. |
+| 📊 **Gestão, Negócios e Economia** | Administração, negócios, gestão e economia. |
+| 🩺 **Saúde e Ciências da Vida** | Saúde, ciências biológicas e conhecimentos sobre a vida. |
 
-## Trilhas
+## 🚀 Funcionalidades
 
-| Id | Trilha | Visual |
-|----|--------|--------|
-| `ti` | Tecnologia da Informação | rosa, roxo e lilás, cibernético |
-| `hu` | Ciências Humanas e Sociais | tons terrosos, pauta de caderno, serifada |
-| `en` | Engenharias e Ciências Exatas | concreto, engrenagem, equações, amarelo e grafite |
-| `ge` | Gestão, Negócios e Economia | painel analítico, gráficos, azul-marinho |
-| `sa` | Saúde e Ciências da Vida | limpo e clínico, batimento cardíaco, azul-água |
+- **Conteúdos organizados:** navegue por trilhas, temas e subtemas para encontrar as aulas com facilidade.
+- **Busca inteligente:** encontre aulas pelo título ou código.
+- **Acompanhamento de estudos:** marque as aulas concluídas e acompanhe seu progresso.
+- **Filtros de conteúdo:** visualize todas as aulas, somente as pendentes ou apenas as concluídas.
+- **Próxima aula:** continue seus estudos com mais praticidade.
+- **Modo claro e escuro:** escolha a aparência que preferir.
+- **Identidade visual dinâmica:** cada trilha apresenta cores, estilos e animações próprias.
+- **Experiência adaptada:** as animações respeitam a preferência do usuário por movimentos reduzidos.
 
-A tela inicial é neutra de propósito. Ao entrar numa trilha, o `<html>` recebe `data-dir="<id>"` e `data-view="area"`, e o CSS troca paleta, fonte, formas e cenário.
+## 🎨 Uma experiência de aprendizagem diferente
 
-## Como editar o conteúdo
+O Trilhas de Ensino vai além de uma lista de links. Cada área possui uma apresentação visual própria, tornando a navegação mais envolvente e ajudando a criar uma experiência distinta para cada jornada de aprendizagem.
 
-Cada arquivo de `src/data/` tem esta forma:
+A proposta é unir **organização, acessibilidade e identidade visual** em um ambiente no qual explorar novos conhecimentos seja mais intuitivo e agradável.
 
-```json
-{
-  "id": "ti", "n": "Nome da trilha", "d": "Descrição", "h": 260,
-  "base": "https://.../repositorio/00212ti/",
-  "h1": "Trilha de <em>Nome</em>",
-  "t": [ { "n": "Tema", "d": "Descrição do tema", "h": 210,
-           "s": [ ["Subtema", [ ["00023", "Título da aula", ["alt1"]] ]] ] } ]
-}
-```
+## 📈 Seu progresso, no seu ritmo
 
-- **Aula:** `[código, título, [códigos alternativos]]`. O link é `base + código + /index.html`. Um quarto item opcional substitui a `base` (usado em aulas que vieram de outra trilha).
-- **`h`:** matiz da cor do tema (0–360). O código o ajusta à paleta da trilha.
-- **Saúde:** edite os arquivos `src/saude/saude_part*.txt`. Formato: `@Tema`, `#Subtema`, e uma aula por linha como `código|título`.
+A plataforma permite registrar as aulas já estudadas e acompanhar a evolução dos estudos.
 
-Depois de editar, gere os arquivos:
+As marcações ficam salvas no próprio navegador, permitindo continuar de onde parou no mesmo ambiente, sem precisar criar uma conta.
 
-```
-python3 tools/build.py
-```
+## 🌐 Acesso à plataforma
 
-## Como adicionar uma trilha nova
+Você pode abrir a plataforma diretamente no navegador ou utilizar sua versão em arquivo único, facilitando o compartilhamento e a hospedagem.
 
-1. Crie `src/data/<id>.json` e inclua o `id` na lista do `build.py`.
-2. Em `js/app.js`, adicione o `id` em `PAL` (matiz-base e amplitude de cores).
-3. Em `css/style.css`, crie o bloco `html[data-dir="<id>"]` (cores claras e escuras, fontes, forma) e o cenário `.s-<id>`.
-4. Em `index.html`, adicione `<div class="scene s-<id>">`.
+> O progresso é armazenado localmente no navegador e não é sincronizado automaticamente entre dispositivos.
 
-## Funcionalidades
+## 🛠️ Tecnologias
 
-- Busca por título ou código (`/` ou `Ctrl K`), filtros Todas / Pendentes / Concluídas e botão "Próxima aula".
-- Progresso por aula, tema e trilha, salvo no navegador.
-- Tema dia/noite, que segue o aparelho até o primeiro clique.
-- Transição ao clicar no card (saída) e entrada própria de cada trilha: embaralhado (TI), aquarela e máquina de escrever (Humanas), planta baixa (Engenharias), painel em cascata (Gestão) e scanner (Saúde).
-- Respeita "reduzir movimento" do sistema.
+O projeto foi desenvolvido com tecnologias web fundamentais:
 
-## Observações
+- HTML5
+- CSS3
+- JavaScript
 
-- O progresso é local: limpar os dados do navegador apaga as marcações.
-- Algumas aulas aparecem em mais de uma trilha, com códigos diferentes. Podem ser versões distintas.
-- O tema "Aulas a classificar", em TI, reúne aulas com título genérico, à espera de classificação.
+A plataforma não depende de um servidor de aplicação nem de bibliotecas externas para suas funcionalidades principais.
+
+## 👨‍💻 Autor
+
+**Criado por Mario Duarte.**
+
+Projeto desenvolvido com o objetivo de facilitar o acesso a conteúdos educacionais e oferecer uma maneira mais organizada e agradável de estudar.
+
+---
+
+*Trilhas de Ensino — explore conhecimentos, avance no seu ritmo e construa sua jornada.*
