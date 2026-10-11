@@ -1,0 +1,169 @@
+@Química
+#Fundamentos da química
+00765|Introdução à química
+00479|Ligações químicas e a estrutura das moléculas
+00560|Átomos, elementos e tabela periódica
+00707|Fundamentos das reações químicas
+00910|Propriedades da água e soluções aquosas
+#Química inorgânica
+02236|A química dos metais
+02237|A química dos não metais
+@Biologia celular, molecular e genética
+#Biologia celular
+01412|Classificação e composição química celular
+01807|Núcleo, divisão, diferenciação e morte celular
+#Biologia molecular
+00750|Introdução à Biologia Molecular
+00711|Genética molecular e o dogma central da biologia molecular
+00516|Amplificação in vitro de DNA
+00778|Isolamento de ácidos nucleicos
+00945|Sequenciamento, clonagem e técnicas de hibridização
+#Genética
+00705|Fundamentos da Genética
+00633|Padrões de herança genética e genética do câncer
+00710|Genética de populações
+@Anatomia, fisiologia e patologia
+#Morfologia e histologia
+01709|Introdução ao estudo da morfologia e embriologia
+01650|Histologia do Tecido Epitelial, Conjuntivo e Adiposo
+#Fisiologia
+00771|Fisiologia humana e organização funcional do sistema nervoso
+00688|Fisiologia do sistema nervoso somático e sistema nervoso visceral
+00592|Comunicação neural, sentidos somatossensoriais e especiais
+00687|Fisiologia do Sistema Hormonal
+#Patologia
+00630|Disfunção corporal
+01672|Inflamação, reparo tecidual e neoplasias
+@Microbiologia, imunologia e parasitologia
+#Microbiologia
+00762|Introdução à microbiologia
+00609|Crescimento microbiano
+#Imunologia
+00757|Introdução à imunologia
+00797|Mecanismos das respostas imunológicas
+#Parasitologia
+01701|Introdução à parasitologia
+00823|Nematelmintos de importância clínica
+01860|Platelmintos parasitos do homem
+02049|Artrópodes parasitas ou vetores de doenças e animais peçonhentos
+@Psicologia
+#Fundamentos e teorias
+02226|A Psicologia Experimental e a pesquisa básica e aplicada
+02228|A personalidade como construto teórico
+02234|A Psicologia Humanista
+02241|A teoria da sexualidade
+#Processos psicológicos e aprendizagem
+02213|A comunicação humana
+02274|Aprendizagem
+00567|Avaliação em psicomotricidade
+#Avaliação e psicopatologia
+02227|A observação e os testes de personalidade e interesses
+00979|Transtornos psicológicos
+00665|Estudo da psicossomática
+@Fisioterapia
+#Musculoesquelética
+02244|Abordagem fisioterapêutica no tratamento da ATM
+02292|Aspectos anatômicos e biomecânicos da articulação temporomandibular (ATM)
+02246|Abordagem Fisioterapêutica para recuperação da força e potência
+02247|Abordagem fisioterapêutica para restaurar e ampliar o arco de movimento
+#Neurofuncional
+02245|Abordagem fisioterapêutica nas principais doenças do SNP
+@Educação Física e esporte
+#Fundamentos e atuação profissional
+02275|Apresentação da Educação Física
+02299|Atuação como profissional autônomo
+02300|Atuação em centros de fitness
+02301|Atuação em gestão
+02302|Atuação na educação básica
+02303|Atuação no esporte
+#Atividade física e saúde
+02297|Atividade física e doenças cardiovasculares
+02298|Atividade física e doenças metabólicas
+#Lutas e ginástica
+02284|As artes marciais, lutas e modalidades esportivas de combate através dos tempos
+@Farmácia e farmacologia
+#Farmacologia
+00449|Introdução à farmacologia
+00407|Processos farmacodinâmicos
+#Toxicologia
+01708|Fundamentos de toxicologia
+01447|Controle de exposição a substâncias e produtos tóxicos
+#Profissão e serviços farmacêuticos
+02231|A profissão farmacêutica no Brasil
+02212|A Assistência Farmacêutica no Brasil
+01722|Normas em drogarias e farmácias sem manipulação
+01726|Diretrizes iniciais para o estágio em farmácia
+@Nutrição e alimentos
+#Cultura e comportamento alimentar
+00525|Análise interpretativa e aspectos históricos da alimentação
+00549|Aspectos socioeconômicos e culturais: alimentação
+00613|Cultura alimentar: concepções
+00721|Globalização e comportamento alimentar
+00946|Simbologia dos alimentos
+#Avaliação nutricional
+01371|Avaliação nutricional de idosos
+01369|Avaliação nutricional de crianças e adolescentes
+01370|Avaliação nutricional de gestantes
+#Alimentos e profissão
+02257|Alimentos de origem vegetal: cereais, leguminosas, frutas e hortaliças
+02254|Administração de Marketing em Nutrição
+02278|Áreas de Atuação do Nutricionista
+@Biomedicina e análises clínicas
+#Laboratório clínico
+00654|Equipamentos e vidrarias aplicadas em laboratório clínico
+00775|Introdução às boas práticas laboratoriais
+00806|Métodos laboratoriais
+00809|Microscopia de luz
+01482|Diabetes Mellitus e Lipidograma
+@Estética, cosmética e pele
+#Mercado e ética
+00019|Mercado de trabalho em Estética e Cosmética
+00511|Alterações estéticas na gestação
+#A pele e suas afecções
+00492|A pele
+00504|Afecções cutâneas I
+00505|Afecções cutâneas II
+#Drenagem linfática
+00754|Introdução à Drenagem Linfática Manual
+00949|Sistema linfático
+00885|Prática de Drenagem Linfática Manual Facial
+@Medicina, clínica e urgência
+#Clínica
+00648|Enfermidades urológicas
+#Primeiros socorros
+02268|Aplicação de primeiros socorros I
+02269|Aplicação de primeiros socorros II
+@Saúde coletiva, epidemiologia e SUS
+#Conceitos e políticas de saúde
+01074|Perspectivas sobre o conceito de saúde
+01090|Histórico das políticas de saúde
+01128|O SUS e seus principais caminhos normativos
+02289|As Ciências do Cuidado em Saúde e Interface com a Feminização
+02296|Aspectos transdisciplinares da saúde
+#Atenção primária e equipes
+01263|A equipe multiprofissional e sua atuação na atenção primária em saúde
+00934|Relacionamento profissional interdisciplinar em saúde
+#Saúde mental e RAPS
+02238|A Rede de Atenção Psicossocial (RAPS)
+02044|Vínculo e saúde mental: as redes vivas que fazem a atenção psicossocial acontecer
+#Epidemiologia
+02272|Aplicação da Epidemiologia na saúde
+@Saúde do trabalhador e ergonomia
+#Higiene ocupacional
+02150|Introdução à higiene ocupacional
+@Gestão em saúde
+#Custos e estrutura
+00462|Administração de custos e recursos materiais
+02280|Arquitetura hospitalar
+@Meio ambiente, ecologia e zoologia
+#Educação ambiental e zoologia
+02230|A Prática da Educação Ambiental
+02282|Arthropoda II (Mandibulata)
+@Pesquisa, ética e estágio
+#Pesquisa científica
+01886|Produção científica e as novas pesquisas em saúde
+02051|Construção da produção científica em ciências da saúde
+02286|As bases da pesquisa
+#Ética e estágio
+02283|Articulação entre prática profissional, legislação e código de ética
+00935|Relatório de estágio

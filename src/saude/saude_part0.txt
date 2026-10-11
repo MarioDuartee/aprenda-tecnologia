@@ -1,0 +1,45 @@
+@Veterinária, zootecnia e agrárias
+#Solo, adubação e irrigação
+02549|Introdução ao manejo e conservação do solo|https://stecine.azureedge.net/repositorio/00212en/|
+03356|Fertilizantes|https://stecine.azureedge.net/repositorio/00212en/|
+03362|Sistemas de irrigação por aspersão convencional|https://stecine.azureedge.net/repositorio/00212en/|
+#Entomologia e controle de pragas
+03357|Introdução à Entomologia|https://stecine.azureedge.net/repositorio/00212en/|
+03358|Reprodução e ecologia dos insetos|https://stecine.azureedge.net/repositorio/00212en/|
+03359|Métodos de Controle de Pragas|https://stecine.azureedge.net/repositorio/00212en/|
+03360|Controle, toxicologia e modo de ação dos inseticidas|https://stecine.azureedge.net/repositorio/00212en/|
+03361|Pragas das plantas e seu controle|https://stecine.azureedge.net/repositorio/00212en/|
+#Doenças de plantas
+04208|Princípios gerais de controle de doenças de plantas|https://stecine.azureedge.net/repositorio/00212en/|
+04209|Manejo integrado de doenças|https://stecine.azureedge.net/repositorio/00212en/|
+04210|Diagnose e controle de doenças - Parte I|https://stecine.azureedge.net/repositorio/00212en/|
+04211|Diagnose e controle de doenças - Parte II|https://stecine.azureedge.net/repositorio/00212en/|
+#Melhoramento e sementes
+04212|Introdução e conceitos em melhoramento de plantas|https://stecine.azureedge.net/repositorio/00212en/|
+04213|Recursos genéticos|https://stecine.azureedge.net/repositorio/00212en/|
+04214|Melhoramento de espécies autógamas|https://stecine.azureedge.net/repositorio/00212en/|
+04215|Melhoramento de espécies alógamas|https://stecine.azureedge.net/repositorio/00212en/|
+04216|Tópicos especiais em melhoramento de plantas|https://stecine.azureedge.net/repositorio/00212en/|
+04217|Histórico e importância das sementes|https://stecine.azureedge.net/repositorio/00212en/|
+04218|Formação das Sementes e Composição Química das Sementes|https://stecine.azureedge.net/repositorio/00212en/|
+04219|Maturação, germinação e dormência das sementes|https://stecine.azureedge.net/repositorio/00212en/|
+04220|Vigor e Deterioração de Sementes|https://stecine.azureedge.net/repositorio/00212en/|
+04221|Produção, Colheita e Pós-colheita de sementes no Brasil|https://stecine.azureedge.net/repositorio/00212en/|
+#Culturas, floricultura e paisagismo
+03363|Hortaliças herbáceas|https://stecine.azureedge.net/repositorio/00212en/|
+05609|Culturas das plantas oleaginosas|https://stecine.azureedge.net/repositorio/00212en/|
+05610|Introdução à Floricultura|https://stecine.azureedge.net/repositorio/00212en/|
+05611|Paisagismo e parques|https://stecine.azureedge.net/repositorio/00212en/|
+05612|Cultivo de plantas floríferas|https://stecine.azureedge.net/repositorio/00212en/|
+05613|Plantas ornamentais|https://stecine.azureedge.net/repositorio/00212en/|
+05614|Projetos de paisagismo|https://stecine.azureedge.net/repositorio/00212en/|
+#Grãos armazenados
+07795|Características dos grãos armazenados|https://stecine.azureedge.net/repositorio/00212en/|
+07796|Caracterização de unidades armazenadoras|https://stecine.azureedge.net/repositorio/00212en/|
+07797|Pragas de grãos armazenados|https://stecine.azureedge.net/repositorio/00212en/|
+07798|Roedores|https://stecine.azureedge.net/repositorio/00212en/|
+07799|Beneficiamento de grãos|https://stecine.azureedge.net/repositorio/00212en/|
+#Microbiologia
+04222|Aspectos gerais da Microbiologia|https://stecine.azureedge.net/repositorio/00212en/|
+04223|Características dos microrganismos|https://stecine.azureedge.net/repositorio/00212en/|
+04224|Técnicas de análises microbiológicas|https://stecine.azureedge.net/repositorio/00212en/|

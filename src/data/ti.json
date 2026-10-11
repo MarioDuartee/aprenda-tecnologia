@@ -1,0 +1,2180 @@
+{
+ "id": "ti",
+ "n": "Tecnologia da Informação",
+ "d": "Do pensamento computacional a redes, dados, inteligência artificial e segurança, em trilhas do básico ao avançado.",
+ "h": 260,
+ "base": "https://stecine.azureedge.net/repositorio/00212ti/",
+ "h1": "Trilha de <em>Tecnologia da Informação</em>",
+ "t": [
+  {
+   "n": "Fundamentos e hardware",
+   "d": "Como o computador funciona: lógica digital, arquitetura, memória e sistemas operacionais.",
+   "h": 210,
+   "s": [
+    [
+     "Base da computação",
+     [
+      [
+       "00023",
+       "Introdução aos princípios fundamentais da computação",
+       []
+      ],
+      [
+       "00403",
+       "Base Computacional",
+       []
+      ],
+      [
+       "00432",
+       "Representação de dados",
+       []
+      ],
+      [
+       "00105",
+       "Lógica digital",
+       []
+      ]
+     ]
+    ],
+    [
+     "Hardware e arquitetura",
+     [
+      [
+       "00248",
+       "Componentes de hardware",
+       []
+      ],
+      [
+       "00437",
+       "Fundamentos de hardware",
+       []
+      ],
+      [
+       "00436",
+       "Arquitetura CISC X RISC",
+       []
+      ],
+      [
+       "00394",
+       "Processamento em paralelo",
+       []
+      ]
+     ]
+    ],
+    [
+     "Software e sistemas operacionais",
+     [
+      [
+       "00316",
+       "Fundamentos de softwares de computadores",
+       []
+      ],
+      [
+       "00596",
+       "Conceitos básicos de sistemas operacionais",
+       []
+      ]
+     ]
+    ],
+    [
+     "Imagem digital",
+     [
+      [
+       "00368",
+       "Representação de imagens em computadores",
+       []
+      ],
+      [
+       "07644",
+       "Processamento de imagem digital",
+       []
+      ],
+      [
+       "07645",
+       "Técnicas de renderização",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Lógica e programação",
+   "d": "Algoritmos, estruturas de dados, Python, C, C# e Java.",
+   "h": 265,
+   "s": [
+    [
+     "Pensamento computacional",
+     [
+      [
+       "00012",
+       "Solução de problemas e pensamento computacional",
+       []
+      ],
+      [
+       "01201",
+       "Pensamento computacional e aplicações na área de conhecimento",
+       []
+      ],
+      [
+       "07390",
+       "Algoritmos e a linguagem Python",
+       []
+      ]
+     ]
+    ],
+    [
+     "Programação estruturada em C",
+     [
+      [
+       "00144",
+       "Comandos de entrada e saída",
+       []
+      ],
+      [
+       "00226",
+       "Tipos de dados, expressões, operadores e tabela verdade",
+       []
+      ],
+      [
+       "04103",
+       "Operadores e Funções Matemáticas",
+       []
+      ],
+      [
+       "00163",
+       "Estruturas de decisão",
+       []
+      ],
+      [
+       "00332",
+       "Estruturas de repetição",
+       []
+      ],
+      [
+       "00404",
+       "Vetores e Matrizes",
+       []
+      ],
+      [
+       "00663",
+       "Estruturas de dados heterogêneas",
+       []
+      ],
+      [
+       "00791",
+       "Manipulação de dados em arquivos",
+       []
+      ],
+      [
+       "00817",
+       "Modularização",
+       []
+      ],
+      [
+       "02576",
+       "Linguagem C: recursos básicos",
+       []
+      ],
+      [
+       "02575",
+       "Linguagem C: funções",
+       []
+      ]
+     ]
+    ],
+    [
+     "Python essencial",
+     [
+      [
+       "00048",
+       "Paradigmas e linguagem Python",
+       []
+      ],
+      [
+       "00322",
+       "Python básico",
+       []
+      ],
+      [
+       "00213",
+       "Python estruturado",
+       []
+      ],
+      [
+       "00161",
+       "Estruturas de dados básicas do Python",
+       []
+      ],
+      [
+       "02279",
+       "Aritmética computacional em Python",
+       []
+      ],
+      [
+       "00265",
+       "Modularização e uso de bibliotecas do Python",
+       []
+      ],
+      [
+       "00187",
+       "Noções de programação: exemplos com manipulação de imagens digitais",
+       []
+      ]
+     ]
+    ],
+    [
+     "Algoritmos e estruturas de dados",
+     [
+      [
+       "04106",
+       "Algoritmos de ordenação básicos em Python",
+       []
+      ],
+      [
+       "04107",
+       "Algoritmos de ordenação avançados em Python",
+       []
+      ],
+      [
+       "07391",
+       "Listas, pilhas, filas e deques",
+       []
+      ],
+      [
+       "07392",
+       "Árvores de busca",
+       []
+      ],
+      [
+       "07408",
+       "Árvores em Python",
+       []
+      ]
+     ]
+    ],
+    [
+     "Python avançado",
+     [
+      [
+       "00232",
+       "Python orientado a objetos",
+       [
+        "04154"
+       ]
+      ],
+      [
+       "00426",
+       "Python em outros paradigmas",
+       [
+        "04155"
+       ]
+      ],
+      [
+       "00748",
+       "Interface gráfica com Python",
+       []
+      ],
+      [
+       "00921",
+       "Python com banco de dados",
+       []
+      ]
+     ]
+    ],
+    [
+     "Java",
+     [
+      [
+       "01703",
+       "Introdução à programação OO em Java",
+       [
+        "07673"
+       ]
+      ],
+      [
+       "01338",
+       "Aprofundamento de herança e polimorfismo em JAVA",
+       []
+      ],
+      [
+       "07674",
+       "Herança em Java",
+       []
+      ],
+      [
+       "01662",
+       "Implementação de tratamento de exceções em Java",
+       [
+        "07675"
+       ]
+      ],
+      [
+       "01895",
+       "Programação paralela em Java: threads",
+       []
+      ],
+      [
+       "04458",
+       "Recursividade em Java",
+       []
+      ]
+     ]
+    ],
+    [
+     "C#",
+     [
+      [
+       "04459",
+       "Introdução à linguagem C#",
+       []
+      ],
+      [
+       "04460",
+       "C# Avançado",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Matemática e teoria da computação",
+   "d": "Lógica, demonstrações, grafos, autômatos e métodos numéricos.",
+   "h": 300,
+   "s": [
+    [
+     "Lógica e demonstração",
+     [
+      [
+       "01394",
+       "Cálculo proposicional",
+       []
+      ],
+      [
+       "01393",
+       "Cálculo de predicados",
+       []
+      ],
+      [
+       "01774",
+       "Métodos de demonstração",
+       []
+      ]
+     ]
+    ],
+    [
+     "Teoria da computação",
+     [
+      [
+       "03490",
+       "Técnica de buscas em grafos",
+       []
+      ],
+      [
+       "03491",
+       "Conceitos básicos de autômatos e linguagens",
+       []
+      ],
+      [
+       "03492",
+       "Linguagens regulares",
+       []
+      ],
+      [
+       "03493",
+       "Linguagens livres de contexto",
+       []
+      ],
+      [
+       "03494",
+       "Computabilidade e a máquina de Turing",
+       []
+      ]
+     ]
+    ],
+    [
+     "Métodos numéricos",
+     [
+      [
+       "02425",
+       "Equações diferenciais ordinárias de 1ª ordem em Python",
+       []
+      ],
+      [
+       "02521",
+       "Integração numérica em Python",
+       []
+      ],
+      [
+       "02797",
+       "Sistemas de equações lineares e ajustes de curvas em Python",
+       []
+      ],
+      [
+       "03226",
+       "O sucesso acadêmico em Matemática mediado pelo trabalho colaborativo",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Eletrônica e sistemas embarcados",
+   "d": "Sistemas embarcados, FPGA, VHDL e automação industrial.",
+   "h": 35,
+   "s": [
+    [
+     "Sistemas digitais e embarcados",
+     [
+      [
+       "07500",
+       "Fundamentos de sistemas embarcados",
+       []
+      ],
+      [
+       "07501",
+       "Projeto de circuitos digitais",
+       []
+      ],
+      [
+       "07502",
+       "Modelagem de sistemas embarcados em VHDL",
+       []
+      ],
+      [
+       "02750",
+       "Projeto de hardware reconfigurável com FPGA",
+       []
+      ],
+      [
+       "02317",
+       "Bases para programação de sistemas embarcados",
+       []
+      ],
+      [
+       "02574",
+       "Linguagem C nos sistemas embarcados",
+       []
+      ]
+     ]
+    ],
+    [
+     "Automação industrial",
+     [
+      [
+       "07587",
+       "Redes industriais",
+       []
+      ],
+      [
+       "07588",
+       "Sistemas de supervisão industriais",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Redes de computadores",
+   "d": "Modelo OSI/TCP-IP, roteamento, switches, VLAN, wireless e infraestrutura.",
+   "h": 190,
+   "s": [
+    [
+     "Fundamentos de redes",
+     [
+      [
+       "00087",
+       "Introdução a redes de computadores e histórico da internet",
+       []
+      ],
+      [
+       "07397",
+       "Redes de computadores e a internet",
+       []
+      ],
+      [
+       "02981",
+       "Fundamentos de comunicação de dados",
+       []
+      ],
+      [
+       "00016",
+       "Modelo de referência OSI e arquitetura TCP/IP",
+       []
+      ]
+     ]
+    ],
+    [
+     "Camadas e protocolos",
+     [
+      [
+       "00203",
+       "Camada de enlace e física",
+       []
+      ],
+      [
+       "00212",
+       "Camada de rede",
+       []
+      ],
+      [
+       "00411",
+       "Camadas de Aplicação e Transporte",
+       []
+      ],
+      [
+       "07398",
+       "Desenvolvimento de aplicações com sockets",
+       []
+      ],
+      [
+       "03009",
+       "Organização da Internet",
+       []
+      ]
+     ]
+    ],
+    [
+     "Roteamento",
+     [
+      [
+       "07047",
+       "Protocolo RIP",
+       []
+      ],
+      [
+       "07048",
+       "Protocolo OSPF",
+       []
+      ],
+      [
+       "07049",
+       "Protocolo BGP",
+       []
+      ]
+     ]
+    ],
+    [
+     "Infraestrutura e WAN",
+     [
+      [
+       "03006",
+       "Tecnologias de interconexão de MANs/WANs",
+       []
+      ],
+      [
+       "03011",
+       "Redes de última milha: conectando a borda ao núcleo da internet",
+       []
+      ],
+      [
+       "03594",
+       "Introdução à infraestrutura de redes de computadores",
+       []
+      ],
+      [
+       "03595",
+       "Projetos de cabeamento estruturado",
+       []
+      ],
+      [
+       "03596",
+       "Projeto de redes wireless",
+       []
+      ]
+     ]
+    ],
+    [
+     "Switching e VLAN",
+     [
+      [
+       "03495",
+       "Configuração de Switches",
+       []
+      ],
+      [
+       "03496",
+       "VLAN (Redes Locais Virtuais) e Spanning Tree",
+       []
+      ],
+      [
+       "03497",
+       "Roteamento entre VLANs e DHCP",
+       []
+      ],
+      [
+       "03498",
+       "Configurações avançadas de switches",
+       []
+      ]
+     ]
+    ],
+    [
+     "Administração e segurança de redes",
+     [
+      [
+       "00132",
+       "Fundamentos de administração e segurança em rede de computadores",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Banco de dados",
+   "d": "Modelagem, SGBDs, SQL, bancos distribuídos e persistência.",
+   "h": 160,
+   "s": [
+    [
+     "Fundamentos e modelagem",
+     [
+      [
+       "00097",
+       "Sistema de banco de dados",
+       [
+        "07676"
+       ]
+      ],
+      [
+       "07677",
+       "Modelagem de banco de dados",
+       []
+      ],
+      [
+       "00001",
+       "Projeto de banco de dados: modelagem conceitual",
+       []
+      ],
+      [
+       "00351",
+       "Projeto de banco de dados - modelagem lógica e física",
+       []
+      ]
+     ]
+    ],
+    [
+     "SQL e consultas",
+     [
+      [
+       "07678",
+       "Comandos SQL",
+       []
+      ],
+      [
+       "00053",
+       "Consulta com uma tabela no PostgreSQL",
+       []
+      ],
+      [
+       "00414",
+       "Consulta com várias tabelas no PostgreSQL",
+       []
+      ]
+     ]
+    ],
+    [
+     "SGBDs comerciais",
+     [
+      [
+       "07624",
+       "Sistema gerenciador de banco de dados SQL Server",
+       []
+      ],
+      [
+       "07625",
+       "Modelagem e implementação de dados utilizando o SQL Server",
+       []
+      ],
+      [
+       "07626",
+       "Sistema gerenciador de banco de dados Oracle",
+       []
+      ],
+      [
+       "07627",
+       "Modelagem e implementação de dados utilizando o ORACLE",
+       []
+      ]
+     ]
+    ],
+    [
+     "Integração com aplicações",
+     [
+      [
+       "01678",
+       "Integração com banco de dados em Java",
+       [
+        "07681"
+       ]
+      ],
+      [
+       "04464",
+       "Persistência com Spring Data",
+       []
+      ]
+     ]
+    ],
+    [
+     "Bancos distribuídos e paralelos",
+     [
+      [
+       "07590",
+       "Sistemas de banco de dados distribuídos",
+       []
+      ],
+      [
+       "07591",
+       "Projeto de banco de dados distribuídos",
+       []
+      ],
+      [
+       "07592",
+       "Implementação de Banco de Dados Distribuídos",
+       []
+      ],
+      [
+       "07593",
+       "Sistemas de banco de dados paralelos",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Desenvolvimento web e mobile",
+   "d": "HTML, CSS, JavaScript, frameworks, back-end (PHP, Python, Java, .NET) e React Native.",
+   "h": 285,
+   "s": [
+    [
+     "Conceitos e planejamento",
+     [
+      [
+       "00172",
+       "O ambiente web: Cliente X Servidor e as tecnologias",
+       [
+        "07649"
+       ]
+      ],
+      [
+       "07646",
+       "Convergência e geração web",
+       []
+      ],
+      [
+       "07650",
+       "A evolução e importância da interface de um website",
+       []
+      ],
+      [
+       "07655",
+       "Conceituação de um website",
+       []
+      ],
+      [
+       "07654",
+       "Planejamento de um website",
+       []
+      ],
+      [
+       "07658",
+       "Estruturação de um website",
+       []
+      ],
+      [
+       "07659",
+       "Criação de um Website",
+       []
+      ]
+     ]
+    ],
+    [
+     "Front-end essencial",
+     [
+      [
+       "00084",
+       "Linguagem de marcação de hypertexto - HTML",
+       [
+        "07652"
+       ]
+      ],
+      [
+       "00468",
+       "Linguagem de marcação e estilos - CSS",
+       [
+        "07653"
+       ]
+      ],
+      [
+       "04325",
+       "Pré-processador de CSS - Sass",
+       [
+        "07670"
+       ]
+      ],
+      [
+       "00385",
+       "Linguagem JavaScript",
+       [
+        "07656"
+       ]
+      ],
+      [
+       "07662",
+       "Programação cliente com Javascript",
+       []
+      ],
+      [
+       "04326",
+       "JS na Web: CRUD com JavaScript assíncrono",
+       [
+        "07672"
+       ]
+      ],
+      [
+       "04320",
+       "Validação de dados",
+       [
+        "07665"
+       ]
+      ],
+      [
+       "07671",
+       "Testes unitários com JavaScript",
+       []
+      ]
+     ]
+    ],
+    [
+     "Frameworks front-end",
+     [
+      [
+       "04318",
+       "Programação cliente com TypeScript",
+       [
+        "07666"
+       ]
+      ],
+      [
+       "04321",
+       "ReactJS",
+       [
+        "07667"
+       ]
+      ],
+      [
+       "04322",
+       "Next.js",
+       [
+        "07668"
+       ]
+      ],
+      [
+       "04319",
+       "Vue.js",
+       []
+      ],
+      [
+       "04324",
+       "Angular",
+       [
+        "07669"
+       ]
+      ]
+     ]
+    ],
+    [
+     "Back-end com PHP",
+     [
+      [
+       "00964",
+       "Tecnologias de transmissão de dados em sistemas web",
+       [
+        "07663"
+       ]
+      ],
+      [
+       "00297",
+       "Programação de páginas dinâmicas com PHP",
+       []
+      ],
+      [
+       "00120",
+       "Integração do PHP com banco de dados",
+       []
+      ],
+      [
+       "04644",
+       "Back end Laravel PHP",
+       []
+      ],
+      [
+       "04645",
+       "Construindo API Rest com PHP",
+       []
+      ],
+      [
+       "04643",
+       "Testes unitários com PHP",
+       []
+      ]
+     ]
+    ],
+    [
+     "Back-end com Python",
+     [
+      [
+       "04638",
+       "Programação back-end com Python",
+       []
+      ],
+      [
+       "04639",
+       "Introdução ao Django",
+       []
+      ],
+      [
+       "04640",
+       "Conectando Django a um SGBD",
+       []
+      ],
+      [
+       "04641",
+       "Django avançado",
+       []
+      ],
+      [
+       "04642",
+       "API REST com Python",
+       []
+      ],
+      [
+       "07399",
+       "Web services em Python",
+       []
+      ]
+     ]
+    ],
+    [
+     "Back-end com Java",
+     [
+      [
+       "00905",
+       "Programação Servidor com JAVA",
+       [
+        "07682"
+       ]
+      ],
+      [
+       "00965",
+       "Tecnologias JPA e JEE",
+       [
+        "07683"
+       ]
+      ],
+      [
+       "04466",
+       "Web Services em Java",
+       [
+        "07684"
+       ]
+      ],
+      [
+       "04465",
+       "Serviços de mensageria",
+       []
+      ]
+     ]
+    ],
+    [
+     "MVC e .NET",
+     [
+      [
+       "03590",
+       "Implementação da Arquitetura MVC",
+       []
+      ],
+      [
+       "03591",
+       "Camada de modelo – mapeamento objeto-relacional",
+       []
+      ],
+      [
+       "03592",
+       "Camada de controle - serviços",
+       []
+      ],
+      [
+       "03593",
+       "Camada de visão",
+       []
+      ],
+      [
+       "04461",
+       "ASPNET CORE - Controllers e Models",
+       []
+      ],
+      [
+       "04462",
+       "ASP.NET CORE – Views",
+       []
+      ],
+      [
+       "04463",
+       "Entity Framework Core",
+       []
+      ]
+     ]
+    ],
+    [
+     "Mobile com React Native",
+     [
+      [
+       "02793",
+       "Sintaxe e componentes do React Native",
+       []
+      ],
+      [
+       "02525",
+       "Interface gráfica com React Native",
+       []
+      ],
+      [
+       "02358",
+       "Conexão Remota com React Native",
+       []
+      ],
+      [
+       "02700",
+       "Persistência de dados com React Native",
+       []
+      ],
+      [
+       "02826",
+       "Tópicos avançados em React Native",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Interação humano-computador",
+   "d": "Design de interação, usabilidade, acessibilidade e experiência do usuário.",
+   "h": 330,
+   "s": [
+    [
+     "Fundamentos de interação",
+     [
+      [
+       "04119",
+       "Interface e interação",
+       [
+        "07647"
+       ]
+      ],
+      [
+       "04120",
+       "A experiência do usuário",
+       [
+        "07648"
+       ]
+      ]
+     ]
+    ],
+    [
+     "Projeto e avaliação",
+     [
+      [
+       "01055",
+       "Desenvolvimento de interface humano-computador",
+       [
+        "07661"
+       ]
+      ],
+      [
+       "01033",
+       "Avaliação de interface humano-computador",
+       []
+      ]
+     ]
+    ],
+    [
+     "Acessibilidade e tendências",
+     [
+      [
+       "01020",
+       "Acessibilidade à web",
+       [
+        "07660"
+       ]
+      ],
+      [
+       "04121",
+       "Tendências e interfaces digitais",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Engenharia de software e DevOps",
+   "d": "Processos, UML, padrões de projeto, métodos ágeis, testes, estimativas e DevOps.",
+   "h": 240,
+   "s": [
+    [
+     "Processos e métodos ágeis",
+     [
+      [
+       "07651",
+       "Fundamentos de software e gerenciamento de projetos",
+       []
+      ],
+      [
+       "07664",
+       "Modelos de processos de desenvolvimento de software",
+       []
+      ],
+      [
+       "02287",
+       "Fases do processo de Engenharia de Sistemas",
+       []
+      ],
+      [
+       "00923",
+       "RAD (rapid applications development)",
+       []
+      ],
+      [
+       "02719",
+       "Práticas gerenciais com Scrum",
+       []
+      ],
+      [
+       "03600",
+       "Métodos Ágeis Específicos",
+       [
+        "04556"
+       ]
+      ],
+      [
+       "03601",
+       "Frameworks para métodos ágeis no PMBOK",
+       [
+        "04557"
+       ]
+      ]
+     ]
+    ],
+    [
+     "Modelagem e padrões de projeto",
+     [
+      [
+       "01425",
+       "Conceitos básicos de modelagem de sistemas",
+       []
+      ],
+      [
+       "02034",
+       "UML para modelagem do domínio",
+       []
+      ],
+      [
+       "02039",
+       "Utilizando UML para projetar o software",
+       []
+      ],
+      [
+       "01700",
+       "Introdução a padrões de projeto - design patterns",
+       []
+      ],
+      [
+       "02684",
+       "Padrões de GoF de criação",
+       []
+      ],
+      [
+       "02685",
+       "Padrões GoF estruturais",
+       []
+      ],
+      [
+       "02683",
+       "Padrões GoF Comportamentais",
+       []
+      ],
+      [
+       "02686",
+       "Padrões GRASP",
+       []
+      ]
+     ]
+    ],
+    [
+     "Qualidade e testes",
+     [
+      [
+       "04300",
+       "Teste de software",
+       []
+      ],
+      [
+       "04078",
+       "Qualidade em projetos",
+       []
+      ],
+      [
+       "07389",
+       "Normas e modelos de qualidade de processo de software",
+       []
+      ],
+      [
+       "02493",
+       "Fundamentos de métricas e medidas",
+       []
+      ]
+     ]
+    ],
+    [
+     "Estimativas de software",
+     [
+      [
+       "02381",
+       "Determinação de Pontos de Função",
+       []
+      ],
+      [
+       "02267",
+       "Aplicação de pontos de função",
+       []
+      ],
+      [
+       "02814",
+       "Técnicas de estimativa de esforço e custo",
+       []
+      ],
+      [
+       "02815",
+       "Técnicas de estimativas com base estatística",
+       []
+      ]
+     ]
+    ],
+    [
+     "Versionamento e DevOps",
+     [
+      [
+       "04323",
+       "Controle de Versionamento",
+       [
+        "07657"
+       ]
+      ],
+      [
+       "04775",
+       "Gestão de configuração de software",
+       []
+      ],
+      [
+       "04774",
+       "Fundamentos DevOps",
+       []
+      ],
+      [
+       "04776",
+       "Integração Contínua DevOps",
+       []
+      ],
+      [
+       "04777",
+       "Implantação Contínua DevOps",
+       []
+      ],
+      [
+       "04778",
+       "DevOps na prática",
+       []
+      ]
+     ]
+    ],
+    [
+     "Linhas de produto de software",
+     [
+      [
+       "04831",
+       "Conceitos de Linhas de Produtos de Software (LPS)",
+       []
+      ],
+      [
+       "04832",
+       "Variabilidade em LPS",
+       []
+      ],
+      [
+       "04833",
+       "Engenharia de domínio",
+       []
+      ],
+      [
+       "04834",
+       "Engenharia de aplicação",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Nuvem, servidores e datacenter",
+   "d": "Computação em nuvem, containers, Windows Server e datacenters.",
+   "h": 200,
+   "s": [
+    [
+     "Computação em nuvem",
+     [
+      [
+       "07400",
+       "Fundamentos de computação em nuvem",
+       [
+        "07679"
+       ]
+      ],
+      [
+       "07401",
+       "Arquitetura de computação em nuvem",
+       []
+      ],
+      [
+       "07403",
+       "Ambiente de computação em nuvem - Azure",
+       []
+      ],
+      [
+       "07404",
+       "Ambiente de computação em nuvem – AWS",
+       []
+      ],
+      [
+       "07405",
+       "Ambiente de computação em nuvem – Google Cloud",
+       []
+      ],
+      [
+       "04467",
+       "Utilizando aplicações através de containers",
+       [
+        "07680"
+       ]
+      ]
+     ]
+    ],
+    [
+     "Datacenter",
+     [
+      [
+       "02529",
+       "Introdução a Datacenter",
+       []
+      ],
+      [
+       "03020",
+       "Arquitetura do Datacenter",
+       []
+      ],
+      [
+       "03008",
+       "Energia elétrica e eficiência energética em Data Center",
+       []
+      ],
+      [
+       "03597",
+       "Projeto de datacenters",
+       []
+      ]
+     ]
+    ],
+    [
+     "Windows Server",
+     [
+      [
+       "02517",
+       "Instalação e ajustes ao sistema operacional Windows Server",
+       []
+      ],
+      [
+       "02519",
+       "Instalação e configuração de servidores Windows Server",
+       []
+      ],
+      [
+       "02256",
+       "Administração e configurações essenciais do Windows Server",
+       []
+      ],
+      [
+       "02255",
+       "Administração e configurações avançadas do Windows Server",
+       []
+      ],
+      [
+       "02367",
+       "Controle de acesso e compartilhamento de arquivos no Windows",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Segurança da informação",
+   "d": "Princípios, normas, ataques, software seguro e continuidade.",
+   "h": 355,
+   "s": [
+    [
+     "Fundamentos e normas",
+     [
+      [
+       "00441",
+       "Princípios da segurança e o ciclo de vida da informação",
+       []
+      ],
+      [
+       "00451",
+       "Normas de Segurança da Informação",
+       [
+        "07768"
+       ]
+      ],
+      [
+       "00278",
+       "Boas práticas em segurança da informação",
+       []
+      ],
+      [
+       "00182",
+       "Gestão de risco",
+       [
+        "05709"
+       ]
+      ]
+     ]
+    ],
+    [
+     "Ameaças e ataques",
+     [
+      [
+       "03598",
+       "Princípios e conceitos de segurança cibernética",
+       []
+      ],
+      [
+       "00319",
+       "Ameaças e vulnerabilidades à Segurança da Informação",
+       []
+      ],
+      [
+       "03599",
+       "Análise de vulnerabilidades e dos tipos de ataques",
+       []
+      ],
+      [
+       "02259",
+       "Análise de ataques cibernéticos",
+       []
+      ],
+      [
+       "02849",
+       "Vulnerabilidades comuns da OWASP",
+       []
+      ],
+      [
+       "02364",
+       "Contramedidas e hardening",
+       []
+      ],
+      [
+       "02325",
+       "Blockchain",
+       []
+      ]
+     ]
+    ],
+    [
+     "Software seguro",
+     [
+      [
+       "07618",
+       "Princípios de software seguro",
+       []
+      ],
+      [
+       "07619",
+       "Questões de implementação para software seguro",
+       []
+      ],
+      [
+       "07620",
+       "Modelagem, implantação e verificação de software seguro",
+       []
+      ],
+      [
+       "07621",
+       "Emprego DevSecOps no ciclo de vida do software",
+       []
+      ]
+     ]
+    ],
+    [
+     "Segurança em nuvem e datacenter",
+     [
+      [
+       "03400",
+       "Segurança na computação em nuvem",
+       []
+      ],
+      [
+       "07402",
+       "Segurança em computação em nuvem",
+       []
+      ],
+      [
+       "03022",
+       "Gestão da segurança do data center",
+       []
+      ]
+     ]
+    ],
+    [
+     "Continuidade e auditoria",
+     [
+      [
+       "00217",
+       "Gestão de continuidade do negócio",
+       []
+      ],
+      [
+       "02778",
+       "Respostas à incidentes e recuperação (disaster recovery)",
+       []
+      ],
+      [
+       "07764",
+       "Auditoria e controle na segurança da informação",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Dados, Big Data e BI",
+   "d": "Análise de dados, Big Data, data warehouse, estatística e marketing orientado a dados.",
+   "h": 45,
+   "s": [
+    [
+     "Fundamentos de dados",
+     [
+      [
+       "04703",
+       "Ciclo da Informação",
+       []
+      ],
+      [
+       "02491",
+       "Fundamentos de Dados Abertos",
+       []
+      ],
+      [
+       "02494",
+       "Fundamentos de Sensoriamento Remoto (Crédito Digital)",
+       []
+      ]
+     ]
+    ],
+    [
+     "BI e apoio à decisão",
+     [
+      [
+       "02140",
+       "Conceito de Business Intelligence e seu componente Data Warehouse",
+       [
+        "04086"
+       ]
+      ],
+      [
+       "04706",
+       "Data warehouse",
+       []
+      ],
+      [
+       "04705",
+       "Sistemas de apoio à decisão",
+       []
+      ],
+      [
+       "04704",
+       "Análise de negócio e inteligência empresarial",
+       []
+      ],
+      [
+       "04707",
+       "Tomada de decisão na indústria",
+       []
+      ]
+     ]
+    ],
+    [
+     "Big Data",
+     [
+      [
+       "02727",
+       "Princípios de Big Data",
+       [
+        "04085"
+       ]
+      ],
+      [
+       "02318",
+       "Big Data Analytics",
+       [
+        "04091"
+       ]
+      ],
+      [
+       "02319",
+       "Big Data e o apoio à decisão",
+       []
+      ],
+      [
+       "02508",
+       "Hadoop e armazenamento de dados",
+       [
+        "04089"
+       ]
+      ],
+      [
+       "02729",
+       "Princípios de desenvolvimento de Spark com Python",
+       [
+        "04090"
+       ]
+      ]
+     ]
+    ],
+    [
+     "Análise e estatística",
+     [
+      [
+       "07622",
+       "Análise de dados quantitativos com Python",
+       []
+      ],
+      [
+       "07623",
+       "Python aplicado à estatística e probabilidade",
+       []
+      ],
+      [
+       "07406",
+       "Software R aplicado à estatística e probabilidade",
+       []
+      ],
+      [
+       "02260",
+       "Análise de dados de Python com Pandas",
+       [
+        "04088"
+       ]
+      ],
+      [
+       "03130",
+       "Aplicações de séries temporais usando Python",
+       []
+      ],
+      [
+       "03137",
+       "Modelagem ARIMA",
+       []
+      ],
+      [
+       "03141",
+       "Modelos de suavização exponencial",
+       []
+      ],
+      [
+       "03824",
+       "Bases de Otimização com o MS Excel",
+       []
+      ],
+      [
+       "04104",
+       "Gráficos e tabelas dinâmicas",
+       []
+      ]
+     ]
+    ],
+    [
+     "Data-driven",
+     [
+      [
+       "07447",
+       "Data-driven strategy",
+       []
+      ],
+      [
+       "07448",
+       "Data-Driven Decision - Decisões Dirigidas por Dados",
+       []
+      ],
+      [
+       "07449",
+       "Data-driven analytics",
+       []
+      ]
+     ]
+    ],
+    [
+     "Dados e programação para outras áreas",
+     [
+      [
+       "04551",
+       "Visão geral de OLAP e do Power BI",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212ge/"
+      ],
+      [
+       "04552",
+       "Modelagem de dados e ETL no Power BI",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212ge/"
+      ],
+      [
+       "04553",
+       "Análise e visualização de dados com o Power BI",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212ge/"
+      ],
+      [
+       "05691",
+       "Business intelligence (BI)",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212ge/"
+      ],
+      [
+       "05692",
+       "Fundamentos de Inteligência Artificial",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212ge/"
+      ],
+      [
+       "05693",
+       "Boas práticas em segurança da informação",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212ge/"
+      ],
+      [
+       "07344",
+       "Pré-programação para quem não é de exatas",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212ge/"
+      ],
+      [
+       "07345",
+       "Introdução à Programação para quem não é de exatas",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212ge/"
+      ],
+      [
+       "07346",
+       "Primeiras práticas na programação em Scratch",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212ge/"
+      ],
+      [
+       "07347",
+       "Dashboards e visualização de dados",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212ge/"
+      ],
+      [
+       "07348",
+       "Introdução à ciência de dados",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212ge/"
+      ],
+      [
+       "07349",
+       "Fundamentos da Ciência de Dados",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212ge/"
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Inteligência artificial",
+   "d": "Aprendizado de máquina, redes neurais, linguagem natural e visão computacional.",
+   "h": 320,
+   "s": [
+    [
+     "Fundamentos e raciocínio",
+     [
+      [
+       "02492",
+       "Fundamentos de inteligência artificial",
+       [
+        "04151"
+       ]
+      ],
+      [
+       "02811",
+       "Técnicas de busca para inteligência artificial",
+       []
+      ],
+      [
+       "02706",
+       "Planejamento em Inteligência Artificial",
+       []
+      ],
+      [
+       "02775",
+       "Representação de conhecimento, raciocínio automático e aprendizado",
+       []
+      ],
+      [
+       "02764",
+       "Raciocínio automático em situações de incerteza e imprecisão",
+       []
+      ],
+      [
+       "07589",
+       "Lógica Fuzzy Aplicada",
+       []
+      ]
+     ]
+    ],
+    [
+     "Redes neurais e deep learning",
+     [
+      [
+       "03138",
+       "Treinamento de Modelos de Aprendizado Supervisionado",
+       [
+        "04161"
+       ]
+      ],
+      [
+       "07393",
+       "Redes neurais artificiais (RNA)",
+       []
+      ],
+      [
+       "03139",
+       "Redes neurais feedforward",
+       [
+        "04163"
+       ]
+      ],
+      [
+       "03136",
+       "Redes neurais convolucionais",
+       [
+        "04164"
+       ]
+      ],
+      [
+       "03140",
+       "Redes Neurais Recorrentes",
+       [
+        "04165"
+       ]
+      ],
+      [
+       "07394",
+       "Deep Learning",
+       []
+      ]
+     ]
+    ],
+    [
+     "Visão, linguagem e voz",
+     [
+      [
+       "07395",
+       "Visão computacional e reconhecimento de imagem",
+       []
+      ],
+      [
+       "03406",
+       "Fundamentos de processamento de linguagem natural",
+       []
+      ],
+      [
+       "03407",
+       "Mineração de Texto",
+       []
+      ],
+      [
+       "03408",
+       "Aplicações de Processamento de Linguagem Natural",
+       []
+      ],
+      [
+       "07396",
+       "Processamento de linguagem natural e reconhecimento de voz",
+       []
+      ],
+      [
+       "03403",
+       "Reconhecimento de voz e processamento de sinal de áudio",
+       []
+      ],
+      [
+       "03405",
+       "Reconhecimento de voz e alinhamento temporal dinâmico",
+       []
+      ],
+      [
+       "03404",
+       "Redes neurais para predição de sinais de voz",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Gestão e governança de TI",
+   "d": "Projetos, serviços de TI, governança, indicadores e estratégia.",
+   "h": 140,
+   "s": [
+    [
+     "Governança",
+     [
+      [
+       "05706",
+       "Governança nas empresas",
+       []
+      ],
+      [
+       "05707",
+       "Governança de TI",
+       []
+      ],
+      [
+       "05708",
+       "Planejamento Estratégico de TI (PETI) e Plano Diretor de TI (PDTI)",
+       []
+      ],
+      [
+       "05710",
+       "Controles de TI",
+       []
+      ]
+     ]
+    ],
+    [
+     "Sistemas e serviços de TI",
+     [
+      [
+       "02248",
+       "Conceito de sistemas e histórico",
+       []
+      ],
+      [
+       "02273",
+       "O enfoque sistêmico",
+       []
+      ],
+      [
+       "02617",
+       "Os sistemas e outras áreas de conhecimento",
+       []
+      ],
+      [
+       "07407",
+       "Sistemas de informação",
+       []
+      ],
+      [
+       "02642",
+       "O Cenário de serviços de TI",
+       []
+      ],
+      [
+       "02744",
+       "Processos do centro de suporte",
+       []
+      ],
+      [
+       "02499",
+       "Gerenciamento operacional",
+       []
+      ]
+     ]
+    ],
+    [
+     "Projetos e portfólio",
+     [
+      [
+       "02504",
+       "Gestão de Stakeholder",
+       []
+      ],
+      [
+       "05665",
+       "Gestão de portfólio",
+       []
+      ],
+      [
+       "05666",
+       "Gerenciamento de Programas",
+       []
+      ]
+     ]
+    ],
+    [
+     "Indicadores e metas",
+     [
+      [
+       "04327",
+       "Introdução aos indicadores de desempenho",
+       []
+      ],
+      [
+       "04301",
+       "Teoria sobre indicadores de desempenho de TI",
+       []
+      ],
+      [
+       "04329",
+       "Tipos de indicadores de desempenho TI",
+       []
+      ],
+      [
+       "04328",
+       "O uso do OKR para alcançar os objetivos estratégicos",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Tecnologia, sociedade e organizações",
+   "d": "Impactos da tecnologia, inovação, criatividade e segurança pública.",
+   "h": 75,
+   "s": [
+    [
+     "Impacto e inovação",
+     [
+      [
+       "00495",
+       "A revolução digital",
+       []
+      ],
+      [
+       "07594",
+       "Tecnologia e sociedade",
+       []
+      ],
+      [
+       "07595",
+       "A organização na era digital",
+       []
+      ],
+      [
+       "07596",
+       "O profissional de tecnologia da informação nas organizações",
+       []
+      ],
+      [
+       "07600",
+       "Era do conhecimento e inovação tecnológica",
+       []
+      ],
+      [
+       "07601",
+       "Criatividade nas organizações",
+       []
+      ]
+     ]
+    ],
+    [
+     "Segurança pública",
+     [
+      [
+       "07597",
+       "Comunicação e segurança pública",
+       []
+      ],
+      [
+       "07598",
+       "Telecomunicações em segurança pública",
+       []
+      ],
+      [
+       "07599",
+       "Tecnologias em segurança pública",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Aulas a classificar",
+   "d": "Aulas cujo título original é genérico (como “Descrição” ou “Demonstração”) e que aguardam classificação por assunto.",
+   "h": 220,
+   "s": [
+    [
+     "Sem título definido",
+     [
+      [
+       "00908",
+       "Projeto e a Organização",
+       []
+      ],
+      [
+       "02149",
+       "Representação textual",
+       []
+      ],
+      [
+       "03121",
+       "Demonstração",
+       []
+      ],
+      [
+       "03160",
+       "Abertura do software",
+       []
+      ],
+      [
+       "03402",
+       "Processamento de alto nível",
+       []
+      ],
+      [
+       "04162",
+       "Descrição",
+       []
+      ],
+      [
+       "04555",
+       "Apresentação: princípios e características",
+       []
+      ]
+     ]
+    ]
+   ]
+  }
+ ]
+}

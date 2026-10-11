@@ -1,0 +1,2965 @@
+{
+ "id": "ge",
+ "n": "Gestão, Negócios e Economia",
+ "d": "Administração, pessoas, marketing, logística, contabilidade, finanças e economia, em trilhas do básico ao avançado.",
+ "h": 335,
+ "base": "https://stecine.azureedge.net/repositorio/00212ge/",
+ "h1": "Trilha de <em>Gestão, Negócios e Economia</em>",
+ "t": [
+  {
+   "n": "Fundamentos de administração",
+   "d": "Teorias da administração, organização, estratégia, cultura, mudança e governança.",
+   "h": 200,
+   "s": [
+    [
+     "Teorias e fundamentos da administração",
+     [
+      [
+       "00503",
+       "Administração na contemporaneidade",
+       []
+      ],
+      [
+       "00547",
+       "As teorias modernas da administração",
+       []
+      ],
+      [
+       "00859",
+       "Os primórdios do pensamento administrativo",
+       []
+      ],
+      [
+       "02353",
+       "Conceitos Básicos das Organizações",
+       []
+      ]
+     ]
+    ],
+    [
+     "A organização, o gestor e a ética",
+     [
+      [
+       "00020",
+       "A organização e suas áreas",
+       [
+        "03947"
+       ]
+      ],
+      [
+       "00221",
+       "Cotidiano do gestor",
+       [
+        "03948"
+       ]
+      ],
+      [
+       "00974",
+       "Títulos de crédito e contratos empresariais",
+       []
+      ],
+      [
+       "01562",
+       "Ética geral e profissional",
+       []
+      ],
+      [
+       "02505",
+       "Gestão Escolar e Práticas de Gestão",
+       []
+      ]
+     ]
+    ],
+    [
+     "Estratégia e planejamento",
+     [
+      [
+       "00263",
+       "Gestão Avançada da Organização",
+       []
+      ],
+      [
+       "00621",
+       "Diagnóstico estratégico",
+       [
+        "02190",
+        "04808"
+       ]
+      ],
+      [
+       "00683",
+       "Ferramentas complementares na gestão estratégica",
+       []
+      ],
+      [
+       "02191",
+       "Formulação Estratégica",
+       [
+        "04809"
+       ]
+      ],
+      [
+       "02851",
+       "Controle de Ações Planejadas",
+       [
+        "04810"
+       ]
+      ]
+     ]
+    ],
+    [
+     "Cultura, clima e gestão da mudança",
+     [
+      [
+       "00614",
+       "Cultura organizacional",
+       [
+        "03332",
+        "04804",
+        "07758",
+        "07864"
+       ]
+      ],
+      [
+       "00870",
+       "Pesquisa de cultura e clima organizacional",
+       [
+        "07759"
+       ]
+      ],
+      [
+       "03237",
+       "Gestão da Mudança e Consultoria Organizacional",
+       [
+        "07757"
+       ]
+      ],
+      [
+       "03329",
+       "Gestão de mudanças",
+       [
+        "04802"
+       ]
+      ],
+      [
+       "03333",
+       "Clima Organizacional",
+       [
+        "04805",
+        "07863"
+       ]
+      ]
+     ]
+    ],
+    [
+     "Governança, responsabilidade social e ESG",
+     [
+      [
+       "00101",
+       "Meio ambiente, social e governança",
+       [
+        "04545"
+       ]
+      ],
+      [
+       "00300",
+       "Responsabilidade social nas organizações",
+       [
+        "04546",
+        "07531"
+       ]
+      ],
+      [
+       "00409",
+       "Ética, Inclusão e diversidade",
+       []
+      ],
+      [
+       "00722",
+       "Governança corporativa e governança de TI",
+       []
+      ],
+      [
+       "00723",
+       "Governança corporativa no Brasil e no mundo",
+       []
+      ],
+      [
+       "07530",
+       "Origens do capitalismo e governança corporativa",
+       []
+      ],
+      [
+       "07532",
+       "Triple bottom line e governança socioambiental (ESG)",
+       []
+      ],
+      [
+       "07639",
+       "Responsabilidade Social Corporativa",
+       []
+      ],
+      [
+       "04659",
+       "Política de responsabilidade social",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212hu/"
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Gestão de pessoas e liderança",
+   "d": "Recursos humanos, desempenho, liderança, negociação, carreira e segurança do trabalho.",
+   "h": 224,
+   "s": [
+    [
+     "Fundamentos de gestão de pessoas",
+     [
+      [
+       "00085",
+       "As pessoas nas organizações",
+       []
+      ],
+      [
+       "01194",
+       "Gestão dos recursos humanos e organização em serviços",
+       []
+      ],
+      [
+       "01267",
+       "A implantação da consultoria de RH",
+       []
+      ],
+      [
+       "01378",
+       "Benefícios, vantagens e facilidades",
+       []
+      ],
+      [
+       "02223",
+       "A gestão estratégica de pessoas e o ambiente competitivo",
+       []
+      ],
+      [
+       "02588",
+       "Manutenção de Pessoas",
+       [
+        "07734"
+       ]
+      ],
+      [
+       "02801",
+       "Sistemas de Informações de Gestão de Pessoas",
+       []
+      ],
+      [
+       "03784",
+       "Planejamento estratégico e o planejamento de RH",
+       []
+      ],
+      [
+       "07733",
+       "Gestão por competências",
+       []
+      ],
+      [
+       "07443",
+       "Diversidade e inclusão no ambiente corporativo",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212hu/"
+      ]
+     ]
+    ],
+    [
+     "Recrutamento e seleção",
+     [
+      [
+       "00004",
+       "Indicadores de provimento de pessoal",
+       []
+      ],
+      [
+       "00090",
+       "Redes sociais em processo de recrutamento e seleção",
+       []
+      ],
+      [
+       "00230",
+       "Perfis comportamentais e processos seletivos",
+       []
+      ],
+      [
+       "00443",
+       "Recrutamento de pessoal",
+       [
+        "05295"
+       ]
+      ],
+      [
+       "00458",
+       "Seleção de pessoal",
+       []
+      ],
+      [
+       "05296",
+       "Seleção de pessoal - PIP",
+       []
+      ]
+     ]
+    ],
+    [
+     "Gestão de desempenho",
+     [
+      [
+       "00143",
+       "Fundamentos da gestão de desempenho",
+       [
+        "05297"
+       ]
+      ],
+      [
+       "00165",
+       "Gestão do desempenho de equipes",
+       [
+        "07865"
+       ]
+      ],
+      [
+       "00191",
+       "Definição e mensuração de GD",
+       []
+      ],
+      [
+       "00372",
+       "Gestão de desempenho: aspectos individuais",
+       []
+      ],
+      [
+       "00435",
+       "Coleta de dados e implementação de gestão de desempenho",
+       []
+      ],
+      [
+       "00607",
+       "Indicadores e Desempenho",
+       [
+        "04812"
+       ]
+      ],
+      [
+       "03818",
+       "Fundamentos da gestão do desempenho",
+       [
+        "04811"
+       ]
+      ],
+      [
+       "04813",
+       "Gestão de Desempenho de Processos",
+       []
+      ],
+      [
+       "05300",
+       "Gestão à vista - comunicando metas e resultados",
+       []
+      ],
+      [
+       "07527",
+       "A evolução do gerenciamento de desempenho",
+       []
+      ],
+      [
+       "07528",
+       "A importância da gestão do desempenho para as organizações",
+       []
+      ],
+      [
+       "07529",
+       "Os modelos de gestão do desempenho",
+       []
+      ]
+     ]
+    ],
+    [
+     "Liderança e equipes de alta performance",
+     [
+      [
+       "00252",
+       "Liderança, poder e autoridade",
+       [
+        "05299"
+       ]
+      ],
+      [
+       "00375",
+       "Liderança para alto desempenho",
+       [
+        "07721"
+       ]
+      ],
+      [
+       "00376",
+       "Desenvolvimento de equipes de alta performance",
+       [
+        "07736"
+       ]
+      ],
+      [
+       "01784",
+       "Modelos contemporâneos de liderança",
+       [
+        "07738"
+       ]
+      ],
+      [
+       "01785",
+       "Modelos tradicionais de liderança",
+       [
+        "07737"
+       ]
+      ],
+      [
+       "03900",
+       "Liderança na Complexidade",
+       [
+        "04803",
+        "07735",
+        "07862"
+       ]
+      ],
+      [
+       "07524",
+       "Estilos de liderança e seus desafios",
+       []
+      ],
+      [
+       "07525",
+       "Gestão de equipes de alto desempenho",
+       []
+      ]
+     ]
+    ],
+    [
+     "Motivação, negociação e decisão",
+     [
+      [
+       "00091",
+       "Comunicação no ambiente de trabalho",
+       []
+      ],
+      [
+       "00283",
+       "A motivação e o trabalho",
+       [
+        "03307",
+        "04806",
+        "05298"
+       ]
+      ],
+      [
+       "01833",
+       "Os conflitos e relações de trabalho",
+       []
+      ],
+      [
+       "07526",
+       "Negociação e gestão de conflitos",
+       []
+      ],
+      [
+       "07533",
+       "Fundamentos de negociação e contexto contemporâneo",
+       []
+      ],
+      [
+       "07534",
+       "Estratégias e táticas da negociação",
+       []
+      ],
+      [
+       "07535",
+       "Gestão de conflitos",
+       []
+      ],
+      [
+       "07536",
+       "A estrutura da tomada de decisão",
+       []
+      ],
+      [
+       "07537",
+       "Tomada de decisão em cenário de incerteza",
+       []
+      ]
+     ]
+    ],
+    [
+     "Carreira, produtividade e imagem pessoal",
+     [
+      [
+       "00019",
+       "Mercado de trabalho",
+       []
+      ],
+      [
+       "02270",
+       "Aplicação e Desenvolvimento Humano",
+       []
+      ],
+      [
+       "02601",
+       "Gestão de carreira e mercado de trabalho",
+       []
+      ],
+      [
+       "02904",
+       "Gestão do tempo: eficácia e produtividade",
+       [
+        "04559",
+        "04918"
+       ]
+      ],
+      [
+       "03319",
+       "Mercado de trabalho e carreira",
+       [
+        "04561"
+       ]
+      ],
+      [
+       "03955",
+       "Gestão do tempo",
+       []
+      ],
+      [
+       "03956",
+       "Saúde pessoal",
+       []
+      ],
+      [
+       "07636",
+       "Gestão de Carreira e Desenvolvimento Profissional",
+       []
+      ],
+      [
+       "07637",
+       "Produtividade e alta performance: como gerir melhor o tempo",
+       []
+      ],
+      [
+       "07722",
+       "Fundamentos do Coaching",
+       []
+      ],
+      [
+       "07723",
+       "Práticas do coaching",
+       []
+      ],
+      [
+       "07739",
+       "Reputação e crise de imagem",
+       []
+      ],
+      [
+       "07740",
+       "Marketing pessoal e gestão da autoimagem",
+       []
+      ],
+      [
+       "07741",
+       "Comunicação interpessoal e imagem",
+       []
+      ],
+      [
+       "07742",
+       "Redes sociais e cuidados necessários",
+       []
+      ],
+      [
+       "03790",
+       "Desenvolvimento de talentos",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212hu/"
+      ]
+     ]
+    ],
+    [
+     "Saúde e segurança do trabalho",
+     [
+      [
+       "00092",
+       "Segurança do trabalho",
+       [
+        "03951"
+       ]
+      ],
+      [
+       "00205",
+       "Saúde ocupacional",
+       [
+        "03952"
+       ]
+      ],
+      [
+       "00211",
+       "Indicadores em saúde, segurança e qualidade de vida no trabalho",
+       [
+        "03953"
+       ]
+      ],
+      [
+       "00406",
+       "Qualidade de vida no trabalho (QVT)",
+       []
+      ],
+      [
+       "00448",
+       "Evolução histórica da Segurança e Saúde Ocupacional",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Processos, qualidade e projetos",
+   "d": "Gestão de processos, qualidade, projetos, agilidade e melhoria contínua.",
+   "h": 248,
+   "s": [
+    [
+     "Gestão de processos",
+     [
+      [
+       "00034",
+       "Metodologia de Gerenciamento de Processos",
+       [
+        "07852"
+       ]
+      ],
+      [
+       "00057",
+       "Padrões de conformidade e processos",
+       [
+        "04825",
+        "07855"
+       ]
+      ],
+      [
+       "00076",
+       "Implementação e acompanhamento da gestão de processos",
+       [
+        "07853"
+       ]
+      ],
+      [
+       "00474",
+       "Fundamentos da gestão de processos",
+       [
+        "04824",
+        "07851"
+       ]
+      ],
+      [
+       "01202",
+       "Avaliação de desempenho dos processos",
+       [
+        "07854"
+       ]
+      ]
+     ]
+    ],
+    [
+     "Gestão da qualidade",
+     [
+      [
+       "00052",
+       "Histórico e definições em qualidade",
+       []
+      ],
+      [
+       "00073",
+       "Qualidade em serviços e competitividade",
+       [
+        "05302"
+       ]
+      ],
+      [
+       "00145",
+       "Gestão da qualidade nas operações de serviços",
+       []
+      ],
+      [
+       "00256",
+       "Princípios e abordagens da questão da qualidade",
+       []
+      ],
+      [
+       "00360",
+       "Atributos e modelos em qualidade",
+       [
+        "05305"
+       ]
+      ],
+      [
+       "00374",
+       "Ferramentas quantitativas da qualidade",
+       [
+        "05304"
+       ]
+      ],
+      [
+       "00390",
+       "Ferramentas qualitativas da qualidade",
+       [
+        "05303"
+       ]
+      ],
+      [
+       "01349",
+       "Aspectos introdutórios da auditoria operacional",
+       [
+        "05307"
+       ]
+      ],
+      [
+       "01624",
+       "Gestão da Qualidade em Bens de Serviços",
+       [
+        "04124"
+       ]
+      ],
+      [
+       "05301",
+       "Princípios e abordagens da gestão da qualidade",
+       []
+      ]
+     ]
+    ],
+    [
+     "Gestão de projetos",
+     [
+      [
+       "00198",
+       "Avaliação de projetos: análise individual",
+       [
+        "02196"
+       ]
+      ],
+      [
+       "00408",
+       "Avaliação de projetos: análise comparativa",
+       [
+        "02197"
+       ]
+      ],
+      [
+       "02182",
+       "Projetos e a organização",
+       [
+        "04826",
+        "07856"
+       ]
+      ],
+      [
+       "02189",
+       "Gerenciamento de custos e equipes em projetos",
+       [
+        "04829",
+        "07858"
+       ]
+      ],
+      [
+       "03241",
+       "Diagnóstico e planejamento de projetos sociais",
+       []
+      ],
+      [
+       "03934",
+       "Análise de Riscos e Qualidade",
+       [
+        "04828",
+        "07859"
+       ]
+      ],
+      [
+       "03935",
+       "Organizando o projeto no tempo",
+       [
+        "04827",
+        "07857"
+       ]
+      ],
+      [
+       "07861",
+       "Projetos em postos de serviço",
+       []
+      ]
+     ]
+    ],
+    [
+     "Agilidade e melhoria contínua",
+     [
+      [
+       "02606",
+       "Metodologia Seis Sigma",
+       [
+        "04554"
+       ]
+      ],
+      [
+       "03901",
+       "Metodologias Ágeis",
+       []
+      ],
+      [
+       "05306",
+       "Gestão de equipes e melhoria contínua",
+       []
+      ],
+      [
+       "07104",
+       "Agilidade",
+       []
+      ],
+      [
+       "07860",
+       "Projeto ágil",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Marketing e vendas",
+   "d": "Fundamentos, consumidor, marketing digital, serviços, marca, varejo e vendas.",
+   "h": 272,
+   "s": [
+    [
+     "Fundamentos de marketing",
+     [
+      [
+       "00127",
+       "Sustentabilidade e ética no Marketing",
+       []
+      ],
+      [
+       "00141",
+       "Conceitos de Marketing",
+       []
+      ],
+      [
+       "01470",
+       "Definições e características do marketing de bens e serviços",
+       [
+        "04122"
+       ]
+      ]
+     ]
+    ],
+    [
+     "Consumidor e pesquisa de mercado",
+     [
+      [
+       "00071",
+       "Comportamento de compra do consumidor",
+       []
+      ],
+      [
+       "00098",
+       "Segmentação de mercado e comportamento do consumidor",
+       []
+      ],
+      [
+       "00106",
+       "O papel da pesquisa de marketing para entender o consumidor",
+       []
+      ],
+      [
+       "00292",
+       "Tópicos atuais em comportamento do consumidor",
+       [
+        "04537"
+       ]
+      ],
+      [
+       "00884",
+       "Por que fazer pesquisa de mercado?",
+       []
+      ],
+      [
+       "01761",
+       "Mercado consumidor",
+       []
+      ],
+      [
+       "04536",
+       "Comportamento do consumidor",
+       []
+      ],
+      [
+       "04538",
+       "Segmentação de mercado",
+       []
+      ]
+     ]
+    ],
+    [
+     "Marketing digital e comunicação",
+     [
+      [
+       "00033",
+       "Comunicação Integrada de Marketing",
+       []
+      ],
+      [
+       "00094",
+       "Neuromarketing",
+       [
+        "05689"
+       ]
+      ],
+      [
+       "00338",
+       "Marketing em ambientes virtuais",
+       [
+        "05687"
+       ]
+      ],
+      [
+       "00481",
+       "Gestão integrada de canais de marketing",
+       []
+      ],
+      [
+       "01496",
+       "Do tradicional ao digital",
+       []
+      ],
+      [
+       "02328",
+       "Brand publishing na era digital",
+       [
+        "04112"
+       ]
+      ],
+      [
+       "02918",
+       "O Marketing Onicanal",
+       []
+      ],
+      [
+       "05688",
+       "Desenvolvimento do projeto experimental onicanal",
+       []
+      ]
+     ]
+    ],
+    [
+     "Marketing orientado a dados",
+     [
+      [
+       "02496",
+       "Fundamentos do marketing digital",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212ti/"
+      ],
+      [
+       "02592",
+       "Marketing orientado a dados",
+       [
+        "03995"
+       ],
+       "https://stecine.azureedge.net/repositorio/00212ti/"
+      ],
+      [
+       "02589",
+       "Marketing Ágil",
+       [
+        "03994"
+       ],
+       "https://stecine.azureedge.net/repositorio/00212ti/"
+      ],
+      [
+       "02610",
+       "Métricas para melhorar o desempenho de marketing",
+       [
+        "04815"
+       ],
+       "https://stecine.azureedge.net/repositorio/00212ti/"
+      ],
+      [
+       "04814",
+       "Conceitos e ferramentas de CRO",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212ti/"
+      ],
+      [
+       "04816",
+       "Construção de Relatórios para análise de CRO",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212ti/"
+      ]
+     ]
+    ],
+    [
+     "Serviços e relacionamento",
+     [
+      [
+       "00037",
+       "Relacionamento com o cliente em serviços",
+       [
+        "04125"
+       ]
+      ],
+      [
+       "00060",
+       "Fundamentos dos serviços",
+       [
+        "03949"
+       ]
+      ],
+      [
+       "00271",
+       "Gerenciamento de operações de serviços",
+       []
+      ],
+      [
+       "00444",
+       "Distribuição de Serviços por meio de canais físicos e eletrônicos",
+       []
+      ]
+     ]
+    ],
+    [
+     "Marca, varejo e publicidade",
+     [
+      [
+       "00346",
+       "Posicionamento e valores de marca",
+       [
+        "04123"
+       ]
+      ],
+      [
+       "00605",
+       "Contextualizando o varejo",
+       []
+      ],
+      [
+       "02235",
+       "A publicidade como negócio",
+       []
+      ],
+      [
+       "02916",
+       "Publicidade e varejo",
+       []
+      ],
+      [
+       "03142",
+       "Varejo 4.0 e as tecnologias emergentes",
+       []
+      ]
+     ]
+    ],
+    [
+     "Vendas",
+     [
+      [
+       "01750",
+       "Marketing como plataforma de vendas",
+       []
+      ],
+      [
+       "01870",
+       "Previsão e planejamento de vendas - PIP",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Logística, suprimentos e comércio exterior",
+   "d": "Cadeia de suprimentos, estoques, transporte, comércio e internacionalização.",
+   "h": 296,
+   "s": [
+    [
+     "Logística e cadeia de suprimentos",
+     [
+      [
+       "00129",
+       "Cadeia de suprimentos 4.0",
+       []
+      ],
+      [
+       "00345",
+       "Logística integrada e gerenciamento da cadeia de suprimentos",
+       []
+      ],
+      [
+       "00615",
+       "Custos logísticos",
+       []
+      ],
+      [
+       "00811",
+       "Minimização dos custos logísticos",
+       []
+      ],
+      [
+       "01739",
+       "Logística em ambientes virtuais",
+       []
+      ],
+      [
+       "04263",
+       "Logística e gerenciamento da cadeia de abastecimento",
+       []
+      ],
+      [
+       "04264",
+       "Distribuição física e canais de distribuição",
+       []
+      ],
+      [
+       "04265",
+       "Operadores logísticos",
+       []
+      ],
+      [
+       "04266",
+       "Custeio ABC aplicado à cadeia de suprimentos",
+       []
+      ]
+     ]
+    ],
+    [
+     "Compras, estoques e armazenagem",
+     [
+      [
+       "00166",
+       "Classificação de materiais e bens patrimoniais",
+       []
+      ],
+      [
+       "00342",
+       "Gestão de bens patrimoniais",
+       [
+        "03964"
+       ]
+      ],
+      [
+       "00344",
+       "Armazenagem: instalações, estratégias e equipamentos",
+       []
+      ],
+      [
+       "00370",
+       "Gestão de Estoque",
+       []
+      ],
+      [
+       "00984",
+       "Unidades armazenadoras de materiais",
+       []
+      ],
+      [
+       "01195",
+       "Gestão de Compras",
+       []
+      ],
+      [
+       "01196",
+       "Gestão de armazenagem",
+       []
+      ]
+     ]
+    ],
+    [
+     "Transporte e portos",
+     [
+      [
+       "00104",
+       "Gestão de transportes",
+       []
+      ],
+      [
+       "02294",
+       "Aspectos econômicos e gestão portuária",
+       []
+      ],
+      [
+       "02670",
+       "Operações de transporte internacional",
+       []
+      ],
+      [
+       "02671",
+       "Organização dos Portos e Terminais Portuários",
+       []
+      ],
+      [
+       "07368",
+       "Transporte marítimo internacional",
+       []
+      ],
+      [
+       "07369",
+       "Transporte aéreo internacional",
+       []
+      ],
+      [
+       "07370",
+       "Transporte terrestre internacional",
+       []
+      ],
+      [
+       "07756",
+       "Transporte internacional",
+       []
+      ]
+     ]
+    ],
+    [
+     "Comércio e negociação internacional",
+     [
+      [
+       "00175",
+       "Nomenclatura e roteiros de exportação e importação",
+       []
+      ],
+      [
+       "00193",
+       "Incoterms",
+       [
+        "07754"
+       ]
+      ],
+      [
+       "00339",
+       "O quadro institucional do comércio exterior brasileiro",
+       []
+      ],
+      [
+       "00354",
+       "Pagamentos internacionais",
+       []
+      ],
+      [
+       "01036",
+       "Bases da logística internacional",
+       []
+      ],
+      [
+       "01304",
+       "Ambiente internacional de pagamentos",
+       [
+        "07755"
+       ]
+      ],
+      [
+       "01673",
+       "Infraestrutura para logística internacional",
+       []
+      ],
+      [
+       "07752",
+       "Comércio internacional",
+       []
+      ],
+      [
+       "07753",
+       "Negociação internacional",
+       []
+      ]
+     ]
+    ],
+    [
+     "Internacionalização de empresas",
+     [
+      [
+       "03242",
+       "Aspectos teóricos da internacionalização de empresas",
+       []
+      ],
+      [
+       "03243",
+       "Estratégias de internacionalização",
+       []
+      ],
+      [
+       "03244",
+       "Cadeias globais de valor",
+       []
+      ],
+      [
+       "03245",
+       "Internacionalização em países emergentes",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Contabilidade e controladoria",
+   "d": "Fundamentos contábeis, demonstrações, custos, normas internacionais, tributos e orçamento.",
+   "h": 320,
+   "s": [
+    [
+     "Fundamentos contábeis",
+     [
+      [
+       "00018",
+       "Evolução histórica da contabilidade",
+       []
+      ],
+      [
+       "00096",
+       "Teorias aplicadas em contabilidade",
+       []
+      ],
+      [
+       "00314",
+       "A técnica contábil",
+       []
+      ],
+      [
+       "00428",
+       "Operações contábeis - parte II",
+       []
+      ],
+      [
+       "00849",
+       "Operações com mercadorias",
+       []
+      ],
+      [
+       "00850",
+       "Operações contábeis - parte I",
+       []
+      ]
+     ]
+    ],
+    [
+     "Demonstrações contábeis e análise",
+     [
+      [
+       "00022",
+       "Demonstrações contábeis e tipos de sociedades",
+       []
+      ],
+      [
+       "00472",
+       "Estrutura conceitual para relatório financeiro",
+       []
+      ],
+      [
+       "00740",
+       "Indicadores da rentabilidade e situação econômica das empresas",
+       []
+      ],
+      [
+       "00749",
+       "Introdução à análise de demonstrativos financeiros",
+       [
+        "03298",
+        "04764",
+        "07873"
+       ]
+      ],
+      [
+       "01399",
+       "Características das demonstrações contábeis",
+       []
+      ],
+      [
+       "01471",
+       "Demonstrações patrimoniais e financeiras",
+       []
+      ],
+      [
+       "01760",
+       "Mensurações de ativos e passivos e demonstrações de resultado",
+       []
+      ],
+      [
+       "03296",
+       "Demonstrações Contábeis",
+       []
+      ],
+      [
+       "03925",
+       "Indicadores da rentabilidade e situação econômica de empresas",
+       []
+      ]
+     ]
+    ],
+    [
+     "Contabilidade de custos",
+     [
+      [
+       "00068",
+       "Precificação a partir da contabilidade gerencial",
+       []
+      ],
+      [
+       "00122",
+       "Tomada de decisão: relação custo X volume X lucro",
+       []
+      ],
+      [
+       "00424",
+       "Contabilidade gerencial: fundamentos e custos",
+       []
+      ],
+      [
+       "00425",
+       "Controle dos estoques e sistemas de custeio",
+       [
+        "02175"
+       ]
+      ],
+      [
+       "00519",
+       "Análise de custos",
+       []
+      ],
+      [
+       "00719",
+       "Gestão de custos",
+       []
+      ],
+      [
+       "01438",
+       "Contextualização da Contabilidade de Custos",
+       [
+        "04126"
+       ]
+      ],
+      [
+       "01465",
+       "Custo-padrão e produção conjunta",
+       [
+        "04127"
+       ]
+      ],
+      [
+       "01467",
+       "Custos de aquisição e controle de estoque",
+       [
+        "04128"
+       ]
+      ],
+      [
+       "01773",
+       "Métodos de custeamento",
+       [
+        "04129"
+       ]
+      ]
+     ]
+    ],
+    [
+     "Contabilidade societária e internacional",
+     [
+      [
+       "02348",
+       "Combinação de Negócio",
+       []
+      ],
+      [
+       "02557",
+       "Investimentos Permanentes e Temporários",
+       []
+      ],
+      [
+       "03233",
+       "Reorganização societária: combinação de negócios – NBC TG15",
+       []
+      ],
+      [
+       "03234",
+       "Demonstrações Consolidadas - NBC TG 36",
+       []
+      ],
+      [
+       "03235",
+       "MEP, Provisões, Passivos e Ativos Contingentes",
+       []
+      ],
+      [
+       "03236",
+       "Taxas de câmbio e conversão das demonstrações contábeis",
+       []
+      ],
+      [
+       "03897",
+       "Contabilidade societária e análise de demonstrações",
+       []
+      ],
+      [
+       "04291",
+       "Estrutura conceitual da contabilidade internacional",
+       []
+      ],
+      [
+       "04292",
+       "Ativos em contabilidade internacional",
+       []
+      ],
+      [
+       "04293",
+       "Tópicos especiais em IFRS",
+       []
+      ],
+      [
+       "04294",
+       "Normas gerais de contabilidade internacional",
+       []
+      ],
+      [
+       "04772",
+       "Fusões e aquisições",
+       []
+      ]
+     ]
+    ],
+    [
+     "Setor público e perícia contábil",
+     [
+      [
+       "01436",
+       "Contabilidade aplicada ao setor público",
+       []
+      ],
+      [
+       "04287",
+       "A Perícia Contábil",
+       []
+      ],
+      [
+       "04288",
+       "Normas técnicas e profissionais do perito",
+       []
+      ],
+      [
+       "04289",
+       "Laudo, parecer e os mecanismos de mediação de conflitos",
+       []
+      ],
+      [
+       "04290",
+       "Aplicações da perícia contábil",
+       []
+      ]
+     ]
+    ],
+    [
+     "Contabilidade tributária e rotinas fiscais",
+     [
+      [
+       "02330",
+       "Cálculo e contabilização da folha de pagamento",
+       []
+      ],
+      [
+       "02362",
+       "Constituição abertura encerramento de empresas",
+       []
+      ],
+      [
+       "02375",
+       "Declaração de Informações PF e PJ no Sistema Informatizado",
+       []
+      ],
+      [
+       "02472",
+       "Formalidades da escrituração contábil no sistema informatizado",
+       []
+      ],
+      [
+       "02528",
+       "Introdução à Contabilidade Tributária Internacional",
+       []
+      ],
+      [
+       "02560",
+       "Legislação aplicada",
+       []
+      ],
+      [
+       "02783",
+       "Sistemas de Rotinas Contábeis, Fiscal e de Folha de Pagamento",
+       []
+      ],
+      [
+       "02795",
+       "Sistema Público de Escrituração Fiscal e Certificação Digital",
+       []
+      ],
+      [
+       "02802",
+       "Sistemas de Tributação e Gerenciamento Tributário",
+       []
+      ],
+      [
+       "03386",
+       "Introdução à contabilidade e à legislação tributárias",
+       []
+      ],
+      [
+       "03387",
+       "Tributos sobre patrimônio",
+       []
+      ],
+      [
+       "03388",
+       "Tributos sobre o consumo",
+       []
+      ]
+     ]
+    ],
+    [
+     "Controladoria e orçamento",
+     [
+      [
+       "03389",
+       "Planejamento e controle na gestão empresarial",
+       [
+        "03912"
+       ]
+      ],
+      [
+       "03390",
+       "Planejamento orçamentário",
+       []
+      ],
+      [
+       "03391",
+       "Projeções Orçamentárias",
+       [
+        "03914"
+       ]
+      ],
+      [
+       "03392",
+       "Controles orçamentários",
+       [
+        "03915"
+       ]
+      ],
+      [
+       "03913",
+       "Planos orçamentários operacionais",
+       []
+      ],
+      [
+       "04297",
+       "Controladoria e sistemas de informação gerencial",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Finanças e mercado financeiro",
+   "d": "Matemática financeira, finanças corporativas, mercado de capitais, derivativos, seguros e fintechs.",
+   "h": 344,
+   "s": [
+    [
+     "Matemática financeira",
+     [
+      [
+       "00026",
+       "Introdução à Matemática Financeira: taxas, juros e descontos",
+       [
+        "03128",
+        "05319"
+       ]
+      ],
+      [
+       "00185",
+       "Sistemas de Amortização",
+       [
+        "02195"
+       ]
+      ]
+     ]
+    ],
+    [
+     "Finanças corporativas",
+     [
+      [
+       "00045",
+       "O papel do gestor em finanças",
+       [
+        "07869"
+       ]
+      ],
+      [
+       "00148",
+       "Planejamento e controle em finanças",
+       [
+        "07870"
+       ]
+      ],
+      [
+       "00151",
+       "Conceitos básicos de finanças",
+       [
+        "03299",
+        "07866"
+       ]
+      ],
+      [
+       "00176",
+       "Gestão de recursos financeiros",
+       [
+        "07867"
+       ]
+      ],
+      [
+       "00304",
+       "Planejamento financeiro e sustentabilidade",
+       []
+      ],
+      [
+       "00320",
+       "Movimentações financeiras",
+       [
+        "07868"
+       ]
+      ],
+      [
+       "00626",
+       "Dimensionamento do capital de giro",
+       [
+        "03297"
+       ]
+      ],
+      [
+       "02439",
+       "Estrutura de Capital e Remuneração do Capital Próprio",
+       [
+        "07751"
+       ]
+      ],
+      [
+       "03899",
+       "Finanças Corporativas",
+       []
+      ],
+      [
+       "03923",
+       "Análise financeira de curto prazo",
+       []
+      ],
+      [
+       "03926",
+       "Planejamento Financeiro e Gestão de Risco",
+       []
+      ]
+     ]
+    ],
+    [
+     "Sistema financeiro e crédito",
+     [
+      [
+       "00077",
+       "Sistema Financeiro Nacional",
+       []
+      ],
+      [
+       "00219",
+       "Panorama sobre o sistema financeiro",
+       []
+      ],
+      [
+       "00238",
+       "Teorias das instituições financeiras",
+       []
+      ],
+      [
+       "00310",
+       "Mercados financeiros",
+       [
+        "05699"
+       ]
+      ],
+      [
+       "00471",
+       "Produtos bancários",
+       [
+        "04543"
+       ]
+      ],
+      [
+       "00836",
+       "O mercado de crédito",
+       [
+        "05698"
+       ]
+      ],
+      [
+       "02211",
+       "Arquitetura Financeira Contemporânea",
+       []
+      ]
+     ]
+    ],
+    [
+     "Mercado de capitais e investimentos",
+     [
+      [
+       "00835",
+       "O mercado de capitais e a desintermediação financeira",
+       []
+      ],
+      [
+       "03924",
+       "Análise Fundamentalista e Múltiplos",
+       []
+      ],
+      [
+       "04542",
+       "Fundos de investimento",
+       []
+      ],
+      [
+       "04947",
+       "Conceito de valor mobiliário e regulação do mercado de capitais",
+       []
+      ],
+      [
+       "04948",
+       "Ofertas públicas de valores mobiliários",
+       []
+      ],
+      [
+       "05701",
+       "Estrutura e funcionamento no mercado de capitais",
+       []
+      ],
+      [
+       "05702",
+       "Fundos de investimentos estruturados",
+       []
+      ]
+     ]
+    ],
+    [
+     "Câmbio, derivativos e risco",
+     [
+      [
+       "00834",
+       "O Mercado Cambial",
+       [
+        "05668"
+       ]
+      ],
+      [
+       "03327",
+       "Derivativos I: termos, futuros e swaps",
+       [
+        "05703"
+       ]
+      ],
+      [
+       "05669",
+       "Mercado de câmbio no Brasil: à vista e derivativos",
+       []
+      ],
+      [
+       "05670",
+       "Aspectos econômicos da taxa de câmbio",
+       []
+      ],
+      [
+       "05704",
+       "Derivativos II: Opções",
+       []
+      ],
+      [
+       "05705",
+       "Derivativos III: modelo binomial e gregas",
+       []
+      ],
+      [
+       "07603",
+       "Riscos Financeiros",
+       []
+      ],
+      [
+       "07604",
+       "Gestão de risco no mercado financeiro",
+       []
+      ]
+     ]
+    ],
+    [
+     "Seguros e previdência",
+     [
+      [
+       "03785",
+       "Premissas da ciência atuarial e sua prática",
+       []
+      ],
+      [
+       "03786",
+       "Estrutura do mercado segurador e da Previdência Social",
+       []
+      ],
+      [
+       "03787",
+       "Contabilização atuarial de seguros",
+       []
+      ],
+      [
+       "03788",
+       "Ferramentas de apoio à gestão das seguradoras",
+       []
+      ],
+      [
+       "05671",
+       "Seguros – uma visão geral",
+       []
+      ],
+      [
+       "05672",
+       "Seguros - produtos e mercado",
+       []
+      ],
+      [
+       "07746",
+       "Regime Geral de Previdência Social",
+       []
+      ]
+     ]
+    ],
+    [
+     "Fintechs, blockchain e criptoativos",
+     [
+      [
+       "04544",
+       "Fintechs",
+       []
+      ],
+      [
+       "04941",
+       "(R)evoluções industriais e web 3.0",
+       []
+      ],
+      [
+       "04942",
+       "Noções de redes de computadores e criptografia",
+       []
+      ],
+      [
+       "04943",
+       "Blockchain, mecanismos de consenso, ledger e descentralização",
+       []
+      ],
+      [
+       "04944",
+       "Meios eletrônicos de pagamento e fintechs",
+       []
+      ],
+      [
+       "04945",
+       "O dinheiro no sistema financeiro tradicional e o mundo tokenizado",
+       []
+      ],
+      [
+       "04946",
+       "Infraestruturas de mercado e o trilema cripto",
+       []
+      ],
+      [
+       "04949",
+       "Contraste entre bolsas de valores e exchanges de criptoativos",
+       []
+      ],
+      [
+       "04950",
+       "Cypherpunk e cultura digital",
+       []
+      ],
+      [
+       "04957",
+       "Proteção de dados e blockchain",
+       []
+      ]
+     ]
+    ],
+    [
+     "Finanças pessoais e comportamentais",
+     [
+      [
+       "03957",
+       "Finanças pessoais",
+       []
+      ],
+      [
+       "07538",
+       "Finanças comportamentais",
+       []
+      ],
+      [
+       "02900",
+       "Finanças pessoais e educação financeira",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212hu/"
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Economia",
+   "d": "Microeconomia, macroeconomia, crescimento, economia brasileira, economia internacional e métodos.",
+   "h": 8,
+   "s": [
+    [
+     "Teoria econômica e microeconomia",
+     [
+      [
+       "00158",
+       "Introdução à Teoria Econômica",
+       [
+        "07872"
+       ]
+      ],
+      [
+       "00259",
+       "Mercado e formação de preços",
+       [
+        "07874"
+       ]
+      ],
+      [
+       "00285",
+       "Introdução à microeconomia",
+       []
+      ],
+      [
+       "00321",
+       "Estrutura de mercado e formação de preços",
+       []
+      ],
+      [
+       "00480",
+       "Conceitos básicos de Economia",
+       [
+        "07871"
+       ]
+      ],
+      [
+       "02285",
+       "Introdução à Economia Política",
+       []
+      ],
+      [
+       "02660",
+       "Bens e serviços e o consumidor",
+       []
+      ]
+     ]
+    ],
+    [
+     "Macroeconomia e política econômica",
+     [
+      [
+       "00065",
+       "Introdução à regulamentação econômica",
+       []
+      ],
+      [
+       "00089",
+       "Política Monetária",
+       []
+      ],
+      [
+       "00095",
+       "Política macroeconômica",
+       [
+        "04549"
+       ]
+      ],
+      [
+       "00225",
+       "Contas Nacionais e Indicadores Econômicos",
+       [
+        "04548"
+       ]
+      ],
+      [
+       "03902",
+       "Nova economia e cenários econômicos",
+       []
+      ],
+      [
+       "05682",
+       "Cenários macroeconômicos de curto prazo (conjuntura)",
+       []
+      ],
+      [
+       "05683",
+       "Modelos de política fiscal e monetária",
+       []
+      ],
+      [
+       "05684",
+       "Cenários macroeconômicos de longo prazo",
+       []
+      ]
+     ]
+    ],
+    [
+     "Crescimento e desenvolvimento",
+     [
+      [
+       "02380",
+       "Aplicação empírica de modelos de crescimento econômico",
+       []
+      ],
+      [
+       "02516",
+       "Desigualdade socioeconômica e impacto sobre crescimento",
+       []
+      ],
+      [
+       "02541",
+       "Introdução à Teoria de Crescimento Econômico, Flutuações e Desigualdade",
+       []
+      ],
+      [
+       "02618",
+       "Crescimento econômico e acumulação de capital",
+       []
+      ],
+      [
+       "02809",
+       "Modelo de Solow",
+       []
+      ],
+      [
+       "03111",
+       "Crescimento endógeno",
+       []
+      ]
+     ]
+    ],
+    [
+     "Economia brasileira e história",
+     [
+      [
+       "00732",
+       "História do pensamento econômico brasileiro latino-americano",
+       []
+      ],
+      [
+       "02402",
+       "Economia brasileira no século 21: 2003 em diante",
+       []
+      ],
+      [
+       "02630",
+       "Nova República e estabilização monetária: 1985 a 2002",
+       []
+      ],
+      [
+       "02699",
+       "Período Democrático no Pós-Guerra: 1945 a 1964",
+       []
+      ],
+      [
+       "02768",
+       "Regime Militar: 1964 a 1985",
+       []
+      ]
+     ]
+    ],
+    [
+     "Economia internacional e monetária",
+     [
+      [
+       "02537",
+       "Introdução à macroeconomia aberta",
+       [
+        "04550"
+       ]
+      ],
+      [
+       "02620",
+       "Moeda digital e sistema financeiro internacional",
+       []
+      ],
+      [
+       "02655",
+       "O padrão-ouro",
+       []
+      ],
+      [
+       "02664",
+       "Bretton Woods",
+       []
+      ],
+      [
+       "02992",
+       "O processo de integração da Europa: a União Europeia",
+       []
+      ],
+      [
+       "03118",
+       "Projeto de Integração estadunidense para as Américas",
+       []
+      ]
+     ]
+    ],
+    [
+     "Métodos quantitativos em economia",
+     [
+      [
+       "00537",
+       "Aplicações de R em econometria",
+       []
+      ],
+      [
+       "02316",
+       "Bases de Dados em Economia",
+       []
+      ],
+      [
+       "02628",
+       "Noções e aplicações de teoria dos jogos",
+       []
+      ],
+      [
+       "05222",
+       "Cálculo a várias variáveis para Economia",
+       []
+      ]
+     ]
+    ],
+    [
+     "Economia regional",
+     [
+      [
+       "03917",
+       "Economia Regional",
+       []
+      ],
+      [
+       "03918",
+       "Tópicos em Economia Regional",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Gestão pública e políticas públicas",
+   "d": "Estado, gestão pública, políticas públicas, sociedade e política.",
+   "h": 32,
+   "s": [
+    [
+     "Estado e gestão pública",
+     [
+      [
+       "00197",
+       "Estrutura e atuação do Estado na sociedade atual",
+       []
+      ],
+      [
+       "00365",
+       "Gestão pública contemporânea",
+       []
+      ],
+      [
+       "01197",
+       "Estado e sociedade civil: tipos de parceria",
+       []
+      ],
+      [
+       "01311",
+       "Análise de investimentos no setor público",
+       []
+      ],
+      [
+       "07882",
+       "Gestão de compras na área pública",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212hu/"
+      ]
+     ]
+    ],
+    [
+     "Políticas públicas",
+     [
+      [
+       "00249",
+       "Avaliação de políticas públicas",
+       []
+      ],
+      [
+       "00261",
+       "Implementação de políticas públicas",
+       []
+      ],
+      [
+       "00416",
+       "Conceitos, atores e fases da política pública",
+       []
+      ]
+     ]
+    ],
+    [
+     "Estado, sociedade e política",
+     [
+      [
+       "00206",
+       "Seguro social e redistribuição",
+       []
+      ],
+      [
+       "02663",
+       "Política redistributiva",
+       []
+      ],
+      [
+       "02712",
+       "Discriminação e Ação Afirmativa",
+       []
+      ],
+      [
+       "02713",
+       "Modelos de Agência, Informação e Mídia na Política",
+       []
+      ],
+      [
+       "03303",
+       "Conflitos, crime organizado e violência política",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Empreendedorismo, inovação e transformação digital",
+   "d": "Plano de negócios, inovação, negócios digitais, dados e programação.",
+   "h": 56,
+   "s": [
+    [
+     "Empreendedorismo e plano de negócios",
+     [
+      [
+       "00764",
+       "Introdução a planos de negócios",
+       []
+      ],
+      [
+       "07333",
+       "Empreendedorismo e plano de negócios",
+       []
+      ],
+      [
+       "07334",
+       "Negócio e mercado",
+       []
+      ],
+      [
+       "07335",
+       "Equipe e produto",
+       []
+      ],
+      [
+       "07336",
+       "Estratégia de crescimento e finanças",
+       []
+      ]
+     ]
+    ],
+    [
+     "Inovação e estratégia digital",
+     [
+      [
+       "00741",
+       "Inovação",
+       [
+        "03950"
+       ]
+      ],
+      [
+       "01674",
+       "Inovação 2.0",
+       []
+      ],
+      [
+       "03903",
+       "Transformação digital e estratégia",
+       [
+        "04807"
+       ]
+      ],
+      [
+       "07444",
+       "Estratégia e modelos de negócio",
+       []
+      ],
+      [
+       "07445",
+       "Estratégias para transformação digital",
+       []
+      ],
+      [
+       "07446",
+       "Inovação e negócios",
+       []
+      ],
+      [
+       "01633",
+       "Gestão do conhecimento",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212hu/"
+      ],
+      [
+       "01674",
+       "Inovação 2.0",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212hu/"
+      ]
+     ]
+    ],
+    [
+     "Negócios digitais",
+     [
+      [
+       "00822",
+       "Negócios na era digital",
+       [
+        "05686"
+       ]
+      ],
+      [
+       "03997",
+       "E-business e e-commerce",
+       [
+        "05685"
+       ]
+      ],
+      [
+       "05690",
+       "As pessoas, a organização e a tecnologia",
+       []
+      ],
+      [
+       "05694",
+       "A revolução digital",
+       []
+      ],
+      [
+       "07356",
+       "Indústria 5.0 e futuro do trabalho",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Gestão esportiva e cultural",
+   "d": "Negócios do esporte, patrocínio e projetos culturais.",
+   "h": 80,
+   "s": [
+    [
+     "Gestão esportiva",
+     [
+      [
+       "04779",
+       "Modelo de gestão esportiva de alta performance",
+       []
+      ],
+      [
+       "04780",
+       "Objetivos do profissional de gestão esportiva",
+       []
+      ],
+      [
+       "04781",
+       "Inovação e tecnologia no esporte: um olhar para o futuro",
+       []
+      ],
+      [
+       "04782",
+       "Expansão no negócio esportivo dentro e fora dos EUA",
+       []
+      ],
+      [
+       "04783",
+       "Gestão de patrocínio no esporte",
+       []
+      ],
+      [
+       "04784",
+       "Patrocínio e Lei de Incentivo ao Esporte",
+       []
+      ],
+      [
+       "04786",
+       "Gestão de marca desportiva",
+       []
+      ],
+      [
+       "05220",
+       "Indicadores para avaliação de projetos desportivos",
+       []
+      ],
+      [
+       "07522",
+       "Introdução ao modelo americano de esportes",
+       []
+      ],
+      [
+       "07523",
+       "O esporte como entretenimento",
+       []
+      ],
+      [
+       "03766",
+       "Inclusão e interação social em gestão desportiva",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212hu/"
+      ]
+     ]
+    ],
+    [
+     "Patrocínio e projetos culturais",
+     [
+      [
+       "04785",
+       "Patrocínio e leis de incentivo à cultura",
+       []
+      ],
+      [
+       "05221",
+       "Indicadores para avaliação de projetos culturais",
+       []
+      ],
+      [
+       "03475",
+       "Gestão de bens culturais",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212hu/"
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Serviços, consultoria e mercado imobiliário",
+   "d": "Secretariado executivo, consultoria, hotelaria e corretagem.",
+   "h": 100,
+   "s": [
+    [
+     "Secretariado executivo e consultoria",
+     [
+      [
+       "01083",
+       "Gestão eletrônica de documentos",
+       []
+      ],
+      [
+       "02479",
+       "Funções do assessor executivo na empresa",
+       []
+      ],
+      [
+       "02695",
+       "Perfil do profissional de secretariado executivo na função de assessoria",
+       []
+      ],
+      [
+       "03238",
+       "Primeiros contatos e diagnóstico de consultoria",
+       []
+      ],
+      [
+       "03239",
+       "Plano de ação, implementação e finalização de consultoria",
+       []
+      ],
+      [
+       "03240",
+       "Secretariado executivo e consultoria",
+       []
+      ]
+     ]
+    ],
+    [
+     "Hotelaria e mercado imobiliário",
+     [
+      [
+       "00021",
+       "O Mercado Imobiliário e a Corretagem",
+       []
+      ],
+      [
+       "00447",
+       "Aspectos introdutórios do mercado imobiliário e o papel do corretor",
+       []
+      ],
+      [
+       "00461",
+       "Tópicos atuais em corretagem",
+       []
+      ],
+      [
+       "01768",
+       "Metodologia de avaliação de imóveis",
+       []
+      ],
+      [
+       "02512",
+       "Hotelaria - Gestão, mercado de trabalho e tendências",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Segurança privada e patrimonial",
+   "d": "Vigilância, gestão de segurança e consultoria em segurança.",
+   "h": 120,
+   "s": [
+    [
+     "Segurança privada e patrimonial",
+     [
+      [
+       "01217",
+       "Modalidades de vigilância",
+       [
+        "03965"
+       ]
+      ],
+      [
+       "03954",
+       "Recebimento de Combustíveis e Gestão do Posto Seguro",
+       []
+      ],
+      [
+       "07453",
+       "Introdução à segurança privada",
+       []
+      ],
+      [
+       "07585",
+       "Introdução à gestão das atividades de segurança",
+       []
+      ],
+      [
+       "07586",
+       "Introdução à Consultoria de Segurança",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Meio ambiente e sustentabilidade",
+   "d": "Mudanças climáticas, gestão ambiental, licenciamento e sustentabilidade nas empresas.",
+   "h": 104,
+   "s": [
+    [
+     "Mudanças climáticas",
+     [
+      [
+       "00343",
+       "Mudanças climáticas e seus impactos na sociedade",
+       []
+      ],
+      [
+       "02619",
+       "Modelos de mudança climática",
+       []
+      ]
+     ]
+    ],
+    [
+     "Gestão ambiental nas empresas",
+     [
+      [
+       "00257",
+       "O papel do governo na sustentabilidade",
+       [
+        "04547"
+       ]
+      ],
+      [
+       "05311",
+       "Gestão ambiental nas empresas e organizações",
+       []
+      ],
+      [
+       "05312",
+       "Estratégias de gestão social e ambiental",
+       []
+      ],
+      [
+       "05313",
+       "Política ambiental e legislação aplicada",
+       []
+      ],
+      [
+       "05314",
+       "Sistema de gestão ambiental (SGA)",
+       []
+      ],
+      [
+       "05315",
+       "Licenciamento ambiental",
+       []
+      ],
+      [
+       "05316",
+       "Sustentabilidade e respeito ao meio ambiente na Ipiranga",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Comunicação, língua e raciocínio",
+   "d": "Língua portuguesa, leitura, raciocínio lógico e matemática aplicada.",
+   "h": 128,
+   "s": [
+    [
+     "Língua portuguesa e comunicação",
+     [
+      [
+       "00227",
+       "Norma Culta e Variação Linguística",
+       [
+        "03960"
+       ]
+      ],
+      [
+       "00287",
+       "Dificuldades gramaticais",
+       [
+        "03962"
+       ]
+      ],
+      [
+       "03959",
+       "Linguagem e língua: conceitos",
+       []
+      ],
+      [
+       "03961",
+       "Texto e discurso",
+       []
+      ],
+      [
+       "03963",
+       "A língua no ambiente profissional",
+       []
+      ],
+      [
+       "07640",
+       "Descomplicando a Língua Portuguesa",
+       []
+      ]
+     ]
+    ],
+    [
+     "Leitura e estudo",
+     [
+      [
+       "02250",
+       "Abordagens metodológicas na leitura",
+       []
+      ],
+      [
+       "02822",
+       "Teorias da leitura",
+       []
+      ],
+      [
+       "03958",
+       "Como estudar melhor",
+       []
+      ]
+     ]
+    ],
+    [
+     "Raciocínio lógico e crítico",
+     [
+      [
+       "07791",
+       "Introdução à linguagem lógica",
+       []
+      ],
+      [
+       "07792",
+       "Raciocínio lógico",
+       []
+      ],
+      [
+       "07793",
+       "Introdução ao raciocínio crítico e analítico",
+       []
+      ],
+      [
+       "07794",
+       "Tomada de decisão",
+       []
+      ]
+     ]
+    ],
+    [
+     "Matemática aplicada e estatística",
+     [
+      [
+       "00124",
+       "Modelos e modelagem usando funções",
+       []
+      ],
+      [
+       "00306",
+       "Aprofundamento de funções",
+       []
+      ],
+      [
+       "00348",
+       "Aplicações de funções",
+       []
+      ],
+      [
+       "00391",
+       "A matemática do dia a dia",
+       []
+      ],
+      [
+       "00393",
+       "Vetores e Matrizes no plano",
+       []
+      ],
+      [
+       "00396",
+       "Princípios do limite e continuidade",
+       []
+      ],
+      [
+       "00895",
+       "Probabilidade condicional e independência",
+       []
+      ],
+      [
+       "00989",
+       "Variáveis aleatórias unidimensionais",
+       []
+      ],
+      [
+       "05317",
+       "Análise de dados quantitativos – PIP",
+       []
+      ],
+      [
+       "05318",
+       "A matemática do dia a dia - PIP",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Estágio e pesquisa",
+   "d": "Áreas de estágio, projetos e relatórios de pesquisa.",
+   "h": 152,
+   "s": [
+    [
+     "Estágio",
+     [
+      [
+       "04284",
+       "Áreas para estágio em Secretariado Executivo",
+       []
+      ],
+      [
+       "04285",
+       "Áreas de atuação para realização de estágio em economia",
+       []
+      ],
+      [
+       "04299",
+       "Áreas de atuação para realização de estágio em Administração",
+       []
+      ],
+      [
+       "03919",
+       "Relatório de Estágio em Gestão",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212hu/"
+      ],
+      [
+       "03943",
+       "Orientação e documentação para o estágio supervisionado",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212hu/"
+      ],
+      [
+       "03944",
+       "Áreas de Atuação para Realização do Estágio em Gestão",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212hu/"
+      ],
+      [
+       "03946",
+       "Conselho da profissão e da legislação do Administrador",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212hu/"
+      ]
+     ]
+    ],
+    [
+     "Projetos e relatórios de pesquisa",
+     [
+      [
+       "04359",
+       "Projetos e relatórios de pesquisa em Secretariado",
+       []
+      ],
+      [
+       "04360",
+       "Projetos de Pesquisa",
+       []
+      ],
+      [
+       "04361",
+       "Relatório de Pesquisa",
+       []
+      ],
+      [
+       "04362",
+       "Projetos e relatórios de pesquisa em Administração Pública",
+       []
+      ]
+     ]
+    ]
+   ]
+  }
+ ]
+}

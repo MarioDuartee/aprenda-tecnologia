@@ -1,0 +1,4727 @@
+{
+ "id": "hu",
+ "n": "Ciências Humanas e Sociais",
+ "d": "Educação, letras, direito, serviço social, história, artes e mais, em trilhas do básico ao avançado.",
+ "h": 150,
+ "base": "https://stecine.azureedge.net/repositorio/00212hu/",
+ "h1": "Trilha de <em>Ciências Humanas e Sociais</em>",
+ "t": [
+  {
+   "n": "Educação e docência",
+   "d": "História da educação, políticas, didática, avaliação, educação infantil, inclusão e prática docente.",
+   "h": 205,
+   "s": [
+    [
+     "Fundamentos e história da educação",
+     [
+      [
+       "00009",
+       "Educação e Renascimento",
+       []
+      ],
+      [
+       "00128",
+       "Educação na Antiguidade Clássica",
+       []
+      ],
+      [
+       "00159",
+       "História da educação no Brasil: Redemocratização",
+       []
+      ],
+      [
+       "00188",
+       "Projeto de educação iluminista",
+       []
+      ],
+      [
+       "00325",
+       "Educação Contemporânea",
+       []
+      ],
+      [
+       "00328",
+       "Educação na Idade Média",
+       []
+      ],
+      [
+       "00353",
+       "História da educação no Brasil republicano",
+       []
+      ],
+      [
+       "00384",
+       "Cultura e escola",
+       []
+      ],
+      [
+       "03218",
+       "Educação formal e não formal",
+       []
+      ],
+      [
+       "03219",
+       "Identidade docente",
+       []
+      ]
+     ]
+    ],
+    [
+     "Políticas, legislação e gestão escolar",
+     [
+      [
+       "00007",
+       "Estrutura e funcionamento da educação no Brasil",
+       []
+      ],
+      [
+       "00030",
+       "Lei de Diretrizes e Bases da educação brasileira",
+       []
+      ],
+      [
+       "00430",
+       "Políticas públicas para formação docente",
+       []
+      ],
+      [
+       "01670",
+       "Indicadores de qualidade da educação",
+       [
+        "07631"
+       ]
+      ],
+      [
+       "01961",
+       "Sistema nacional de avaliação institucional no Brasil",
+       []
+      ],
+      [
+       "02216",
+       "A estrutura organizacional de uma escola",
+       []
+      ],
+      [
+       "02222",
+       "A gestão escolar e a construção do trabalho pedagógico",
+       []
+      ],
+      [
+       "02994",
+       "Políticas curriculares: formação da Base Nacional Comum Curricular",
+       []
+      ],
+      [
+       "03094",
+       "Formação continuada de professores",
+       []
+      ],
+      [
+       "07437",
+       "Inspeção educacional: conceito, legislação e políticas",
+       []
+      ],
+      [
+       "07438",
+       "Ação supervisora na gestão do trabalho pedagógico",
+       []
+      ],
+      [
+       "07439",
+       "Gestão e supervisão de redes educacionais",
+       []
+      ],
+      [
+       "07440",
+       "Ações do inspetor e supervisor educacional",
+       []
+      ],
+      [
+       "07630",
+       "Sistema Nacional de Avaliação Institucional",
+       []
+      ],
+      [
+       "07840",
+       "Capital, economia e educação",
+       []
+      ],
+      [
+       "07841",
+       "Gestão de instituições públicas de educação",
+       []
+      ],
+      [
+       "07842",
+       "Gestão de instituições privadas de educação",
+       []
+      ],
+      [
+       "07843",
+       "Práticas e estratégias de gestão na educação não escolar",
+       []
+      ],
+      [
+       "07844",
+       "Particularidades e responsabilidades na gestão da educação infantil",
+       []
+      ]
+     ]
+    ],
+    [
+     "Didática, currículo e planejamento",
+     [
+      [
+       "00036",
+       "Os processos didáticos e os desafios na contemporaneidade",
+       []
+      ],
+      [
+       "00356",
+       "Tendências pedagógicas",
+       []
+      ],
+      [
+       "00392",
+       "Conceito de didática e suas origens",
+       []
+      ],
+      [
+       "00456",
+       "Abordagens didáticas na prática docente",
+       []
+      ],
+      [
+       "00478",
+       "Ação pedagógica e transposição didática",
+       []
+      ],
+      [
+       "00594",
+       "Conceito de Planejamento Escolar",
+       [
+        "04848"
+       ]
+      ],
+      [
+       "00886",
+       "Práticas do planejamento escolar",
+       []
+      ],
+      [
+       "01002",
+       "Processos de planejamento escolar",
+       []
+      ],
+      [
+       "01616",
+       "Fundamentos pedagógicos da aprendizagem",
+       [
+        "04849",
+        "07633"
+       ]
+      ],
+      [
+       "02964",
+       "Análise de material didático e fatores auxiliares",
+       [
+        "04871"
+       ]
+      ],
+      [
+       "02991",
+       "O currículo no cotidiano escolar",
+       []
+      ],
+      [
+       "03417",
+       "A produção de materiais didáticos",
+       []
+      ],
+      [
+       "07602",
+       "Aprender na extensão: currículos inovadores com impacto social",
+       []
+      ],
+      [
+       "07632",
+       "Aprendizagem",
+       []
+      ]
+     ]
+    ],
+    [
+     "Avaliação da aprendizagem",
+     [
+      [
+       "00566",
+       "Avaliação da aprendizagem",
+       [
+        "04850",
+        "07629"
+       ]
+      ],
+      [
+       "00996",
+       "Avaliação Escolar",
+       []
+      ],
+      [
+       "02657",
+       "O papel social da escola e práticas avaliativas de investigação",
+       []
+      ],
+      [
+       "03385",
+       "Aura - Avaliação da aprendizagem: elaboração de questões",
+       []
+      ]
+     ]
+    ],
+    [
+     "Metodologias, tecnologias e educação de adultos",
+     [
+      [
+       "00100",
+       "Didática e uso das tecnologias",
+       []
+      ],
+      [
+       "00119",
+       "Desenvolvendo Competências no ensino de adultos",
+       [
+        "07635"
+       ]
+      ],
+      [
+       "00284",
+       "Planejamento didático para o ensino de adultos",
+       [
+        "07628"
+       ]
+      ],
+      [
+       "00291",
+       "Metodologias ativas no ensino de adultos",
+       [
+        "07634"
+       ]
+      ],
+      [
+       "00293",
+       "Introdução ao Immersive Learning",
+       [
+        "04857"
+       ]
+      ],
+      [
+       "00340",
+       "Modelos andragógicos",
+       []
+      ],
+      [
+       "01000",
+       "Metodologias ativas na educação",
+       []
+      ],
+      [
+       "01991",
+       "Técnicas e metodologias do ensino",
+       []
+      ],
+      [
+       "02471",
+       "Educação corporativa e formação profissional",
+       [
+        "07727"
+       ]
+      ],
+      [
+       "02624",
+       "Mudanças no mundo do trabalho e formação integral",
+       []
+      ],
+      [
+       "02901",
+       "Exigências formativas no mundo contemporâneo",
+       [
+        "07728"
+       ]
+      ],
+      [
+       "02956",
+       "Educação profissional e tecnológica",
+       []
+      ],
+      [
+       "03095",
+       "Tendências dos ambientes virtuais de aprendizagem",
+       []
+      ],
+      [
+       "07255",
+       "Estratégias de ensino-aprendizagem em gestão estratégica",
+       []
+      ],
+      [
+       "07267",
+       "Estratégia para o ensino de contabilidade",
+       []
+      ],
+      [
+       "07268",
+       "Estratégias de ensino-aprendizagem na Gestão de Pessoas",
+       []
+      ],
+      [
+       "07277",
+       "Estratégias de ensino e aprendizagem em marketing",
+       []
+      ]
+     ]
+    ],
+    [
+     "Infância e educação infantil",
+     [
+      [
+       "00002",
+       "Criança e identidade étnica",
+       []
+      ],
+      [
+       "00266",
+       "Conceitos de infância",
+       []
+      ],
+      [
+       "00361",
+       "Desenvolvimento infantil: ambientes e teorias",
+       []
+      ],
+      [
+       "00442",
+       "História da infância",
+       []
+      ],
+      [
+       "01189",
+       "Educador infantil: formação e identidade",
+       []
+      ],
+      [
+       "01335",
+       "Aprendizagem para a pré-escola",
+       []
+      ],
+      [
+       "01336",
+       "Aprendizagem para creche",
+       []
+      ],
+      [
+       "01590",
+       "Formação curricular na educação infantil",
+       []
+      ],
+      [
+       "01772",
+       "Metodologias para educação infantil",
+       []
+      ]
+     ]
+    ],
+    [
+     "Inclusão, diversidade e educação especial",
+     [
+      [
+       "00123",
+       "Questões étnicas na diversidade escolar: o indígena e a educação",
+       []
+      ],
+      [
+       "00296",
+       "Questões étnicas na diversidade escolar: negro e a educação",
+       []
+      ],
+      [
+       "00409",
+       "Ética, Inclusão e diversidade",
+       []
+      ],
+      [
+       "02003",
+       "Teorias pedagógicas aplicadas: Deficiência visual",
+       [
+        "04867"
+       ]
+      ],
+      [
+       "02955",
+       "Recursos na Educação Especial",
+       []
+      ],
+      [
+       "02976",
+       "Educação de jovens e adultos e a diversidade",
+       []
+      ],
+      [
+       "04710",
+       "Conceito de mediação escolar",
+       []
+      ],
+      [
+       "04711",
+       "Docente como mediador pedagógico",
+       []
+      ],
+      [
+       "04712",
+       "Mediação escolar: papéis e funções",
+       []
+      ],
+      [
+       "04713",
+       "Mediação escolar e inclusão",
+       []
+      ],
+      [
+       "04866",
+       "Inclusão de transtornos mentais na educação",
+       []
+      ],
+      [
+       "04868",
+       "Teorias pedagógicas aplicadas no ensino: surdez/deficiência auditiva",
+       []
+      ],
+      [
+       "05667",
+       "Diversidade & Inclusão",
+       []
+      ],
+      [
+       "07417",
+       "A história das mulheres na Educação",
+       []
+      ],
+      [
+       "07418",
+       "Pedagogia e as relações de gênero",
+       []
+      ],
+      [
+       "07419",
+       "Educação não sexista",
+       []
+      ],
+      [
+       "07420",
+       "Tópicos para Educação Sexual",
+       []
+      ]
+     ]
+    ],
+    [
+     "Ensino por área do conhecimento",
+     [
+      [
+       "03125",
+       "Recursos didáticos e ensino de língua",
+       []
+      ],
+      [
+       "03221",
+       "Metodologias para o ensino de ciências humanas",
+       []
+      ],
+      [
+       "03222",
+       "Estratégias de aprendizagem em Ciências Humanas",
+       []
+      ],
+      [
+       "03230",
+       "Estratégias pedagógicas para o ensino de linguagens",
+       []
+      ],
+      [
+       "03231",
+       "Linguagens na Perspectiva da Base Nacional Comum Curricular",
+       []
+      ]
+     ]
+    ],
+    [
+     "Estágio e prática docente",
+     [
+      [
+       "00935",
+       "Manual do relatório de estágio em educação",
+       []
+      ],
+      [
+       "01542",
+       "Estágio supervisionado em educação",
+       []
+      ],
+      [
+       "02331",
+       "Campo de prática de estágio na equipe pedagógica",
+       []
+      ],
+      [
+       "02408",
+       "Elaboração de Projetos em Ambientes não Escolares",
+       [
+        "04875"
+       ]
+      ],
+      [
+       "02639",
+       "O campo de estágio do pedagogo em ambientes corporativos",
+       []
+      ],
+      [
+       "02640",
+       "O campo do estágio do pedagogo em ambiente hospitalar",
+       []
+      ],
+      [
+       "02641",
+       "O campo de estágio do pedagogo em ambientes de projetos",
+       []
+      ],
+      [
+       "03050",
+       "Campo de prática de estágio na formação continuada",
+       []
+      ],
+      [
+       "03051",
+       "A equipe pedagógica: realidades e perspectivas",
+       [
+        "04863"
+       ]
+      ],
+      [
+       "03052",
+       "Orientação pedagógica: objetos de estudo, formação e atuação",
+       []
+      ],
+      [
+       "03053",
+       "A supervisão pedagógica",
+       []
+      ],
+      [
+       "03084",
+       "A observação do cotidiano escolar",
+       []
+      ],
+      [
+       "03085",
+       "Cotidiano e acompanhamento de estágio em Educação Básica",
+       []
+      ],
+      [
+       "03096",
+       "Campo de prática de estágio em gestão educacional",
+       []
+      ],
+      [
+       "03097",
+       "A prática do estágio na formação técnica",
+       []
+      ],
+      [
+       "03098",
+       "Elaboração de relatórios de estágio em gestão escolar",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Psicologia e aprendizagem",
+   "d": "Psicologia da educação, neurociência, desenvolvimento humano e psicopedagogia.",
+   "h": 340,
+   "s": [
+    [
+     "Psicologia da educação",
+     [
+      [
+       "00820",
+       "Movimentos da Psicologia no século XX",
+       []
+      ],
+      [
+       "00918",
+       "Psicologia da Educação Cognitivista",
+       []
+      ],
+      [
+       "01003",
+       "Psicologia da Educação Comportamentalista",
+       []
+      ],
+      [
+       "01004",
+       "Psicologia da Educação Humanista",
+       []
+      ]
+     ]
+    ],
+    [
+     "Neurociência e desenvolvimento humano",
+     [
+      [
+       "00224",
+       "Neurociência cognitiva e aprendizagem",
+       [
+        "04860"
+       ]
+      ],
+      [
+       "00336",
+       "Linguagem, funções executivas e emoção",
+       [
+        "04878"
+       ]
+      ],
+      [
+       "01191",
+       "Sensação, atenção, memória, integração sensório-motora",
+       [
+        "04879"
+       ]
+      ],
+      [
+       "04851",
+       "Desenvolvimento na infância",
+       []
+      ],
+      [
+       "04852",
+       "Desenvolvimento na adolescência",
+       []
+      ],
+      [
+       "04853",
+       "Desenvolvimento na idade adulta e terceira idade",
+       []
+      ],
+      [
+       "04877",
+       "Neurociência Cognitiva",
+       []
+      ]
+     ]
+    ],
+    [
+     "Psicopedagogia e transtornos de aprendizagem",
+     [
+      [
+       "03868",
+       "Transtornos de aprendizagem matemática",
+       []
+      ],
+      [
+       "04845",
+       "Fundamentos históricos e teóricos da Psicopedagogia",
+       []
+      ],
+      [
+       "04846",
+       "Conceitos básicos e princípios gerais da Psicopedagogia",
+       []
+      ],
+      [
+       "04859",
+       "O atendimento psicopedagógico e suas interfaces",
+       []
+      ],
+      [
+       "04861",
+       "Distúrbios do neurodesenvolvimento e altas habilidades",
+       []
+      ],
+      [
+       "04862",
+       "Transtornos do neurodesenvolvimento e formas de intervenção",
+       []
+      ],
+      [
+       "04865",
+       "Campo de atuação do psicopedagogo e perspectivas profissionais",
+       []
+      ],
+      [
+       "04873",
+       "Intervenção em Psicopedagogia no cotidiano escolar",
+       []
+      ],
+      [
+       "04874",
+       "Modelos de intervenção dos transtornos da aprendizagem",
+       [
+        "05004"
+       ]
+      ],
+      [
+       "04876",
+       "Estratégias psicopedagógicas no manejo do TEA e TDAH",
+       []
+      ]
+     ]
+    ],
+    [
+     "Psicologia, violência e direitos humanos",
+     [
+      [
+       "03270",
+       "Psicologia e violência: um olhar para as populações vulneráveis",
+       []
+      ],
+      [
+       "03271",
+       "Psicologia no Direito Penal e na Infância e Juventude",
+       []
+      ],
+      [
+       "03272",
+       "Psicologia, resolução de conflitos e Direitos Humanos",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Língua Portuguesa e Linguística",
+   "d": "Linguagem, discurso, gramática, produção de textos e literaturas em português.",
+   "h": 30,
+   "s": [
+    [
+     "Linguagem e linguística",
+     [
+      [
+       "00015",
+       "O Funcionalismo",
+       []
+      ],
+      [
+       "00040",
+       "Linguagem e língua: conceitos",
+       [
+        "03959"
+       ]
+      ],
+      [
+       "00081",
+       "Linguagem e Linguística",
+       []
+      ],
+      [
+       "00313",
+       "O estruturalismo de Ferdinand de Saussure",
+       []
+      ],
+      [
+       "00334",
+       "A Sociolinguística",
+       []
+      ],
+      [
+       "00433",
+       "O gerativismo de Chomsky",
+       []
+      ],
+      [
+       "02638",
+       "O campo de estudo da semântica",
+       []
+      ],
+      [
+       "02679",
+       "Os estudos da tradução",
+       []
+      ],
+      [
+       "03414",
+       "O que é Linguística Aplicada?",
+       []
+      ],
+      [
+       "03415",
+       "Linguística Aplicada ao Ensino",
+       []
+      ],
+      [
+       "03416",
+       "Linguística e educação bilíngue",
+       []
+      ],
+      [
+       "04396",
+       "Níveis de análise linguística e ensino",
+       []
+      ],
+      [
+       "04398",
+       "A Linguística Cognitiva",
+       []
+      ]
+     ]
+    ],
+    [
+     "Análise do discurso e linguística textual",
+     [
+      [
+       "00234",
+       "Texto e discurso",
+       []
+      ],
+      [
+       "04397",
+       "A linguística textual",
+       []
+      ],
+      [
+       "04399",
+       "A Análise do Discurso",
+       []
+      ],
+      [
+       "04400",
+       "A análise da conversação",
+       []
+      ],
+      [
+       "05646",
+       "As ciências da linguagem e análise do discurso",
+       []
+      ],
+      [
+       "05647",
+       "Língua, história e sujeito: a linguagem em uso",
+       []
+      ],
+      [
+       "05649",
+       "A análise do discurso francesa",
+       []
+      ]
+     ]
+    ],
+    [
+     "Gramática e norma culta",
+     [
+      [
+       "00227",
+       "Norma culta e variação linguística",
+       []
+      ],
+      [
+       "02251",
+       "Abordagens metodológicas no ensino de gramática",
+       []
+      ],
+      [
+       "02355",
+       "Concordância e regência",
+       []
+      ],
+      [
+       "02733",
+       "Problemas na construção de frases",
+       []
+      ],
+      [
+       "04393",
+       "Particularidades gramaticais e lexicais",
+       []
+      ],
+      [
+       "07177",
+       "Introdução aos estudos sintáticos",
+       []
+      ],
+      [
+       "07178",
+       "Termos da oração",
+       []
+      ],
+      [
+       "07179",
+       "Pontuação",
+       []
+      ],
+      [
+       "07180",
+       "O período composto: coordenação",
+       []
+      ],
+      [
+       "07181",
+       "O período composto: subordinação",
+       []
+      ]
+     ]
+    ],
+    [
+     "Produção e comunicação textual",
+     [
+      [
+       "03427",
+       "Oralidade e escrita na produção textual",
+       []
+      ],
+      [
+       "03428",
+       "Os 3CS: Correção, concisão e clareza na produção textual",
+       []
+      ],
+      [
+       "03429",
+       "A composição do texto",
+       []
+      ],
+      [
+       "03430",
+       "Tipologias textuais: narração e descrição",
+       []
+      ],
+      [
+       "03431",
+       "Tipologias textuais: injunção, exposição e argumentação",
+       []
+      ],
+      [
+       "04392",
+       "A expressividade da linguagem e o trabalho do revisor",
+       []
+      ],
+      [
+       "04394",
+       "Composição do parágrafo",
+       []
+      ]
+     ]
+    ],
+    [
+     "Teoria da literatura e gêneros",
+     [
+      [
+       "00668",
+       "Estudos de poesia",
+       []
+      ],
+      [
+       "00669",
+       "Estudos de Prosa",
+       []
+      ],
+      [
+       "00709",
+       "Gêneros literários",
+       []
+      ],
+      [
+       "00969",
+       "Teoria da Literatura",
+       []
+      ],
+      [
+       "02701",
+       "Perspectivas formalistas",
+       []
+      ],
+      [
+       "02715",
+       "Pós-estruturalismo e desconstrucionismo literário",
+       []
+      ],
+      [
+       "02819",
+       "Teoria Crítica e Literatura",
+       []
+      ],
+      [
+       "03254",
+       "Teoria da Narrativa",
+       []
+      ],
+      [
+       "04570",
+       "Fundamentos filosóficos e críticos do conceito de fantástico",
+       []
+      ]
+     ]
+    ],
+    [
+     "Literatura brasileira",
+     [
+      [
+       "02232",
+       "A prosa do romantismo brasileiro",
+       []
+      ],
+      [
+       "02397",
+       "Do Romantismo para o Realismo: choque e transição",
+       []
+      ],
+      [
+       "04395",
+       "O Modernismo: a primeira geração",
+       []
+      ],
+      [
+       "05633",
+       "Pré-modernismo na literatura brasileira",
+       []
+      ],
+      [
+       "05634",
+       "Parnasianismo e Simbolismo",
+       []
+      ],
+      [
+       "05635",
+       "O Modernismo: a Geração de 30",
+       []
+      ],
+      [
+       "05636",
+       "O Pós-modernismo: a Geração de 45",
+       []
+      ],
+      [
+       "05637",
+       "A literatura contemporânea brasileira",
+       []
+      ],
+      [
+       "07172",
+       "Primeiras manifestações literárias no Brasil",
+       []
+      ],
+      [
+       "07173",
+       "Barroco e Arcadismo no Brasil",
+       []
+      ],
+      [
+       "07174",
+       "Romantismo e vertentes líricas no Brasil",
+       []
+      ],
+      [
+       "07175",
+       "Realismo-Naturalismo no Brasil",
+       []
+      ],
+      [
+       "07176",
+       "O Realismo de Machado de Assis",
+       []
+      ]
+     ]
+    ],
+    [
+     "Literatura portuguesa e africana",
+     [
+      [
+       "07813",
+       "Prosa realista-naturalista de Eça de Queirós",
+       []
+      ],
+      [
+       "07814",
+       "O Simbolismo em Portugal",
+       []
+      ],
+      [
+       "07815",
+       "O Modernismo em Portugal",
+       []
+      ],
+      [
+       "07816",
+       "Tendências contemporâneas da literatura portuguesa",
+       []
+      ],
+      [
+       "07836",
+       "Do Trovadorismo ao Arcadismo",
+       []
+      ],
+      [
+       "07837",
+       "Do colonialismo à identidade dos povos na África",
+       []
+      ],
+      [
+       "07838",
+       "Literaturas africanas e a construção do sentimento nacional",
+       []
+      ],
+      [
+       "07839",
+       "Literatura Africana em Língua portuguesa: Contemporaneidades",
+       []
+      ]
+     ]
+    ],
+    [
+     "Latim e filologia",
+     [
+      [
+       "02295",
+       "Aspectos gramaticais da língua latina",
+       []
+      ],
+      [
+       "02653",
+       "O legado linguístico da antiguidade clássica",
+       []
+      ],
+      [
+       "02940",
+       "Contribuições do latim e do grego ao português",
+       []
+      ],
+      [
+       "03199",
+       "A prática filológica",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Língua Inglesa",
+   "d": "Gramática, léxico, literaturas, leitura e ensino de inglês.",
+   "h": 255,
+   "s": [
+    [
+     "Gramática e sintaxe",
+     [
+      [
+       "00025",
+       "O sintagma adjetival em inglês",
+       []
+      ],
+      [
+       "00243",
+       "Sintagma verbal em inglês",
+       []
+      ],
+      [
+       "00305",
+       "Período Simples em Inglês",
+       []
+      ],
+      [
+       "00429",
+       "O sintagma nominal em Inglês",
+       []
+      ],
+      [
+       "02979",
+       "Coordination and coordinating conjunctions",
+       []
+      ],
+      [
+       "03048",
+       "To-infinitive clauses",
+       []
+      ],
+      [
+       "03082",
+       "Adverbial clauses",
+       []
+      ],
+      [
+       "03246",
+       "Verbals",
+       []
+      ],
+      [
+       "03247",
+       "Gerund Clauses",
+       []
+      ],
+      [
+       "03248",
+       "Reduced Participle Clauses",
+       []
+      ],
+      [
+       "03612",
+       "Relative Clauses",
+       []
+      ],
+      [
+       "03613",
+       "Clausal Complements",
+       []
+      ],
+      [
+       "05650",
+       "Subordinating conjunctions in English",
+       []
+      ],
+      [
+       "05653",
+       "Conditional Sentences and the Subjunctive Mood in English",
+       []
+      ],
+      [
+       "05654",
+       "Particularities of the verb",
+       []
+      ],
+      [
+       "07186",
+       "Modals",
+       []
+      ],
+      [
+       "07187",
+       "Reporting",
+       []
+      ],
+      [
+       "07188",
+       "Perfective and progressive aspects",
+       []
+      ],
+      [
+       "07189",
+       "Sentence Types and Discourse Functions",
+       []
+      ],
+      [
+       "07190",
+       "Pro-forms and Ellipsis",
+       []
+      ]
+     ]
+    ],
+    [
+     "Semântica, léxico e discurso",
+     [
+      [
+       "00133",
+       "Semântica e pragmática na escrita e na leitura em inglês",
+       []
+      ],
+      [
+       "04587",
+       "Relationships among words: Lexical Semantics",
+       []
+      ],
+      [
+       "04588",
+       "The meaning within the sentences: Sentence Semantics",
+       []
+      ],
+      [
+       "04589",
+       "Semantic and syntactic functions",
+       []
+      ],
+      [
+       "04590",
+       "Lexicality: Implications for ELT",
+       []
+      ],
+      [
+       "05651",
+       "Word formation",
+       []
+      ],
+      [
+       "05652",
+       "Semantic and pragmatic implications: Present, Past and Future",
+       []
+      ]
+     ]
+    ],
+    [
+     "Literaturas em língua inglesa",
+     [
+      [
+       "02224",
+       "Modern English Literature: social criticism",
+       []
+      ],
+      [
+       "02225",
+       "English Modern Literature: The Modernist Vanguard",
+       []
+      ],
+      [
+       "02583",
+       "English Literature: Modernity and Postmodernity",
+       []
+      ],
+      [
+       "02632",
+       "New trends in British literature",
+       []
+      ],
+      [
+       "02662",
+       "British Romanticism",
+       []
+      ],
+      [
+       "03045",
+       "Literature and progress: the nineteenth century",
+       []
+      ],
+      [
+       "03249",
+       "The Colonial Experience",
+       []
+      ],
+      [
+       "03250",
+       "The Emergence of an American Literature",
+       []
+      ],
+      [
+       "03251",
+       "American Romantic Poetry",
+       []
+      ],
+      [
+       "03252",
+       "American romantic fiction and critique of the metaphysics of nature",
+       []
+      ],
+      [
+       "03253",
+       "Realist Perceptions",
+       []
+      ],
+      [
+       "04578",
+       "Putting America on paper",
+       []
+      ],
+      [
+       "04579",
+       "African American Literature",
+       []
+      ],
+      [
+       "04580",
+       "American Modernism",
+       []
+      ],
+      [
+       "04581",
+       "Postmodern Poetry",
+       []
+      ],
+      [
+       "04582",
+       "Postmodern Fiction",
+       []
+      ],
+      [
+       "04597",
+       "Fictional aspects of the Fantastic in English",
+       []
+      ],
+      [
+       "04598",
+       "Fantastic literature: a matter of short stories",
+       []
+      ],
+      [
+       "04599",
+       "Fantastic Literature in English",
+       []
+      ],
+      [
+       "05655",
+       "The Celtic Presence in Literatures in English",
+       []
+      ],
+      [
+       "05656",
+       "The Anglo-Saxon presence in literatures in English",
+       []
+      ],
+      [
+       "05657",
+       "Cultural aspects of Great Britain in classical works",
+       []
+      ],
+      [
+       "05658",
+       "Indigenous literatures in English",
+       []
+      ],
+      [
+       "05661",
+       "Modern drama in English and American literature",
+       []
+      ],
+      [
+       "07824",
+       "Literatures in English: Australia and Canada",
+       []
+      ],
+      [
+       "07825",
+       "Literatures in English: India and South Africa",
+       []
+      ],
+      [
+       "07826",
+       "Chicano literature",
+       []
+      ],
+      [
+       "07827",
+       "Asian-American Perspectives",
+       []
+      ]
+     ]
+    ],
+    [
+     "Leitura, escrita e gêneros textuais",
+     [
+      [
+       "03255",
+       "Classical narrative genres",
+       []
+      ],
+      [
+       "03256",
+       "Religious and Folk narratives",
+       []
+      ],
+      [
+       "03257",
+       "Literary narratives",
+       []
+      ],
+      [
+       "03258",
+       "Narrative and descriptive texts",
+       []
+      ],
+      [
+       "03259",
+       "Expository Texts",
+       []
+      ],
+      [
+       "03260",
+       "Argumentative texts",
+       []
+      ],
+      [
+       "04564",
+       "Academic Texts in English",
+       []
+      ],
+      [
+       "04595",
+       "Textual Genres in oral utterances",
+       []
+      ],
+      [
+       "04596",
+       "Textual Genres in written discourse",
+       []
+      ],
+      [
+       "05645",
+       "Reading, analysis, and textual production in the English language",
+       []
+      ],
+      [
+       "07828",
+       "Reading perspectives",
+       []
+      ],
+      [
+       "07829",
+       "Reading strategies",
+       []
+      ],
+      [
+       "07830",
+       "Reading and writing",
+       []
+      ],
+      [
+       "07831",
+       "The paragraph",
+       []
+      ],
+      [
+       "07832",
+       "Beyond comprehension",
+       []
+      ]
+     ]
+    ],
+    [
+     "Ensino de língua inglesa e aquisição",
+     [
+      [
+       "04583",
+       "First, foreign and second languages",
+       []
+      ],
+      [
+       "04584",
+       "L2/FL acquisition and learning: neuroscience",
+       []
+      ],
+      [
+       "04585",
+       "ELT and the four communicative skills",
+       []
+      ],
+      [
+       "04586",
+       "English Language Teaching in Brazil",
+       []
+      ],
+      [
+       "04591",
+       "As implicações do ensino de uma língua estrangeira (LE)",
+       []
+      ],
+      [
+       "04592",
+       "A História Metodológica do Ensino de Língua Estrangeira",
+       []
+      ],
+      [
+       "04593",
+       "O ensino instrumental da língua estrangeira",
+       []
+      ],
+      [
+       "04594",
+       "Communicative competence",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Língua Espanhola",
+   "d": "Língua, literatura hispânica e ensino de espanhol.",
+   "h": 50,
+   "s": [
+    [
+     "Língua e gramática",
+     [
+      [
+       "02848",
+       "Voseo",
+       []
+      ],
+      [
+       "03200",
+       "Contraste lingüístico: portugués-español",
+       []
+      ],
+      [
+       "03423",
+       "Antecedentes del español",
+       []
+      ],
+      [
+       "03424",
+       "Etapas de la historia del español",
+       []
+      ],
+      [
+       "03425",
+       "Terminología y variantes",
+       []
+      ],
+      [
+       "03426",
+       "Variantes geográficas del español actual",
+       []
+      ],
+      [
+       "04574",
+       "Morfología y sintaxis del español",
+       []
+      ],
+      [
+       "04575",
+       "Sintagma nominal en español",
+       []
+      ],
+      [
+       "04576",
+       "Sintagma verbal en español",
+       []
+      ],
+      [
+       "04577",
+       "Sintagma oracional en la lengua española",
+       []
+      ],
+      [
+       "05630",
+       "Formas de tratamiento en español",
+       []
+      ],
+      [
+       "07817",
+       "El funcionamiento de las clases gramaticales",
+       []
+      ],
+      [
+       "07818",
+       "Estructuras sintácticas en español",
+       []
+      ],
+      [
+       "07819",
+       "Sintaxis en la producción de textos",
+       []
+      ],
+      [
+       "07833",
+       "Realidad sociohistórica y lingüística del español",
+       []
+      ],
+      [
+       "07834",
+       "Pluricentrismo de la lengua española",
+       []
+      ],
+      [
+       "07835",
+       "Glotopolítica de la lengua española",
+       []
+      ]
+     ]
+    ],
+    [
+     "Literatura hispânica",
+     [
+      [
+       "03198",
+       "Tendencias actuales de la literatura española",
+       []
+      ],
+      [
+       "03418",
+       "Aspectos sociales en la literatura en lengua española",
+       []
+      ],
+      [
+       "03419",
+       "Tiempo de silencio: narrativas de posguerra",
+       []
+      ],
+      [
+       "03420",
+       "Literatura española actual",
+       []
+      ],
+      [
+       "03421",
+       "Identidad en la literatura en lengua española",
+       []
+      ],
+      [
+       "03422",
+       "Contemporaneidad hispanoamericana",
+       []
+      ],
+      [
+       "04566",
+       "Hispanoamérica y sus ideas: el ensayo",
+       []
+      ],
+      [
+       "04567",
+       "Hispanoamérica y su hondo sentir: la poesía",
+       []
+      ],
+      [
+       "04568",
+       "Hispanoamérica y su imaginación: la narración breve",
+       []
+      ],
+      [
+       "04569",
+       "Hispanoamérica y su imaginación: la novela",
+       []
+      ],
+      [
+       "04571",
+       "Vertientes literarias de lo fantástico en el contexto español",
+       []
+      ],
+      [
+       "04572",
+       "Literatura fantástica en el contexto hispanoamericano",
+       []
+      ],
+      [
+       "04573",
+       "El cuento fantástico",
+       []
+      ],
+      [
+       "05625",
+       "Literatura medieval: poesía",
+       []
+      ],
+      [
+       "05626",
+       "Literatura medieval: prosa",
+       []
+      ],
+      [
+       "05627",
+       "Literatura española: siglos XV y XVI",
+       []
+      ],
+      [
+       "07820",
+       "El romanticismo literario español: poesía",
+       []
+      ],
+      [
+       "07821",
+       "La prosa romántica española",
+       []
+      ],
+      [
+       "07822",
+       "El teatro romántico español",
+       []
+      ],
+      [
+       "07823",
+       "Realismo y naturalismo literario en España",
+       []
+      ]
+     ]
+    ],
+    [
+     "Ensino e produção textual",
+     [
+      [
+       "03409",
+       "La enseñanza-aprendizaje de Lenguas Extranjeras",
+       []
+      ],
+      [
+       "03410",
+       "Métodos de Enseñanza-Aprendizaje de Lenguas Extranjeras",
+       []
+      ],
+      [
+       "03411",
+       "Enseñanza-aprendizaje de lengua extranjera: implicaciones pedagógicas",
+       []
+      ],
+      [
+       "03412",
+       "La enseñanza-aprendizaje del Español como Lengua Extranjera",
+       []
+      ],
+      [
+       "03413",
+       "Diversidad de soportes para la enseñanza-aprendizaje de español",
+       []
+      ],
+      [
+       "04914",
+       "Variedades lingüísticas y producción textual",
+       []
+      ],
+      [
+       "04915",
+       "Composición de textos en español",
+       []
+      ],
+      [
+       "04916",
+       "Tipologías textuales: narración y descripción",
+       []
+      ],
+      [
+       "04917",
+       "Tipologías textuales: exposición, argumentación e instrucción",
+       []
+      ],
+      [
+       "07182",
+       "Práctica escrita y oral en géneros profesionales",
+       []
+      ],
+      [
+       "07183",
+       "Práctica escrita y oral en géneros académicos",
+       []
+      ],
+      [
+       "07184",
+       "Práctica escrita y oral en diferentes tipologías textuales",
+       []
+      ],
+      [
+       "07185",
+       "Estrategias comparativas de comunicación",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Libras e educação de surdos",
+   "d": "Língua Brasileira de Sinais, cultura surda, tradução e educação.",
+   "h": 170,
+   "s": [
+    [
+     "Cultura surda",
+     [
+      [
+       "00997",
+       "Cultura das comunidades sinalizantes",
+       []
+      ]
+     ]
+    ],
+    [
+     "Linguística da Libras",
+     [
+      [
+       "00995",
+       "Aspectos sociolinguísticos da Língua Brasileira de Sinais",
+       []
+      ],
+      [
+       "00998",
+       "Especificidades linguísticas da língua brasileira de sinais",
+       []
+      ],
+      [
+       "02239",
+       "Sintaxe espacial da Libras",
+       []
+      ],
+      [
+       "02349",
+       "Componente Verbal da Libras",
+       []
+      ],
+      [
+       "02442",
+       "Estruturação das sentenças em Libras",
+       []
+      ],
+      [
+       "02577",
+       "Linguística e Ensino de Libras",
+       []
+      ],
+      [
+       "02702",
+       "Pesquisa em Linguística Aplicada em Línguas de Sinais",
+       []
+      ],
+      [
+       "02718",
+       "Pragmática e Línguas de Sinais",
+       []
+      ],
+      [
+       "02759",
+       "Psicolinguística e línguas de sinais",
+       []
+      ],
+      [
+       "02790",
+       "Significação e contextos na Libras",
+       []
+      ],
+      [
+       "02791",
+       "Significação e relações semânticas na Libras",
+       []
+      ]
+     ]
+    ],
+    [
+     "Educação, tradução e psicologia da surdez",
+     [
+      [
+       "01001",
+       "Políticas de Inclusão dos Surdos",
+       []
+      ],
+      [
+       "02366",
+       "Contribuição da Psicologia para a educação de surdos",
+       []
+      ],
+      [
+       "02666",
+       "O tradutor e intérprete de línguas de sinais e língua portuguesa",
+       []
+      ],
+      [
+       "02831",
+       "Tradução e interpretação no contexto cultural do povo surdo",
+       []
+      ],
+      [
+       "02957",
+       "Psicologia e surdez",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Direito civil, empresarial e consumidor",
+   "d": "Obrigações, contratos, família, sucessões, empresas, startups e relações de consumo.",
+   "h": 285,
+   "s": [
+    [
+     "Introdução, ética e profissão jurídica",
+     [
+      [
+       "01312",
+       "Análise Econômica do Direito",
+       []
+      ],
+      [
+       "03194",
+       "Ética jurídica: a advocacia",
+       []
+      ],
+      [
+       "03195",
+       "Inscrição e registro na OAB",
+       []
+      ],
+      [
+       "03196",
+       "Código de Ética da OAB",
+       []
+      ],
+      [
+       "03197",
+       "A Ordem dos Advogados do Brasil",
+       []
+      ]
+     ]
+    ],
+    [
+     "Obrigações e contratos",
+     [
+      [
+       "02014",
+       "Tópicos atuais em contratos",
+       []
+      ],
+      [
+       "02342",
+       "Classificação dos contratos",
+       []
+      ],
+      [
+       "02365",
+       "Contratos em Espécie",
+       []
+      ],
+      [
+       "02457",
+       "Extinção dos contratos",
+       []
+      ],
+      [
+       "02470",
+       "Formação e efeitos do contrato sobre terceiros",
+       []
+      ],
+      [
+       "02490",
+       "Fundamentos das obrigações",
+       []
+      ],
+      [
+       "02497",
+       "Fundamentos dos contratos",
+       []
+      ],
+      [
+       "02611",
+       "Modalidades e transmissões das obrigações",
+       []
+      ]
+     ]
+    ],
+    [
+     "Responsabilidade civil e personalidade",
+     [
+      [
+       "02777",
+       "Responsabilidade civil",
+       []
+      ],
+      [
+       "07100",
+       "O caso Giovanna Antonelli e os direitos da personalidade",
+       []
+      ],
+      [
+       "07101",
+       "Nota de ensino - O caso Giovanna Antonelli e os direitos da personalidade",
+       []
+      ]
+     ]
+    ],
+    [
+     "Direitos reais e propriedade",
+     [
+      [
+       "02252",
+       "Ações possessórias e proteção da posse por outros meios",
+       []
+      ],
+      [
+       "02391",
+       "Direito de vizinhança e condomínios",
+       []
+      ],
+      [
+       "02393",
+       "Direitos Reais sobre coisa alheia e suas garantias",
+       []
+      ],
+      [
+       "02716",
+       "Posse",
+       []
+      ],
+      [
+       "02755",
+       "Propriedade",
+       []
+      ],
+      [
+       "02820",
+       "Teoria geral dos direitos reais",
+       []
+      ]
+     ]
+    ],
+    [
+     "Família e sucessões",
+     [
+      [
+       "03178",
+       "Noções gerais do Direito de Família",
+       []
+      ],
+      [
+       "03179",
+       "Casamento",
+       []
+      ],
+      [
+       "03180",
+       "Direito patrimonial de família",
+       []
+      ],
+      [
+       "03181",
+       "Temas atuais do Direito de Família",
+       []
+      ],
+      [
+       "03182",
+       "Direito das Sucessões",
+       []
+      ],
+      [
+       "03183",
+       "Inventário e planejamento sucessório",
+       []
+      ],
+      [
+       "04026",
+       "Casos práticos de direito das sucessões",
+       []
+      ]
+     ]
+    ],
+    [
+     "Direito empresarial e startups",
+     [
+      [
+       "00595",
+       "Direito empresarial: sociedades regulamentadas no Código Civil",
+       []
+      ],
+      [
+       "00824",
+       "Noções básicas de sociedade limitada e sociedade anônima",
+       []
+      ],
+      [
+       "00926",
+       "Recuperação de Empresa e Falência",
+       []
+      ],
+      [
+       "04448",
+       "Títulos de crédito em espécie",
+       []
+      ],
+      [
+       "04817",
+       "Startups no Brasil",
+       []
+      ],
+      [
+       "04818",
+       "Societário e contratos nas startups",
+       []
+      ],
+      [
+       "04819",
+       "Aspectos tributários das Startups",
+       []
+      ],
+      [
+       "07319",
+       "Sociedades no Código Civil",
+       []
+      ],
+      [
+       "07320",
+       "Sociedade Limitada",
+       []
+      ],
+      [
+       "07321",
+       "Sociedade anônima",
+       []
+      ],
+      [
+       "07322",
+       "Recuperação de empresas",
+       []
+      ],
+      [
+       "07323",
+       "Falência",
+       []
+      ]
+     ]
+    ],
+    [
+     "Direito do consumidor",
+     [
+      [
+       "00628",
+       "Direito do consumidor",
+       [
+        "03988",
+        "05309"
+       ]
+      ],
+      [
+       "04443",
+       "Relação de consumo",
+       [
+        "05677"
+       ]
+      ],
+      [
+       "04444",
+       "Política nacional das relações de consumo",
+       [
+        "05678"
+       ]
+      ],
+      [
+       "04445",
+       "Responsabilidade civil nas relações de consumo",
+       [
+        "05679"
+       ]
+      ],
+      [
+       "04446",
+       "Prevenção e tratamento do superendividamento",
+       [
+        "05680"
+       ]
+      ],
+      [
+       "04447",
+       "Defesa do consumidor em juízo",
+       [
+        "05681"
+       ]
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Direito do trabalho, previdenciário e tributário",
+   "d": "Relações de trabalho, processo trabalhista, seguridade social e tributos.",
+   "h": 10,
+   "s": [
+    [
+     "Direito do trabalho",
+     [
+      [
+       "00244",
+       "Cálculos trabalhistas",
+       []
+      ],
+      [
+       "00383",
+       "Introdução ao Direito do Trabalho",
+       [
+        "07744"
+       ]
+      ],
+      [
+       "01933",
+       "Relações de trabalho",
+       [
+        "07743"
+       ]
+      ],
+      [
+       "04060",
+       "Contrato de trabalho",
+       []
+      ],
+      [
+       "04061",
+       "Terceirização",
+       []
+      ],
+      [
+       "04062",
+       "Alteração do contrato de trabalho",
+       []
+      ],
+      [
+       "04063",
+       "Teoria geral do Direito do Trabalho",
+       [
+        "04437"
+       ]
+      ],
+      [
+       "04064",
+       "Empregador",
+       []
+      ],
+      [
+       "04065",
+       "Empregado",
+       []
+      ],
+      [
+       "04067",
+       "Terminação do contrato de trabalho",
+       []
+      ],
+      [
+       "04068",
+       "Garantia de emprego e estabilidade",
+       []
+      ],
+      [
+       "04438",
+       "Relação de emprego e seus sujeitos",
+       []
+      ],
+      [
+       "04439",
+       "Contrato individual de trabalho e suas garantias",
+       []
+      ],
+      [
+       "04440",
+       "Reparação de danos no Direito do Trabalho",
+       []
+      ],
+      [
+       "04441",
+       "Segurança e Medicina do Trabalho",
+       []
+      ],
+      [
+       "04442",
+       "Direito Coletivo do Trabalho",
+       []
+      ]
+     ]
+    ],
+    [
+     "Processo do trabalho",
+     [
+      [
+       "04074",
+       "Liquidação da Sentença",
+       []
+      ],
+      [
+       "04075",
+       "Execução trabalhista",
+       []
+      ],
+      [
+       "04076",
+       "Defesa e recursos na execução trabalhista",
+       []
+      ],
+      [
+       "04142",
+       "Precedentes no processo do trabalho",
+       []
+      ],
+      [
+       "04143",
+       "Recursos em espécie",
+       []
+      ],
+      [
+       "04144",
+       "Teoria geral dos recursos trabalhistas",
+       []
+      ],
+      [
+       "04148",
+       "Fase postulatória trabalhista",
+       []
+      ],
+      [
+       "04149",
+       "Provas",
+       []
+      ],
+      [
+       "04150",
+       "Teoria Geral do Processo do Trabalho",
+       []
+      ]
+     ]
+    ],
+    [
+     "Previdência social",
+     [
+      [
+       "00273",
+       "Seguridade social",
+       []
+      ],
+      [
+       "01193",
+       "Regime Geral de Previdência Social",
+       []
+      ],
+      [
+       "04038",
+       "Introdução à prática previdenciária",
+       []
+      ],
+      [
+       "04039",
+       "Prática administrativa previdenciária",
+       []
+      ],
+      [
+       "04040",
+       "Prática Judicial Previdenciária",
+       []
+      ],
+      [
+       "04066",
+       "Regime Próprio de Previdência dos Servidores",
+       []
+      ],
+      [
+       "04661",
+       "Fundamentos do Direito Previdenciário",
+       []
+      ],
+      [
+       "04662",
+       "Benefícios previdenciários",
+       []
+      ]
+     ]
+    ],
+    [
+     "Direito tributário",
+     [
+      [
+       "00398",
+       "Planejamento tributário",
+       []
+      ],
+      [
+       "01192",
+       "Introdução ao Direito Tributário",
+       []
+      ],
+      [
+       "02368",
+       "Crédito tributário",
+       []
+      ],
+      [
+       "02495",
+       "Fundamentos do Direito Tributário",
+       []
+      ],
+      [
+       "02570",
+       "Limitações constitucionais ao poder de tributar",
+       []
+      ],
+      [
+       "02668",
+       "Obrigação tributária",
+       []
+      ],
+      [
+       "02837",
+       "Tributos em espécie",
+       []
+      ],
+      [
+       "04034",
+       "Elisão, evasão, sonegação e fraude fiscal do crédito",
+       []
+      ]
+     ]
+    ],
+    [
+     "Processo e execução fiscal",
+     [
+      [
+       "02736",
+       "Processo administrativo e judicial tributário",
+       []
+      ],
+      [
+       "04030",
+       "Processo administrativo tributário",
+       []
+      ],
+      [
+       "04031",
+       "Execução fiscal",
+       []
+      ],
+      [
+       "04032",
+       "Ações do contribuinte",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Direito público, penal e processual",
+   "d": "Constitucional, penal, processo, direitos humanos, conflitos, direito digital e ambiental.",
+   "h": 225,
+   "s": [
+    [
+     "Constitucional e administrativo",
+     [
+      [
+       "01205",
+       "Garantias constitucionais e possibilidades de sua limitação",
+       []
+      ],
+      [
+       "01446",
+       "Controle de constitucionalidade e processo constitucional",
+       []
+      ],
+      [
+       "01535",
+       "Estado, princípios e poderes da Administração Pública",
+       []
+      ],
+      [
+       "01745",
+       "Mandado de segurança",
+       []
+      ],
+      [
+       "02709",
+       "Poder Executivo e Legislativo",
+       []
+      ],
+      [
+       "02738",
+       "Processo legislativo",
+       []
+      ],
+      [
+       "02774",
+       "Remédios constitucionais",
+       []
+      ],
+      [
+       "04023",
+       "Ação civil pública",
+       []
+      ],
+      [
+       "04024",
+       "Ação popular",
+       []
+      ],
+      [
+       "04025",
+       "Mandado de Segurança Coletivo",
+       []
+      ],
+      [
+       "04073",
+       "Questões constitucionais contemporâneas",
+       []
+      ],
+      [
+       "04528",
+       "Noções gerais de Direito Público",
+       []
+      ],
+      [
+       "05310",
+       "A ANP e a regulação em postos de gasolina",
+       []
+      ]
+     ]
+    ],
+    [
+     "Direito penal e crimes em espécie",
+     [
+      [
+       "02369",
+       "Crimes contra a paz pública, fé e administração pública",
+       []
+      ],
+      [
+       "02370",
+       "Crimes contra a pessoa",
+       [
+        "04100"
+       ]
+      ],
+      [
+       "02456",
+       "Extinção da punibilidade",
+       []
+      ],
+      [
+       "02562",
+       "Legislação extravagante",
+       []
+      ],
+      [
+       "02563",
+       "Legislação extravagante econômica",
+       [
+        "04137",
+        "04540"
+       ]
+      ],
+      [
+       "02823",
+       "Teorias da sanção penal",
+       [
+        "04097"
+       ]
+      ],
+      [
+       "02913",
+       "Crimes contra o patrimônio",
+       [
+        "04101"
+       ]
+      ],
+      [
+       "02973",
+       "Crimes contra a dignidade sexual",
+       [
+        "04102"
+       ]
+      ],
+      [
+       "04027",
+       "Criminalidade Econômica",
+       []
+      ],
+      [
+       "04028",
+       "Crimes contra a ordem tributária",
+       []
+      ],
+      [
+       "04029",
+       "Compliance criminal",
+       []
+      ],
+      [
+       "04069",
+       "Inovações na teoria do crime",
+       []
+      ],
+      [
+       "04070",
+       "Crimes hediondos e equiparados",
+       []
+      ],
+      [
+       "04138",
+       "Novas tendências do Direito Penal",
+       []
+      ],
+      [
+       "04541",
+       "Criminalidade financeira no contexto internacional",
+       []
+      ],
+      [
+       "04798",
+       "Direito Penal Econômico",
+       []
+      ],
+      [
+       "04799",
+       "Crimes Penais Econômicos em Espécie",
+       []
+      ]
+     ]
+    ],
+    [
+     "Criminologia e política criminal",
+     [
+      [
+       "01208",
+       "Controle social penal e estado democrático de direito",
+       []
+      ],
+      [
+       "04071",
+       "A sociedade de riscos e a criminalização de condutas de perigo",
+       []
+      ],
+      [
+       "04072",
+       "Violência e vulnerabilidade",
+       []
+      ],
+      [
+       "04130",
+       "A criminologia no século XXI",
+       []
+      ],
+      [
+       "04131",
+       "A ciência criminológica e as demais ciências penais",
+       []
+      ],
+      [
+       "04132",
+       "Escolas sociológicas da criminologia",
+       []
+      ]
+     ]
+    ],
+    [
+     "Processo penal e execução penal",
+     [
+      [
+       "02731",
+       "Prisão no curso da investigação e no processo",
+       [
+        "04077"
+       ]
+      ],
+      [
+       "03188",
+       "Atos processuais penais",
+       []
+      ],
+      [
+       "03189",
+       "Provas no processo penal",
+       []
+      ],
+      [
+       "03190",
+       "Procedimentos processuais penais",
+       [
+        "04079"
+       ]
+      ],
+      [
+       "03191",
+       "Recursos no Processo Penal",
+       [
+        "04080"
+       ]
+      ],
+      [
+       "03192",
+       "Ações autônomas de impugnação",
+       []
+      ],
+      [
+       "04035",
+       "Teoria Geral da Execução Penal",
+       []
+      ],
+      [
+       "04036",
+       "Direitos e deveres do preso",
+       []
+      ],
+      [
+       "04037",
+       "Execução e procedimento judicial",
+       []
+      ],
+      [
+       "04145",
+       "Ação penal",
+       []
+      ],
+      [
+       "04146",
+       "Fundamentos do direito processual penal",
+       []
+      ],
+      [
+       "04147",
+       "Investigação criminal",
+       []
+      ]
+     ]
+    ],
+    [
+     "Processo civil e recursos",
+     [
+      [
+       "01162",
+       "Sentença",
+       []
+      ],
+      [
+       "01881",
+       "Processo de conhecimento - fase inicial",
+       []
+      ],
+      [
+       "01882",
+       "Processo de conhecimento - saneamento e instrução",
+       []
+      ],
+      [
+       "02240",
+       "A sistemática e a teoria geral da execução civil no CPC/15",
+       []
+      ],
+      [
+       "02373",
+       "Da ordem dos processos nos tribunais",
+       []
+      ],
+      [
+       "02438",
+       "Estratégias de acesso aos tribunais superiores",
+       []
+      ],
+      [
+       "02454",
+       "Execução de título executivo extrajudicial e as defesas do executado",
+       []
+      ],
+      [
+       "02581",
+       "Liquidação e cumprimento de sentença",
+       []
+      ],
+      [
+       "02734",
+       "Procedimentos especiais de jurisdição contenciosa e voluntária",
+       []
+      ],
+      [
+       "02766",
+       "Recursos em espécie no processo civil",
+       []
+      ],
+      [
+       "02821",
+       "Teoria geral dos recursos e impactos estratégicos",
+       []
+      ],
+      [
+       "04660",
+       "Atos e prazos processuais",
+       []
+      ]
+     ]
+    ],
+    [
+     "Direitos humanos e infância e juventude",
+     [
+      [
+       "01505",
+       "Educação para os Direitos Humanos",
+       []
+      ],
+      [
+       "01598",
+       "Fundamentação histórica dos direitos humanos",
+       []
+      ],
+      [
+       "01973",
+       "Sistemas internacionais de direitos humanos",
+       []
+      ],
+      [
+       "02001",
+       "Teoria dos direitos humanos",
+       []
+      ],
+      [
+       "03184",
+       "Doutrina da proteção integral da criança e do adolescente",
+       []
+      ],
+      [
+       "03185",
+       "Proteção e Defesa à Criança e Adolescente",
+       []
+      ],
+      [
+       "03186",
+       "Dos Órgãos de Defesa, Proteção e Procedimentos",
+       []
+      ],
+      [
+       "03187",
+       "Sistema Nacional Socioeducativo - SINASE",
+       []
+      ],
+      [
+       "03193",
+       "Ética, direitos humanos e direitos não humanos",
+       []
+      ],
+      [
+       "07494",
+       "Sistemas Nacionais de Proteção",
+       []
+      ]
+     ]
+    ],
+    [
+     "Solução de conflitos e negociação",
+     [
+      [
+       "01769",
+       "Metodologias de negociação internacional",
+       [
+        "04560"
+       ]
+      ],
+      [
+       "03378",
+       "Métodos adequados de solução de conflitos",
+       [
+        "04134"
+       ]
+      ],
+      [
+       "03379",
+       "Negociação empresarial",
+       [
+        "04558"
+       ]
+      ],
+      [
+       "03380",
+       "Conciliação e mediação",
+       []
+      ],
+      [
+       "03381",
+       "Arbitragem",
+       []
+      ],
+      [
+       "05676",
+       "Mediação",
+       []
+      ],
+      [
+       "07492",
+       "Princípios, limitações e construção da confiança",
+       []
+      ],
+      [
+       "07493",
+       "Mediação Judicial e Extrajudicial",
+       []
+      ]
+     ]
+    ],
+    [
+     "Direito digital, LGPD e perícia",
+     [
+      [
+       "01492",
+       "Direito Penal Cibernético",
+       []
+      ],
+      [
+       "03264",
+       "Documentoscopia e escrita",
+       []
+      ],
+      [
+       "03267",
+       "Documentos de identificação e de perícia: laudo pericial",
+       []
+      ],
+      [
+       "03273",
+       "Fundamentos da interceptação telefônica",
+       []
+      ],
+      [
+       "03274",
+       "Aspectos peculiares da interceptação telefônica",
+       []
+      ],
+      [
+       "03896",
+       "Compliance e LGPD",
+       []
+      ],
+      [
+       "04139",
+       "A lei do processo eletrônico",
+       []
+      ],
+      [
+       "04140",
+       "Justiça Digital",
+       []
+      ],
+      [
+       "04141",
+       "Teoria geral do processo eletrônico",
+       []
+      ],
+      [
+       "04820",
+       "LGPD: Aspectos introdutórios",
+       []
+      ],
+      [
+       "04821",
+       "LGPD em prática",
+       []
+      ],
+      [
+       "04822",
+       "LGPD em efeitos",
+       []
+      ],
+      [
+       "04823",
+       "Adequação à LGPD",
+       []
+      ],
+      [
+       "07498",
+       "Teoria geral da prova e a perícia",
+       []
+      ],
+      [
+       "07499",
+       "Linguística forense",
+       []
+      ]
+     ]
+    ],
+    [
+     "Direito ambiental e internacional",
+     [
+      [
+       "01489",
+       "Direito Internacional e a ordem jurídica internacional",
+       []
+      ],
+      [
+       "03618",
+       "Direito Ambiental no Âmbito Constitucional e no Espaço Urbano",
+       [
+        "04800",
+        "05308"
+       ]
+      ],
+      [
+       "04801",
+       "Direito Penal Ambiental",
+       []
+      ],
+      [
+       "07495",
+       "Responsabilização por ilícitos ambientais",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Serviço Social",
+   "d": "Fundamentos, questão social, políticas públicas, ética, pesquisa e estágio.",
+   "h": 320,
+   "s": [
+    [
+     "Fundamentos e história do Serviço Social",
+     [
+      [
+       "03278",
+       "As perspectivas teórico-metodológicas do Serviço Social",
+       []
+      ],
+      [
+       "03279",
+       "Processo de institucionalização da profissão",
+       []
+      ]
+     ]
+    ],
+    [
+     "Questão social e mundo do trabalho",
+     [
+      [
+       "03277",
+       "Relações sociais, trabalho e o serviço social",
+       []
+      ],
+      [
+       "03280",
+       "O Estado no capitalismo monopolista e a questão social",
+       []
+      ],
+      [
+       "03281",
+       "Acumulação primitiva do capital",
+       []
+      ],
+      [
+       "03282",
+       "Produção fordista/taylorista e o modelo toyotista",
+       []
+      ],
+      [
+       "03283",
+       "Expressões contemporâneas da questão social",
+       []
+      ],
+      [
+       "03284",
+       "Relação de trabalho e realidade social",
+       []
+      ],
+      [
+       "03285",
+       "Questão social e seus determinantes",
+       []
+      ],
+      [
+       "03286",
+       "Questão social e Serviço Social",
+       []
+      ],
+      [
+       "03287",
+       "Questão social e as transformações no mundo do trabalho",
+       []
+      ]
+     ]
+    ],
+    [
+     "Políticas públicas e área sociojurídica",
+     [
+      [
+       "04428",
+       "Temas contemporâneos no Serviço Social",
+       []
+      ],
+      [
+       "04429",
+       "Políticas públicas no cenário contemporâneo",
+       []
+      ],
+      [
+       "04430",
+       "As práticas interventivas do assistente social",
+       []
+      ],
+      [
+       "04431",
+       "Sociedade brasileira atual: desafio para o assistente social",
+       []
+      ],
+      [
+       "04524",
+       "A área sociojurídica e o serviço social",
+       []
+      ],
+      [
+       "04525",
+       "Direito de família e serviço social",
+       []
+      ],
+      [
+       "04527",
+       "Violência de vulneráveis e instrumentos de proteção",
+       []
+      ]
+     ]
+    ],
+    [
+     "Ética e projeto ético-político",
+     [
+      [
+       "07413",
+       "Ética profissional do Serviço Social (décadas de 1930 a 1970)",
+       []
+      ],
+      [
+       "07414",
+       "Ética profissional do Serviço Social (décadas de 1980 e 1990)",
+       []
+      ],
+      [
+       "07415",
+       "Projeto ético-político do serviço social atual",
+       []
+      ]
+     ]
+    ],
+    [
+     "Pesquisa em Serviço Social",
+     [
+      [
+       "04424",
+       "A dimensão investigativa do Serviço Social",
+       []
+      ],
+      [
+       "04425",
+       "Abordagem e técnicas de pesquisa em Serviço Social",
+       []
+      ],
+      [
+       "04426",
+       "Metodologia Científica e Produção de Conhecimento",
+       []
+      ],
+      [
+       "04427",
+       "A pesquisa e produção científica no Serviço Social",
+       []
+      ],
+      [
+       "05287",
+       "A pesquisa nas ciências sociais aplicadas",
+       []
+      ],
+      [
+       "05288",
+       "Arte e pesquisa em serviço social",
+       []
+      ],
+      [
+       "05289",
+       "Estado da arte e pesquisa em serviço social",
+       []
+      ]
+     ]
+    ],
+    [
+     "Estágio em Serviço Social",
+     [
+      [
+       "04416",
+       "Legislação de estágio em Serviço Social: análise crítica",
+       []
+      ],
+      [
+       "04417",
+       "Princípios do estágio em Serviço Social: desafios",
+       []
+      ],
+      [
+       "04418",
+       "Teoria e prática no estágio em serviço social",
+       []
+      ],
+      [
+       "04419",
+       "Instrumentais do serviço social para a prática profissional",
+       []
+      ],
+      [
+       "04420",
+       "Legislação de estágio em Serviço Social: desafios",
+       []
+      ],
+      [
+       "04421",
+       "Princípios do estágio em Serviço Social: efetivação prática",
+       []
+      ],
+      [
+       "04422",
+       "Estágio em Serviço Social: o projeto de intervenção",
+       []
+      ],
+      [
+       "04423",
+       "Estágio em Serviço Social: justificativa para intervenção",
+       []
+      ]
+     ]
+    ],
+    [
+     "Movimentos sociais e terceiro setor",
+     [
+      [
+       "07154",
+       "Cidadania e responsabilidade social",
+       []
+      ],
+      [
+       "07155",
+       "Parcerias público-privadas: avanços e retrocessos",
+       []
+      ],
+      [
+       "07156",
+       "Serviço social e terceiro setor",
+       []
+      ],
+      [
+       "07164",
+       "Classes sociais e sociedade civil",
+       []
+      ],
+      [
+       "07165",
+       "O Estado no capitalismo e as lutas de classes",
+       []
+      ],
+      [
+       "07166",
+       "Serviço social e os movimentos sociais",
+       []
+      ],
+      [
+       "07167",
+       "Movimentos sociais e o processo educativo no Brasil",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "História e Geografia",
+   "d": "Antiguidade ao mundo contemporâneo, História do Brasil, povos originários, historiografia e geografia.",
+   "h": 75,
+   "s": [
+    [
+     "Antiguidade e Idade Média",
+     [
+      [
+       "02652",
+       "O legado cultural da Antiguidade Clássica",
+       []
+      ],
+      [
+       "03435",
+       "O estudo da Antiguidade: fontes e investigação",
+       []
+      ],
+      [
+       "03436",
+       "Formas políticas na Antiguidade",
+       []
+      ],
+      [
+       "03437",
+       "Religião e religiosidade no mundo antigo",
+       []
+      ],
+      [
+       "03438",
+       "Convulsões sociais e conflitos na Antiguidade",
+       []
+      ],
+      [
+       "03439",
+       "Arquitetura e a cidade na Antiguidade Oriental",
+       []
+      ],
+      [
+       "04611",
+       "O conceito de Idade Média e as discussões historiográficas",
+       []
+      ],
+      [
+       "04612",
+       "Formação dos reinos bárbaros",
+       []
+      ],
+      [
+       "04613",
+       "Política, economia e diplomacia bizantina",
+       []
+      ],
+      [
+       "04614",
+       "A formação do Islã",
+       []
+      ],
+      [
+       "04615",
+       "Da “Era de Ouro” às Cruzadas",
+       []
+      ],
+      [
+       "04616",
+       "Feudalismos",
+       []
+      ],
+      [
+       "04617",
+       "Renascimento Urbano e Comercial na Idade Média",
+       []
+      ]
+     ]
+    ],
+    [
+     "Idade Moderna",
+     [
+      [
+       "03207",
+       "Renascimentos: conceitos e “invenção” da modernidade",
+       []
+      ],
+      [
+       "03208",
+       "Conflitos religiosos: cristianismo, inquisição e política",
+       []
+      ],
+      [
+       "03209",
+       "Impérios modernos: russos, turcos e chineses",
+       []
+      ],
+      [
+       "03211",
+       "Os intelectuais e os ideais iluministas",
+       []
+      ],
+      [
+       "03212",
+       "Revoluções burguesas",
+       []
+      ]
+     ]
+    ],
+    [
+     "História do Brasil",
+     [
+      [
+       "03466",
+       "Cultura e intelectualidade no Brasil na Primeira República",
+       []
+      ],
+      [
+       "03467",
+       "Diversidade étnica na formação do Brasil",
+       []
+      ],
+      [
+       "03469",
+       "Os sertões, o campo e a cidade na Primeira República",
+       []
+      ],
+      [
+       "03470",
+       "Economia, Trabalho e Crise a partir dos anos 1930 no Brasil",
+       []
+      ],
+      [
+       "03471",
+       "Industrialização brasileira",
+       []
+      ],
+      [
+       "03472",
+       "Relações de trabalho no Brasil contemporâneo",
+       []
+      ],
+      [
+       "03874",
+       "Instauração da ordem republicana",
+       []
+      ],
+      [
+       "04405",
+       "Redemocratização no Brasil: de José Sarney a Fernando Collor",
+       []
+      ],
+      [
+       "04406",
+       "Narrativas coloniais na América Portuguesa",
+       []
+      ]
+     ]
+    ],
+    [
+     "Historiografia e métodos",
+     [
+      [
+       "03047",
+       "Fotografia como fonte de pesquisa",
+       []
+      ],
+      [
+       "03223",
+       "Introdução à História",
+       []
+      ],
+      [
+       "04407",
+       "O IHGB e o projeto de uma história nacional",
+       []
+      ],
+      [
+       "04408",
+       "Controvérsias na historiografia brasileira do século XIX",
+       []
+      ],
+      [
+       "04409",
+       "O ensaísmo sociológico de interpretação do Brasil",
+       []
+      ],
+      [
+       "04410",
+       "Historiografia brasileira e pós-modernidade",
+       []
+      ],
+      [
+       "04411",
+       "Historiografia brasileira contemporânea",
+       []
+      ],
+      [
+       "04412",
+       "Paradigmas estruturalistas e pós-estruturalistas",
+       []
+      ],
+      [
+       "07234",
+       "Projetos culturais em história",
+       []
+      ],
+      [
+       "07235",
+       "Projetos educacionais em história",
+       []
+      ],
+      [
+       "07263",
+       "Pesquisa em arquivos e organização de dados",
+       []
+      ],
+      [
+       "07264",
+       "História pública e organização de dados",
+       []
+      ],
+      [
+       "07582",
+       "História cultural",
+       []
+      ],
+      [
+       "07583",
+       "História oral",
+       []
+      ],
+      [
+       "07584",
+       "História Política",
+       []
+      ],
+      [
+       "07848",
+       "Documentos e tratamentos das fontes no campo da história",
+       []
+      ],
+      [
+       "07849",
+       "Micro-história",
+       []
+      ],
+      [
+       "07850",
+       "Análise do discurso em História",
+       []
+      ]
+     ]
+    ],
+    [
+     "Povos originários, África e América Latina",
+     [
+      [
+       "04601",
+       "Primeiras populações do Brasil",
+       []
+      ],
+      [
+       "04602",
+       "Negros da terra: formas de escravismo indígena",
+       []
+      ],
+      [
+       "04603",
+       "Índios idealizados: romantismo e as políticas de Rondon",
+       []
+      ],
+      [
+       "04604",
+       "Ancestralidade e tradições africanas",
+       []
+      ],
+      [
+       "04605",
+       "Quilombos e a cultura africana no Brasil",
+       []
+      ],
+      [
+       "04606",
+       "Movimentos negros na história do Brasil",
+       []
+      ],
+      [
+       "07230",
+       "Educação indígena no Brasil",
+       []
+      ],
+      [
+       "07231",
+       "Historiografia sobre os povos originários",
+       []
+      ],
+      [
+       "07232",
+       "Povos indígenas no Brasil contemporâneo",
+       []
+      ],
+      [
+       "07233",
+       "História da filosofia dos povos originários",
+       []
+      ],
+      [
+       "07421",
+       "América Latina no século XIX – metade do século XX",
+       []
+      ],
+      [
+       "07422",
+       "Américas do contexto da Guerra Fria",
+       []
+      ],
+      [
+       "07423",
+       "Culturas políticas latino-americanas",
+       []
+      ],
+      [
+       "07424",
+       "Golpes e governos militares no Cone Sul e região amazônica",
+       []
+      ]
+     ]
+    ],
+    [
+     "Geografia",
+     [
+      [
+       "02585",
+       "Lugares e narrativas turísticas",
+       []
+      ],
+      [
+       "02707",
+       "Planejamento urbano em discussão",
+       []
+      ],
+      [
+       "03224",
+       "Introdução à Geografia",
+       []
+      ],
+      [
+       "04413",
+       "Os novos modelos econômicos e a territorialidade",
+       []
+      ],
+      [
+       "04414",
+       "Territorialidade e identidades: os conflitos",
+       []
+      ],
+      [
+       "04607",
+       "Geografia política e geopolítica",
+       []
+      ],
+      [
+       "04608",
+       "Conceito de centro e periferia na dinâmica de espaço",
+       []
+      ],
+      [
+       "04609",
+       "Territórios políticos: taxionomia das relações de poder",
+       []
+      ],
+      [
+       "04610",
+       "Conflitos e territórios na atualidade",
+       []
+      ],
+      [
+       "07243",
+       "Projetos e a organização no campo da Geografia",
+       []
+      ],
+      [
+       "07244",
+       "Projetos de sustentabilidade em geografia",
+       []
+      ],
+      [
+       "07245",
+       "Projetos educacionais em geografia",
+       []
+      ],
+      [
+       "07273",
+       "Dinâmicas geoespaciais da paisagem brasileira",
+       []
+      ],
+      [
+       "07845",
+       "Geografia urbana e seus atores",
+       []
+      ],
+      [
+       "07846",
+       "História e Urbanização",
+       []
+      ],
+      [
+       "07847",
+       "Redes urbanas e metropolização",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Relações internacionais e política",
+   "d": "Sistema internacional, organizações, política externa, economia global e teoria política.",
+   "h": 190,
+   "s": [
+    [
+     "Fundamentos de Relações Internacionais",
+     [
+      [
+       "01486",
+       "Dinâmicas internacionais do século XXI",
+       []
+      ],
+      [
+       "03462",
+       "Evolução teórica da disciplina de Relações Internacionais",
+       []
+      ],
+      [
+       "03463",
+       "O campo profissional das Relações Internacionais",
+       []
+      ],
+      [
+       "03464",
+       "A história da formação do sistema internacional",
+       []
+      ],
+      [
+       "04565",
+       "A guerra na atualidade",
+       []
+      ],
+      [
+       "04663",
+       "A pesquisa acadêmica em Relações Internacionais",
+       []
+      ]
+     ]
+    ],
+    [
+     "Ásia, África e integração regional",
+     [
+      [
+       "02987",
+       "Integração Regional: Caminhos Históricos e Sociais",
+       []
+      ],
+      [
+       "03081",
+       "Da integração dos mercados à integração total",
+       []
+      ],
+      [
+       "03119",
+       "Projetos da América Latina para o seu desenvolvimento",
+       []
+      ],
+      [
+       "03201",
+       "Conceito de integração regional em regiões periféricas – Ásia e África",
+       []
+      ],
+      [
+       "03202",
+       "Guerra Fria: Desintegração Regional Ásia e África",
+       []
+      ],
+      [
+       "03203",
+       "Ásia e África no sistema econômico da nova ordem mundial",
+       []
+      ],
+      [
+       "03204",
+       "Aplicação de conceitos de RI para África e Ásia no século XXI",
+       []
+      ]
+     ]
+    ],
+    [
+     "Organizações e agenda internacional",
+     [
+      [
+       "03114",
+       "Organizações Mundiais",
+       []
+      ],
+      [
+       "03115",
+       "Organizações Não Governamentais de Alcance Transnacional",
+       []
+      ],
+      [
+       "03116",
+       "Organizações regionais americanas e não americanas",
+       []
+      ],
+      [
+       "03126",
+       "Teoria das Organizações Internacionais",
+       []
+      ],
+      [
+       "04708",
+       "Definição e debates sobre a Agenda Internacional",
+       []
+      ],
+      [
+       "04709",
+       "Desafios da agenda internacional",
+       []
+      ],
+      [
+       "07496",
+       "Mercado de trabalho em RI: organizações internacionais",
+       []
+      ]
+     ]
+    ],
+    [
+     "Política externa e economia global",
+     [
+      [
+       "03461",
+       "Crises do capitalismo no Brasil",
+       []
+      ],
+      [
+       "03465",
+       "História do comércio transnacional",
+       []
+      ],
+      [
+       "03468",
+       "Comércio de gente: debate sobre a exploração do indivíduo no trabalho",
+       []
+      ],
+      [
+       "03765",
+       "A marcha dos EUA: a consolidação do capitalismo internacional",
+       []
+      ],
+      [
+       "04664",
+       "Ciclo da Diplomacia de Desenvolvimento",
+       []
+      ],
+      [
+       "04665",
+       "A dinâmica do ângulo atlântico",
+       []
+      ],
+      [
+       "04666",
+       "O ciclo da diplomacia neoliberal",
+       []
+      ],
+      [
+       "04667",
+       "Desafios da Política Externa Brasileira Contemporânea",
+       []
+      ]
+     ]
+    ],
+    [
+     "Teoria política e democracia",
+     [
+      [
+       "00389",
+       "O Estado e a política pública",
+       []
+      ],
+      [
+       "07280",
+       "Teorias minimalistas de democracia",
+       []
+      ],
+      [
+       "07281",
+       "Poliarquia e teorias de justiça",
+       []
+      ],
+      [
+       "07282",
+       "Libertarismo, republicanismo e procedimentalismo",
+       []
+      ],
+      [
+       "07283",
+       "Redistribuição, reconhecimento e comunitarismo",
+       []
+      ],
+      [
+       "07284",
+       "Multiculturalismo, capitalismo e emancipação",
+       []
+      ],
+      [
+       "07285",
+       "Democracia agonística",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Artes, cultura e comunicação",
+   "d": "História da arte, arte contemporânea, teatro, mídia, jornalismo, publicidade e arteterapia.",
+   "h": 300,
+   "s": [
+    [
+     "História da arte",
+     [
+      [
+       "00604",
+       "Contextualização histórica da modernidade artística",
+       []
+      ],
+      [
+       "01027",
+       "Arte e arquitetura na antiguidade clássica",
+       []
+      ],
+      [
+       "02281",
+       "Arte e literatura na Antiguidade Clássica",
+       []
+      ],
+      [
+       "02966",
+       "Arte Sacra no Brasil",
+       []
+      ],
+      [
+       "03440",
+       "O sistema da arte",
+       []
+      ],
+      [
+       "03441",
+       "Arte e seus agentes",
+       []
+      ],
+      [
+       "03442",
+       "Arte e produção de valor",
+       []
+      ],
+      [
+       "03443",
+       "Reconfigurações do sistema da arte",
+       []
+      ],
+      [
+       "03444",
+       "História da arte brasileira: modernismo",
+       []
+      ],
+      [
+       "03445",
+       "História da Arte Brasileira: anos 1940 a 1960",
+       []
+      ],
+      [
+       "03446",
+       "História da arte brasileira dos anos 1970 a 1990",
+       []
+      ],
+      [
+       "03447",
+       "História da arte brasileira na contemporaneidade",
+       []
+      ]
+     ]
+    ],
+    [
+     "Arte contemporânea e instalação",
+     [
+      [
+       "00484",
+       "A escultura na arte moderna e arte contemporânea",
+       []
+      ],
+      [
+       "00543",
+       "Arte Contemporânea",
+       []
+      ],
+      [
+       "02518",
+       "Instalação e arte contemporânea no mundo",
+       []
+      ],
+      [
+       "02986",
+       "Instalação e a Arte Contemporânea na América Latina",
+       []
+      ],
+      [
+       "03080",
+       "Instalação no Brasil: um campo expandido",
+       []
+      ],
+      [
+       "03120",
+       "Rupturas conceituais da arte contemporânea",
+       []
+      ],
+      [
+       "03473",
+       "Conceito de arte e cultura contemporâneas",
+       []
+      ],
+      [
+       "03822",
+       "Estética da Arte Contemporânea",
+       []
+      ]
+     ]
+    ],
+    [
+     "Artes visuais e pesquisa",
+     [
+      [
+       "01340",
+       "Artes Visuais e pesquisa",
+       []
+      ],
+      [
+       "01892",
+       "Professor-pesquisador em artes",
+       []
+      ],
+      [
+       "03077",
+       "Artes visuais em Pindorama",
+       []
+      ],
+      [
+       "03503",
+       "Produção acadêmica em artes visuais: conceito e estrutura",
+       []
+      ],
+      [
+       "03504",
+       "Linhas de pesquisa em artes visuais: procedimentos teóricos",
+       []
+      ],
+      [
+       "03505",
+       "Pesquisa em artes visuais: linhas das áreas pedagógicas",
+       []
+      ],
+      [
+       "03506",
+       "Pesquisa em artes visuais: linhas das áreas de criação",
+       []
+      ]
+     ]
+    ],
+    [
+     "Teatro e dramaturgia",
+     [
+      [
+       "00667",
+       "Estudos de dramaturgia",
+       []
+      ],
+      [
+       "02291",
+       "Técnicas do Teatro do Oprimido",
+       []
+      ],
+      [
+       "02293",
+       "Aspectos culturais de interpretação do corpo",
+       []
+      ],
+      [
+       "02977",
+       "Elementos Cenográficos",
+       []
+      ],
+      [
+       "03205",
+       "Tradição oral: griots, griotes e brincantes",
+       []
+      ],
+      [
+       "03206",
+       "Práticas cênico-performativas e a cena contemporânea",
+       []
+      ],
+      [
+       "04401",
+       "Análise de textos dramatúrgicos antigos",
+       []
+      ],
+      [
+       "04402",
+       "Análise de textos dramatúrgicos neoclássicos e românticos",
+       []
+      ],
+      [
+       "04403",
+       "Análise de textos dramatúrgicos modernos e pós-modernos",
+       []
+      ],
+      [
+       "04404",
+       "Criando cenas com diferentes gêneros dramáticos",
+       []
+      ],
+      [
+       "04415",
+       "Jacques Lecoq: novos caminhos de expressão criativa",
+       []
+      ],
+      [
+       "04600",
+       "A interação entre figurino, cenografia e recursos cênicos",
+       []
+      ],
+      [
+       "07275",
+       "Produzindo um espetáculo na escola",
+       []
+      ],
+      [
+       "07276",
+       "Teatro infantojuvenil: dos anos 1980 ao séc. XXI",
+       []
+      ]
+     ]
+    ],
+    [
+     "Mídia e jornalismo",
+     [
+      [
+       "02407",
+       "Elaboração do projeto jornalístico",
+       []
+      ],
+      [
+       "02449",
+       "Ética e legislação em jornalismo",
+       []
+      ],
+      [
+       "02607",
+       "Projeto jornalístico impresso, audiovisual e digital",
+       []
+      ],
+      [
+       "02631",
+       "Novas leituras nas teorias do Jornalismo",
+       []
+      ],
+      [
+       "03448",
+       "O Nascimento da mídia em perspectiva histórica",
+       []
+      ],
+      [
+       "03449",
+       "Mídia e comunicação de massa",
+       []
+      ]
+     ]
+    ],
+    [
+     "Publicidade e projetos",
+     [
+      [
+       "02450",
+       "Ética e legislação em publicidade",
+       []
+      ],
+      [
+       "02704",
+       "Planejamento de campanha publicitária de bens imateriais e serviços",
+       []
+      ],
+      [
+       "02974",
+       "Desenvolvimento de campanha publicitária, bens e serviços",
+       []
+      ],
+      [
+       "03127",
+       "Desenvolvimento do projeto experimental onicanal",
+       []
+      ]
+     ]
+    ],
+    [
+     "Arte-educação e arteterapia",
+     [
+      [
+       "03103",
+       "Estratégias pedagógicas para o Ensino de Artes",
+       []
+      ],
+      [
+       "03220",
+       "Educação estética",
+       []
+      ],
+      [
+       "07256",
+       "Conceito de arteterapia e sua aplicação",
+       []
+      ],
+      [
+       "07257",
+       "Arte com fins terapêuticos",
+       []
+      ],
+      [
+       "07258",
+       "Expressões criativas e suas representações",
+       []
+      ],
+      [
+       "07259",
+       "Práticas arteterapêuticas na escola",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Filosofia, sociedade e cultura",
+   "d": "Filosofia, sociedade brasileira, identidade, pós-modernidade e questões contemporâneas.",
+   "h": 125,
+   "s": [
+    [
+     "Filosofia",
+     [
+      [
+       "00072",
+       "Idealismo alemão",
+       []
+      ],
+      [
+       "01582",
+       "Filosofia moral",
+       []
+      ],
+      [
+       "02436",
+       "Estética da existência",
+       []
+      ]
+     ]
+    ],
+    [
+     "Sociedade brasileira e identidade",
+     [
+      [
+       "00326",
+       "Relações entre a engenharia e a sociedade brasileira",
+       []
+      ],
+      [
+       "00347",
+       "O povo brasileiro e a questão do negro e do indígena",
+       []
+      ],
+      [
+       "00417",
+       "A sociedade brasileira",
+       []
+      ],
+      [
+       "03577",
+       "Identidade e relações sociais",
+       []
+      ]
+     ]
+    ],
+    [
+     "Cultura e pós-modernidade",
+     [
+      [
+       "03453",
+       "Pensadores da cultura pós-moderna",
+       []
+      ],
+      [
+       "03454",
+       "Culturas híbridas: conceitos e pensadores",
+       []
+      ]
+     ]
+    ],
+    [
+     "Cidadania e questões contemporâneas",
+     [
+      [
+       "00038",
+       "Questões sociais: minorias, periferias e religiosidade",
+       []
+      ],
+      [
+       "00181",
+       "Desafios do mundo contemporâneo",
+       []
+      ],
+      [
+       "00214",
+       "Cidadania",
+       []
+      ],
+      [
+       "01185",
+       "Violência, conflito e sociedade",
+       []
+      ],
+      [
+       "01204",
+       "Comunicação e política",
+       []
+      ],
+      [
+       "02914",
+       "Opinião pública e interesse público",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Ensino de Matemática e Ciências",
+   "d": "Como ensinar Matemática, Ciências Naturais, Química e Física: história, currículo, BNCC e metodologias.",
+   "h": 150,
+   "s": [
+    [
+     "Matemática: história e ensino",
+     [
+      [
+       "03225",
+       "Práticas matemáticas significativas",
+       []
+      ],
+      [
+       "03227",
+       "Matemática na busca de soluções",
+       []
+      ],
+      [
+       "03228",
+       "O pensamento matemático",
+       []
+      ],
+      [
+       "03229",
+       "Matemática na educação básica e a BNCC",
+       []
+      ],
+      [
+       "03455",
+       "História do conhecimento matemático na Antiguidade",
+       []
+      ],
+      [
+       "03456",
+       "História da Matemática na Idade Média",
+       []
+      ],
+      [
+       "03457",
+       "História do ensino da Matemática Moderna",
+       []
+      ],
+      [
+       "03458",
+       "Os problemas e a matemática contemporânea",
+       []
+      ],
+      [
+       "03459",
+       "A História Contemporânea do Ensino da Matemática",
+       []
+      ],
+      [
+       "03864",
+       "O ensino-aprendizagem de números na BNCC",
+       []
+      ],
+      [
+       "03865",
+       "O ensino-aprendizagem de Álgebra na BNCC",
+       []
+      ],
+      [
+       "03866",
+       "O ensino-aprendizagem de Geometria e a BNCC",
+       []
+      ],
+      [
+       "03867",
+       "O ensino-aprendizagem de Probabilidade e Estatística e BNCC",
+       []
+      ]
+     ]
+    ],
+    [
+     "Ciências Naturais",
+     [
+      [
+       "02608",
+       "Metodologias para o ensino de Ciências Naturais",
+       []
+      ],
+      [
+       "03213",
+       "A área das Ciências Naturais e o currículo escolar",
+       []
+      ],
+      [
+       "03214",
+       "Ciências Naturais e formação docente",
+       []
+      ],
+      [
+       "03215",
+       "Estratégias pedagógicas no ensino de Ciências Naturais",
+       []
+      ],
+      [
+       "03216",
+       "BNCC e o desenvolvimento de competências para ciências naturais",
+       []
+      ],
+      [
+       "05276",
+       "Atlas Digital de Microscopia",
+       []
+      ]
+     ]
+    ],
+    [
+     "Química e Física no ensino",
+     [
+      [
+       "02217",
+       "A experimentação no ensino de química",
+       []
+      ],
+      [
+       "02361",
+       "Saberes profissionais do docente de Física",
+       []
+      ],
+      [
+       "02958",
+       "Recursos e Mídias Audiovisuais no Ensino de Química",
+       []
+      ],
+      [
+       "02959",
+       "Material didático para ensino de Física",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Pesquisa e carreira",
+   "d": "Vida acadêmica, métodos de pesquisa, linhas de pesquisa e comunicação profissional.",
+   "h": 85,
+   "s": [
+    [
+     "Vida acadêmica e métodos de pesquisa",
+     [
+      [
+       "00066",
+       "Vida Universitária",
+       []
+      ],
+      [
+       "00520",
+       "Análise de dados quantitativos",
+       []
+      ],
+      [
+       "00671",
+       "Ética na pesquisa científica",
+       []
+      ],
+      [
+       "00854",
+       "Organização de trabalhos acadêmicos",
+       []
+      ],
+      [
+       "00873",
+       "Planejamento de pesquisa",
+       []
+      ],
+      [
+       "00962",
+       "Técnicas de pesquisa",
+       []
+      ],
+      [
+       "02673",
+       "Orientação de TCC",
+       []
+      ],
+      [
+       "02899",
+       "Como estudar melhor",
+       []
+      ],
+      [
+       "03217",
+       "Elaboração de projeto de pesquisa",
+       []
+      ],
+      [
+       "04432",
+       "Fundamentos da prática de pesquisa em Educação",
+       []
+      ],
+      [
+       "04433",
+       "Tipos de pesquisa em Educação",
+       []
+      ],
+      [
+       "04434",
+       "Didática e cotidiano na prática de pesquisa em Educação",
+       []
+      ],
+      [
+       "04435",
+       "Políticas públicas na prática de pesquisa em educação",
+       []
+      ],
+      [
+       "04436",
+       "Tecnologias educacionais em prática de pesquisa em educação",
+       []
+      ],
+      [
+       "07278",
+       "Pesquisa quantitativa em ciências sociais",
+       []
+      ]
+     ]
+    ],
+    [
+     "Linhas de pesquisa",
+     [
+      [
+       "02579",
+       "Linhas de Pesquisa em Língua Portuguesa",
+       []
+      ],
+      [
+       "02580",
+       "Linhas de pesquisa em Língua Portuguesa-Libras",
+       []
+      ],
+      [
+       "03452",
+       "Linhas de Pesquisa em Gestão e Empreendedorismo",
+       []
+      ],
+      [
+       "03507",
+       "Linhas de Pesquisa em Computação",
+       []
+      ],
+      [
+       "05381",
+       "Linhas de pesquisa em língua adicional",
+       []
+      ],
+      [
+       "07226",
+       "Linhas de pesquisa em Geografia",
+       []
+      ],
+      [
+       "07497",
+       "Linhas de pesquisa em ciência política",
+       []
+      ],
+      [
+       "03508",
+       "Linhas de pesquisa em Ciências Exatas e da Terra: Física",
+       []
+      ],
+      [
+       "03870",
+       "Linhas de pesquisa em Ciências Exatas e da Terra: Química",
+       []
+      ],
+      [
+       "07441",
+       "Linhas de pesquisa em Ciências Exatas e da Terra: Matemática",
+       []
+      ]
+     ]
+    ],
+    [
+     "Comunicação profissional",
+     [
+      [
+       "00276",
+       "A língua no ambiente profissional",
+       []
+      ],
+      [
+       "04979",
+       "Comunicação escrita no ambiente acadêmico e profissional",
+       []
+      ],
+      [
+       "04980",
+       "Comunicação oral no ambiente profissional",
+       []
+      ]
+     ]
+    ]
+   ]
+  }
+ ]
+}

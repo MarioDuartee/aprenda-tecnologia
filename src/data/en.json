@@ -1,0 +1,3094 @@
+{
+ "id": "en",
+ "n": "Engenharias e Ciências Exatas",
+ "d": "Matemática, física, química e as engenharias civil, mecânica, elétrica, ambiental e de produção, em trilhas do básico ao avançado.",
+ "h": 25,
+ "base": "https://stecine.azureedge.net/repositorio/00212en/",
+ "h1": "Trilha de <em>Engenharias e Ciências Exatas</em>",
+ "t": [
+  {
+   "n": "Matemática e métodos numéricos",
+   "d": "Números, funções, cálculo, álgebra, estatística e programação científica.",
+   "h": 200,
+   "s": [
+    [
+     "Números, conjuntos e contagem",
+     [
+      [
+       "00050",
+       "Aritmética",
+       []
+      ],
+      [
+       "00118",
+       "Conjuntos",
+       []
+      ],
+      [
+       "02000",
+       "Teoria dos conjuntos e princípios de contagem",
+       []
+      ],
+      [
+       "03631",
+       "Indução e princípios de contagem",
+       []
+      ],
+      [
+       "03632",
+       "Modelagem de problemas clássicos de contagem",
+       []
+      ],
+      [
+       "03633",
+       "Binômio de Newton e aplicações",
+       []
+      ],
+      [
+       "03634",
+       "A BNCC e os problemas de contagem",
+       []
+      ],
+      [
+       "04352",
+       "Os números reais",
+       []
+      ],
+      [
+       "04494",
+       "Conjuntos e infinitos",
+       []
+      ]
+     ]
+    ],
+    [
+     "Funções, números complexos e álgebra",
+     [
+      [
+       "00233",
+       "Gráficos e interpretações gráficas",
+       []
+      ],
+      [
+       "02476",
+       "Função afim",
+       []
+      ],
+      [
+       "04348",
+       "Introdução aos números complexos",
+       []
+      ],
+      [
+       "04349",
+       "Operações na forma trigonométrica e equações",
+       []
+      ],
+      [
+       "04350",
+       "Polinômios",
+       []
+      ],
+      [
+       "04351",
+       "Equações algébricas",
+       []
+      ]
+     ]
+    ],
+    [
+     "Cálculo",
+     [
+      [
+       "00186",
+       "Integrais: aplicações",
+       []
+      ],
+      [
+       "00331",
+       "Derivadas: aplicações",
+       []
+      ],
+      [
+       "00337",
+       "Derivada: conceitos e propriedades operatórias",
+       []
+      ],
+      [
+       "00422",
+       "Limites: conceitos, propriedades e exemplos",
+       []
+      ],
+      [
+       "00446",
+       "Integrais: Conceitos, propriedades e técnicas de integração",
+       []
+      ],
+      [
+       "00701",
+       "Funções de várias variáveis e suas derivadas",
+       []
+      ],
+      [
+       "00702",
+       "Funções vetoriais",
+       []
+      ],
+      [
+       "02572",
+       "Limites e continuidade",
+       []
+      ],
+      [
+       "04354",
+       "Extremos de funções escalares",
+       []
+      ],
+      [
+       "04500",
+       "Coordenadas Polares",
+       []
+      ],
+      [
+       "04501",
+       "Algumas superfícies especiais",
+       []
+      ],
+      [
+       "04913",
+       "Sequências, séries e séries de potências",
+       []
+      ],
+      [
+       "07809",
+       "Integrais múltiplas com duas variáveis",
+       []
+      ],
+      [
+       "07811",
+       "Teorema sobre integrais de linha",
+       []
+      ]
+     ]
+    ],
+    [
+     "Álgebra abstrata e topologia",
+     [
+      [
+       "03635",
+       "Estruturas algébricas: teoria dos grupos",
+       []
+      ],
+      [
+       "03636",
+       "Grupos de permutações, subgrupo normal e grupo quociente",
+       []
+      ],
+      [
+       "03637",
+       "Anéis",
+       []
+      ],
+      [
+       "03638",
+       "Corpos, ideais de um anel e elementos de um anel",
+       []
+      ],
+      [
+       "04353",
+       "Topologia dos espaços métricos",
+       []
+      ]
+     ]
+    ],
+    [
+     "Probabilidade e estatística",
+     [
+      [
+       "00896",
+       "Probabilidades",
+       []
+      ],
+      [
+       "00988",
+       "Variáveis aleatórias discretas unidimensionais",
+       []
+      ]
+     ]
+    ],
+    [
+     "Programação e métodos numéricos",
+     [
+      [
+       "03509",
+       "Introdução à Linguagem Cientifica de Programação",
+       []
+      ],
+      [
+       "03510",
+       "Resolução de Sistemas Lineares: métodos diretos e indiretos",
+       []
+      ],
+      [
+       "03511",
+       "Interpolação (SCILAB, OCTAVE e VBA)",
+       []
+      ],
+      [
+       "03512",
+       "Integração e resolução numérica de equações diferenciais ordinárias",
+       []
+      ],
+      [
+       "03513",
+       "Algoritmos para modelagem de diversas situações físicas",
+       []
+      ],
+      [
+       "03873",
+       "Introdução à programação",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Física",
+   "d": "Mecânica, termodinâmica, ondas, eletromagnetismo e física moderna.",
+   "h": 224,
+   "s": [
+    [
+     "Mecânica clássica",
+     [
+      [
+       "00014",
+       "Formas de energia",
+       []
+      ],
+      [
+       "00024",
+       "Leis de Newton",
+       []
+      ],
+      [
+       "00078",
+       "Cinemática de Galileu",
+       []
+      ],
+      [
+       "00200",
+       "Conservação da energia mecânica e impulso",
+       []
+      ],
+      [
+       "00209",
+       "Equilíbrio de um ponto material",
+       []
+      ],
+      [
+       "00267",
+       "Princípio da conservação do momento linear",
+       []
+      ],
+      [
+       "00272",
+       "Introdução à Física Mecânica",
+       []
+      ],
+      [
+       "02215",
+       "A energia e a História",
+       []
+      ]
+     ]
+    ],
+    [
+     "Termodinâmica",
+     [
+      [
+       "00079",
+       "Introdução à Física Térmica",
+       []
+      ],
+      [
+       "00080",
+       "Introdução à física dos fluidos",
+       []
+      ],
+      [
+       "03520",
+       "Conceitos básicos de Termodinâmica",
+       []
+      ],
+      [
+       "03525",
+       "Sistemas termodinâmicos",
+       []
+      ],
+      [
+       "03526",
+       "Trabalho e calor",
+       []
+      ],
+      [
+       "03527",
+       "Segunda lei da termodinâmica",
+       []
+      ]
+     ]
+    ],
+    [
+     "Ondas e acústica",
+     [
+      [
+       "04890",
+       "Ondas mecânicas",
+       []
+      ],
+      [
+       "04891",
+       "Física dos instrumentos musicais",
+       []
+      ],
+      [
+       "04892",
+       "Física do som: sistema auditivo",
+       []
+      ]
+     ]
+    ],
+    [
+     "Eletromagnetismo",
+     [
+      [
+       "00140",
+       "Eletricidade e magnetismo",
+       []
+      ],
+      [
+       "02412",
+       "Eletrostática",
+       []
+      ],
+      [
+       "02669",
+       "Ondas eletromagnéticas, campos e potenciais",
+       []
+      ],
+      [
+       "03676",
+       "Campo elétrico estacionário",
+       []
+      ],
+      [
+       "03677",
+       "Campo magnético estacionário",
+       []
+      ],
+      [
+       "03678",
+       "Campos variantes no tempo e equações de Maxwell",
+       []
+      ],
+      [
+       "03679",
+       "Aplicações de eletromagnetismo na engenharia",
+       []
+      ],
+      [
+       "05570",
+       "Magnetismo e eletromagnetismo",
+       []
+      ]
+     ]
+    ],
+    [
+     "Física moderna e estatística",
+     [
+      [
+       "02219",
+       "A Função de Onda",
+       []
+      ],
+      [
+       "02473",
+       "Formalismo da mecânica quântica e postulados",
+       []
+      ],
+      [
+       "02688",
+       "Paradoxos quânticos",
+       []
+      ],
+      [
+       "03514",
+       "Métodos estatísticos e descrição estatística de um sistema físico",
+       []
+      ],
+      [
+       "03516",
+       "O ensemble canônico",
+       []
+      ],
+      [
+       "03517",
+       "Ensemble grande canônico",
+       []
+      ],
+      [
+       "03518",
+       "Matéria condensada e espaço recíproco",
+       []
+      ],
+      [
+       "03519",
+       "Elétrons",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Química e processos químicos",
+   "d": "Físico-química, balanços, operações unitárias, controle de processos e indústria química.",
+   "h": 248,
+   "s": [
+    [
+     "Físico-química e termodinâmica química",
+     [
+      [
+       "03368",
+       "Mecanismos das reações de eliminação",
+       []
+      ],
+      [
+       "03521",
+       "Termoquímica (aplicações da 1ª lei da termodinâmica)",
+       []
+      ],
+      [
+       "03522",
+       "Conceitos de entropia e energia livre em sistemas químicos",
+       []
+      ],
+      [
+       "03523",
+       "Equilíbrio de fases em sistema de um componente",
+       []
+      ],
+      [
+       "03524",
+       "Propriedades das soluções ideais e diluídas / propriedades coligativas",
+       []
+      ],
+      [
+       "03528",
+       "Termodinâmica de soluções",
+       []
+      ],
+      [
+       "03529",
+       "Equilíbrio em Reações Químicas",
+       []
+      ]
+     ]
+    ],
+    [
+     "Balanços de massa e energia",
+     [
+      [
+       "03369",
+       "Balanços de energia em sistemas sem reação química",
+       []
+      ],
+      [
+       "04304",
+       "Estequiometria industrial",
+       []
+      ],
+      [
+       "04305",
+       "Balanço de massa sem reação química",
+       []
+      ],
+      [
+       "04306",
+       "Balanço de massa com reação química",
+       []
+      ],
+      [
+       "04307",
+       "Balanço de massa e energia em regime transiente",
+       []
+      ]
+     ]
+    ],
+    [
+     "Operações unitárias e reatores",
+     [
+      [
+       "04226",
+       "Introdução às operações unitárias",
+       []
+      ],
+      [
+       "04227",
+       "Transporte de fluidos: bombas, compressores e sopradores",
+       []
+      ],
+      [
+       "04228",
+       "Agitação e mistura",
+       []
+      ],
+      [
+       "04229",
+       "Dinâmica dos sistemas sólidos-fluidos",
+       []
+      ],
+      [
+       "04230",
+       "Escoamento em meios porosos",
+       []
+      ],
+      [
+       "04231",
+       "Filtração",
+       []
+      ],
+      [
+       "04562",
+       "Transferência de massa - Aplicações",
+       []
+      ],
+      [
+       "07387",
+       "Biorreatores",
+       []
+      ],
+      [
+       "07388",
+       "Sistemas estacionários",
+       []
+      ]
+     ]
+    ],
+    [
+     "Controle de processos",
+     [
+      [
+       "05580",
+       "Introdução ao controle de processos",
+       []
+      ],
+      [
+       "05581",
+       "Modelos teóricos em processos químicos",
+       []
+      ],
+      [
+       "05582",
+       "Transformada de Laplace",
+       []
+      ],
+      [
+       "05583",
+       "Comportamento dinâmico de sistemas de 1ª e 2ª ordem",
+       []
+      ],
+      [
+       "05584",
+       "Instrumentação do sistema de controle",
+       []
+      ],
+      [
+       "05585",
+       "Análise da resposta em frequência",
+       []
+      ]
+     ]
+    ],
+    [
+     "Indústria química e materiais",
+     [
+      [
+       "05590",
+       "Petróleo",
+       []
+      ],
+      [
+       "05591",
+       "Polímeros",
+       []
+      ],
+      [
+       "05616",
+       "Controle de qualidade do processo e do produto (álcool)",
+       []
+      ],
+      [
+       "07458",
+       "Produtos da indústria química",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Engenharia mecânica e materiais",
+   "d": "Projeto mecânico, mecanismos, vibrações, ensaios, fratura, corrosão, soldagem e usinagem.",
+   "h": 272,
+   "s": [
+    [
+     "Projeto e desenho mecânico",
+     [
+      [
+       "02743",
+       "Processos de projeto e produção",
+       []
+      ],
+      [
+       "03535",
+       "Introdução ao projeto mecânico",
+       []
+      ],
+      [
+       "03536",
+       "Falhas em elementos mecânicos",
+       []
+      ],
+      [
+       "03537",
+       "Elementos Mecânicos",
+       []
+      ],
+      [
+       "03538",
+       "Elementos mecânicos móveis e flexíveis",
+       []
+      ],
+      [
+       "03539",
+       "Tópicos especiais em elementos de máquinas",
+       []
+      ],
+      [
+       "03660",
+       "O desenho mecânico e elementos de ligação",
+       []
+      ],
+      [
+       "03661",
+       "Desenho de elementos de máquinas",
+       []
+      ],
+      [
+       "03662",
+       "Tolerância em Desenho Mecânico",
+       []
+      ],
+      [
+       "03663",
+       "Desenho de Conjuntos Mecânicos",
+       []
+      ],
+      [
+       "03664",
+       "Processos de projeto",
+       []
+      ]
+     ]
+    ],
+    [
+     "Mecanismos e vibrações",
+     [
+      [
+       "04889",
+       "Vibrações mecânicas",
+       []
+      ],
+      [
+       "05592",
+       "Introdução à análise de mecanismos",
+       []
+      ],
+      [
+       "05593",
+       "Análise cinemática e síntese dos mecanismos",
+       []
+      ],
+      [
+       "05594",
+       "Cames",
+       []
+      ],
+      [
+       "05595",
+       "Forças de inércia em máquinas",
+       []
+      ],
+      [
+       "05596",
+       "Mecanismos de robôs",
+       []
+      ],
+      [
+       "07139",
+       "Introdução à vibração",
+       []
+      ],
+      [
+       "07140",
+       "Movimentos vibratórios",
+       []
+      ],
+      [
+       "07142",
+       "Medição de vibrações",
+       []
+      ]
+     ]
+    ],
+    [
+     "Materiais e ensaios",
+     [
+      [
+       "02593",
+       "Materiais metálicos",
+       []
+      ],
+      [
+       "02835",
+       "Tratamento térmico de aços e ferros fundidos",
+       []
+      ],
+      [
+       "03665",
+       "Metalografia de aços carbono e ferros fundidos",
+       []
+      ],
+      [
+       "03666",
+       "Tratamento térmico",
+       []
+      ],
+      [
+       "03667",
+       "Ensaios não destrutivos",
+       []
+      ],
+      [
+       "03668",
+       "Ensaios destrutivos",
+       []
+      ],
+      [
+       "04330",
+       "Ensaios eletromagnéticos não destrutivos",
+       []
+      ],
+      [
+       "04331",
+       "Ensaios mecânicos destrutivos",
+       []
+      ],
+      [
+       "04332",
+       "Técnicas macrográficas",
+       []
+      ],
+      [
+       "04333",
+       "Aplicação industrial",
+       []
+      ]
+     ]
+    ],
+    [
+     "Corrosão, fadiga e fratura",
+     [
+      [
+       "03530",
+       "Corrosão",
+       []
+      ],
+      [
+       "03531",
+       "Formas de corrosão",
+       []
+      ],
+      [
+       "03532",
+       "Meios Corrosivos",
+       []
+      ],
+      [
+       "03533",
+       "Heterogeneidades, velocidade de corrosão e polarização",
+       []
+      ],
+      [
+       "03534",
+       "Técnicas de controle da corrosão",
+       []
+      ],
+      [
+       "03669",
+       "Fadiga dos materiais",
+       []
+      ],
+      [
+       "03670",
+       "Mecânica da fratura",
+       []
+      ],
+      [
+       "04338",
+       "Introdução à fratura dos materiais",
+       []
+      ],
+      [
+       "04339",
+       "Mecânica da fratura linear elástica e elasto-plástica",
+       []
+      ],
+      [
+       "04340",
+       "Fratura por fadiga",
+       []
+      ],
+      [
+       "04341",
+       "Fratura por fluência",
+       []
+      ],
+      [
+       "04342",
+       "Fratura por corrosão e por ação do hidrogênio",
+       []
+      ],
+      [
+       "04343",
+       "Análise de superfícies de fratura",
+       []
+      ]
+     ]
+    ],
+    [
+     "Soldagem e conformação",
+     [
+      [
+       "03671",
+       "Fundamentos e processo de soldagem e corte com gás",
+       []
+      ],
+      [
+       "03672",
+       "Processos de soldagem a arco elétrico",
+       []
+      ],
+      [
+       "03673",
+       "Soldagem por resistência",
+       []
+      ],
+      [
+       "03674",
+       "Processos não convencionais de soldagem",
+       []
+      ],
+      [
+       "03675",
+       "Qualidade em soldagem",
+       []
+      ],
+      [
+       "05602",
+       "Conformação de chapas",
+       []
+      ],
+      [
+       "05607",
+       "Forjamento",
+       []
+      ],
+      [
+       "05608",
+       "Laminação, trefilação, extrusão e processos não convencionais",
+       []
+      ],
+      [
+       "07315",
+       "Processos de Conformação Mecânica",
+       []
+      ]
+     ]
+    ],
+    [
+     "Usinagem e fabricação",
+     [
+      [
+       "03807",
+       "Introdução à Engenharia de Fabricação Mecânica",
+       []
+      ],
+      [
+       "03808",
+       "Princípios dos processos de fabricação utilizando metais e polímeros",
+       []
+      ],
+      [
+       "03809",
+       "Processos de fabricação por impressão 3D",
+       []
+      ],
+      [
+       "03810",
+       "Automação industrial nos processos de fabricação mecânica",
+       []
+      ],
+      [
+       "04334",
+       "O processo de usinagem por fresamento",
+       []
+      ],
+      [
+       "04335",
+       "Usinagem por furação, mandrilamento e brochamento",
+       []
+      ],
+      [
+       "04336",
+       "As máquinas-ferramentas CNC e a Indústria 4.0",
+       []
+      ],
+      [
+       "04337",
+       "Vida de ferramentas e condições econômicas",
+       []
+      ],
+      [
+       "04391",
+       "Fundamentos do processo de fabricação por usinagem",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Térmica, fluidos e máquinas",
+   "d": "Mecânica dos fluidos, transferência de calor, motores, refrigeração e máquinas hidráulicas.",
+   "h": 296,
+   "s": [
+    [
+     "Mecânica dos fluidos",
+     [
+      [
+       "04386",
+       "Propriedades dos fluidos",
+       []
+      ],
+      [
+       "04387",
+       "Estática dos fluidos",
+       []
+      ],
+      [
+       "04388",
+       "Equações de conservação para sistemas isotérmicos",
+       []
+      ],
+      [
+       "04389",
+       "Equações diferenciais de movimento de fluidos",
+       []
+      ],
+      [
+       "04390",
+       "Escoamento interno",
+       []
+      ]
+     ]
+    ],
+    [
+     "Transferência de calor",
+     [
+      [
+       "04344",
+       "Introdução aos mecanismos de transferência de calor",
+       []
+      ],
+      [
+       "04345",
+       "Transferência de calor por convecção",
+       []
+      ],
+      [
+       "04346",
+       "Transferência de calor por radiação",
+       []
+      ],
+      [
+       "04347",
+       "Trocadores de calor",
+       []
+      ],
+      [
+       "04830",
+       "Transferência de calor por condução",
+       []
+      ]
+     ]
+    ],
+    [
+     "Motores e combustão",
+     [
+      [
+       "07143",
+       "Motores de combustão interna",
+       []
+      ],
+      [
+       "07144",
+       "Modelos ideais de motores térmicos (ciclos teóricos)",
+       []
+      ],
+      [
+       "07145",
+       "Princípios da combustão",
+       []
+      ],
+      [
+       "07146",
+       "Parâmetros de projeto e de funcionamento",
+       []
+      ]
+     ]
+    ],
+    [
+     "Refrigeração e ar-condicionado",
+     [
+      [
+       "05597",
+       "Fundamentos do ar-condicionado",
+       []
+      ],
+      [
+       "05598",
+       "Ciclos de refrigeração e componentes",
+       []
+      ],
+      [
+       "05599",
+       "Sistemas de condicionamento de ar",
+       []
+      ],
+      [
+       "05600",
+       "Planta, distribuição e eficiência do sistema de refrigeração",
+       []
+      ],
+      [
+       "05601",
+       "Projeto de sistemas de condicionamento de ar",
+       []
+      ]
+     ]
+    ],
+    [
+     "Máquinas de fluxo e hidráulicas",
+     [
+      [
+       "04355",
+       "Máquinas de fluxo",
+       []
+      ],
+      [
+       "04356",
+       "Teoria do rotor",
+       []
+      ],
+      [
+       "04357",
+       "Funcionamento de uma turbobomba",
+       []
+      ],
+      [
+       "04358",
+       "Critérios para a escolha de uma turbobomba",
+       []
+      ],
+      [
+       "07136",
+       "Energia hidráulica",
+       []
+      ],
+      [
+       "07137",
+       "Classificação e fundamentos das máquinas hidráulicas",
+       []
+      ],
+      [
+       "07138",
+       "Turbinas hidráulicas",
+       []
+      ]
+     ]
+    ],
+    [
+     "Tubulações e equipamentos",
+     [
+      [
+       "07132",
+       "Tubulações",
+       []
+      ],
+      [
+       "07133",
+       "Válvulas, purgadores e filtros",
+       []
+      ],
+      [
+       "07134",
+       "Tanques e vasos de pressão",
+       []
+      ],
+      [
+       "07135",
+       "Fornos e geradores de vapor",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Engenharia elétrica e energia",
+   "d": "Circuitos, máquinas elétricas, eletrônica de potência, instalações, proteção e geração de energia.",
+   "h": 320,
+   "s": [
+    [
+     "Circuitos e eletricidade",
+     [
+      [
+       "02271",
+       "Aplicações da eletricidade na engenharia",
+       []
+      ],
+      [
+       "02567",
+       "Leis de Kirchhoff",
+       []
+      ]
+     ]
+    ],
+    [
+     "Máquinas elétricas",
+     [
+      [
+       "03540",
+       "Circuitos magnéticos",
+       []
+      ],
+      [
+       "03541",
+       "Princípios da Conversão Eletromecânica de Energia",
+       []
+      ],
+      [
+       "03542",
+       "Arquitetura da Máquina de Indução",
+       []
+      ],
+      [
+       "03543",
+       "Arquitetura da máquina síncrona",
+       []
+      ],
+      [
+       "03875",
+       "Arquitetura da máquina CC",
+       []
+      ],
+      [
+       "05379",
+       "Geradores e motores de corrente alternada",
+       []
+      ],
+      [
+       "07147",
+       "Motores de corrente contínua: aplicações industriais",
+       []
+      ],
+      [
+       "07148",
+       "Motores de corrente alternada: aplicações industriais",
+       []
+      ]
+     ]
+    ],
+    [
+     "Eletrônica de potência",
+     [
+      [
+       "04380",
+       "Circuitos de chaveamento",
+       []
+      ],
+      [
+       "04381",
+       "Retificação polifásica",
+       []
+      ],
+      [
+       "04382",
+       "Dispositivos semicondutores usados em eletrônica de potência",
+       []
+      ],
+      [
+       "04383",
+       "Retificação com tiristores",
+       []
+      ],
+      [
+       "04384",
+       "Conversores e inversores",
+       []
+      ],
+      [
+       "04385",
+       "Aplicações na indústria e em sistemas de energia",
+       []
+      ]
+     ]
+    ],
+    [
+     "Instalações elétricas",
+     [
+      [
+       "01661",
+       "Iluminação, aterramento e segurança em instalações elétricas",
+       []
+      ],
+      [
+       "01804",
+       "Normatização e elementos de projeto",
+       []
+      ],
+      [
+       "01988",
+       "Técnicas de execução e proteção de instalações elétricas",
+       []
+      ],
+      [
+       "05559",
+       "Domótica",
+       []
+      ]
+     ]
+    ],
+    [
+     "Sistemas de potência e proteção",
+     [
+      [
+       "07107",
+       "Organização da indústria de energia elétrica",
+       []
+      ],
+      [
+       "07108",
+       "Representação dos sistemas de energia elétrica",
+       []
+      ],
+      [
+       "07109",
+       "Fluxo de Potência",
+       []
+      ],
+      [
+       "07110",
+       "Análise de curto-circuito",
+       []
+      ],
+      [
+       "07111",
+       "Filosofia e metodologia da proteção",
+       []
+      ],
+      [
+       "07112",
+       "Conceitos de proteção elétrica",
+       []
+      ],
+      [
+       "07113",
+       "Dispositivos de proteção",
+       []
+      ],
+      [
+       "07114",
+       "Proteção de equipamentos do sistema elétrico",
+       []
+      ]
+     ]
+    ],
+    [
+     "Geração e fontes de energia",
+     [
+      [
+       "03680",
+       "Introdução às fontes renováveis e alternativas",
+       []
+      ],
+      [
+       "03681",
+       "Fontes alternativas de energia",
+       []
+      ],
+      [
+       "03682",
+       "Tecnologias de geração de energia a partir de biomassa",
+       []
+      ],
+      [
+       "03683",
+       "Energia eólica",
+       []
+      ],
+      [
+       "03684",
+       "Energia solar",
+       []
+      ],
+      [
+       "03685",
+       "Biocombustíveis",
+       []
+      ],
+      [
+       "07433",
+       "Geração de energia hidráulica",
+       []
+      ],
+      [
+       "07434",
+       "Geração termelétrica",
+       []
+      ],
+      [
+       "07435",
+       "Centrais geradoras de energia nuclear",
+       []
+      ],
+      [
+       "07436",
+       "Geração eólica",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Automação, controle e robótica",
+   "d": "Controle, CLP, hidráulica e pneumática, supervisão, redes industriais e robôs.",
+   "h": 344,
+   "s": [
+    [
+     "Controle de sistemas",
+     [
+      [
+       "02728",
+       "Princípios de controle automático",
+       []
+      ],
+      [
+       "03654",
+       "Controle PID",
+       []
+      ],
+      [
+       "07309",
+       "Introdução a sistemas de controle",
+       []
+      ],
+      [
+       "07311",
+       "Projeto de sistemas pelo método do lugar das raízes",
+       []
+      ],
+      [
+       "07312",
+       "Projeto de sistemas no domínio da frequência",
+       []
+      ]
+     ]
+    ],
+    [
+     "CLP e programação industrial",
+     [
+      [
+       "02383",
+       "Diagrama de Blocos Funcionais (Functional Block Diagram - FBD)",
+       []
+      ],
+      [
+       "02539",
+       "Introdução a programação sequencial: Tabela booleana",
+       []
+      ],
+      [
+       "04836",
+       "Programação de CLP",
+       []
+      ],
+      [
+       "04837",
+       "CLPs na Indústria 4.0",
+       []
+      ],
+      [
+       "07128",
+       "Comandos elétricos e automatização com comandos eletromecânicos",
+       []
+      ],
+      [
+       "07129",
+       "Automatização com comandos eletrônicos",
+       []
+      ],
+      [
+       "07130",
+       "Automatização com controladores lógicos programáveis",
+       []
+      ],
+      [
+       "07131",
+       "Automatização de sistemas mecânicos",
+       []
+      ]
+     ]
+    ],
+    [
+     "Hidráulica e pneumática",
+     [
+      [
+       "02427",
+       "Especificação de sistemas hidráulicos",
+       []
+      ],
+      [
+       "02428",
+       "Especificação de sistemas pneumáticos",
+       []
+      ],
+      [
+       "03760",
+       "Introdução aos Sistemas Eletropneumáticos e Eletro-Hidráulicos",
+       []
+      ],
+      [
+       "03761",
+       "Projetos de circuitos eletropneumáticos",
+       []
+      ],
+      [
+       "03762",
+       "Projetos de circuitos eletro-hidráulicos",
+       []
+      ],
+      [
+       "03763",
+       "Projetos de circuitos eletropneumáticos e eletro-hidráulicos",
+       []
+      ],
+      [
+       "03764",
+       "IIoT aplicada na automação hidráulica e pneumática",
+       []
+      ]
+     ]
+    ],
+    [
+     "Supervisão e redes industriais",
+     [
+      [
+       "03644",
+       "Supervisão na automação industrial",
+       []
+      ],
+      [
+       "03645",
+       "Contexto dos Sistemas Supervisórios",
+       []
+      ],
+      [
+       "03646",
+       "Operação de um sistema supervisório",
+       []
+      ],
+      [
+       "03647",
+       "Bases para o projeto de um sistema supervisório",
+       []
+      ],
+      [
+       "03648",
+       "Bases para o projeto da IHM de um sistema supervisório",
+       []
+      ],
+      [
+       "03649",
+       "Arquitetura das redes industriais",
+       []
+      ],
+      [
+       "03650",
+       "Infraestrutura e conectividade em redes industriais",
+       []
+      ],
+      [
+       "03651",
+       "Protocolos de redes industriais",
+       []
+      ],
+      [
+       "03652",
+       "Tecnologias em Redes Industriais",
+       []
+      ],
+      [
+       "03653",
+       "Aplicações em redes industriais",
+       []
+      ]
+     ]
+    ],
+    [
+     "Robótica industrial",
+     [
+      [
+       "03640",
+       "Introdução à robótica industrial",
+       []
+      ],
+      [
+       "03641",
+       "Componentes técnicos de um robô",
+       []
+      ],
+      [
+       "03642",
+       "Robótica industrial",
+       []
+      ],
+      [
+       "03643",
+       "Programação de robôs industriais",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Telecomunicações e sinais",
+   "d": "Sinais e sistemas, comunicações digitais, antenas, satélites, telefonia e TV.",
+   "h": 8,
+   "s": [
+    [
+     "Sinais e sistemas",
+     [
+      [
+       "02725",
+       "Princípios de Análise no Domínio da Frequência",
+       []
+      ],
+      [
+       "03544",
+       "Sinais e sistemas discretos",
+       []
+      ],
+      [
+       "03545",
+       "Análise de sinais e sistemas no domínio da frequência",
+       []
+      ],
+      [
+       "03546",
+       "Amostragem de Sinais Contínuos",
+       []
+      ],
+      [
+       "03547",
+       "A transformada discreta de Fourier",
+       []
+      ],
+      [
+       "03548",
+       "A transformada Z",
+       []
+      ]
+     ]
+    ],
+    [
+     "Comunicações digitais e transmissão",
+     [
+      [
+       "03608",
+       "Sistemas de transmissão analógicos e digitais",
+       []
+      ],
+      [
+       "03609",
+       "Modulação analógica",
+       []
+      ],
+      [
+       "03610",
+       "Modulação digital",
+       []
+      ],
+      [
+       "04503",
+       "Introdução às comunicações digitais",
+       []
+      ],
+      [
+       "04504",
+       "Transmissão em banda base",
+       []
+      ],
+      [
+       "04505",
+       "Modulação digital e técnicas de multiplexação",
+       []
+      ],
+      [
+       "04506",
+       "Mecanismos de detecção e correção de erro",
+       []
+      ]
+     ]
+    ],
+    [
+     "Antenas e satélites",
+     [
+      [
+       "05565",
+       "Princípios da Comunicação Via Satélite",
+       []
+      ],
+      [
+       "05566",
+       "Múltiplo acesso para comunicações por satélite",
+       []
+      ],
+      [
+       "05567",
+       "Desempenho de sistemas de radioenlaces digitais por satélites",
+       []
+      ],
+      [
+       "05568",
+       "Ligações por satélite",
+       []
+      ],
+      [
+       "05569",
+       "Segmento de satélite",
+       []
+      ],
+      [
+       "05571",
+       "Antenas",
+       []
+      ],
+      [
+       "05572",
+       "Integrais de radiação e funções potenciais auxiliares",
+       []
+      ],
+      [
+       "05573",
+       "Antenas filamentares",
+       []
+      ],
+      [
+       "05574",
+       "Conjuntos colineares, planos e circulares",
+       []
+      ]
+     ]
+    ],
+    [
+     "Telefonia",
+     [
+      [
+       "05575",
+       "Fundamentos de telefonia",
+       []
+      ],
+      [
+       "05576",
+       "Redes telefônicas",
+       []
+      ],
+      [
+       "05577",
+       "Centrais telefônicas",
+       []
+      ],
+      [
+       "05578",
+       "Planejamento do sistema telefônico",
+       []
+      ],
+      [
+       "05579",
+       "Tipos de sistemas telefônicos",
+       []
+      ]
+     ]
+    ],
+    [
+     "Televisão",
+     [
+      [
+       "07800",
+       "Conceitos básicos de TV analógica",
+       []
+      ],
+      [
+       "07801",
+       "Tipos de modulação para TV",
+       []
+      ],
+      [
+       "07802",
+       "Fundamentos de TV digital",
+       []
+      ],
+      [
+       "07803",
+       "Codificação de vídeo",
+       []
+      ],
+      [
+       "07804",
+       "Padrões de TV digital",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Engenharia civil: estruturas e construção",
+   "d": "Análise estrutural, concreto, aço, madeira, construção de edifícios e BIM.",
+   "h": 32,
+   "s": [
+    [
+     "Resistência e análise estrutural",
+     [
+      [
+       "02443",
+       "Estruturas",
+       []
+      ],
+      [
+       "02464",
+       "Flexão oblíqua, composta e flambagem",
+       []
+      ],
+      [
+       "02465",
+       "Flexão Pura",
+       []
+      ],
+      [
+       "02756",
+       "Propriedades geométricas de área",
+       []
+      ],
+      [
+       "04232",
+       "Sistemas estruturais",
+       []
+      ],
+      [
+       "04233",
+       "Estruturas Isostáticas",
+       []
+      ],
+      [
+       "04313",
+       "O método das forças",
+       []
+      ],
+      [
+       "04314",
+       "O método dos deslocamentos",
+       []
+      ],
+      [
+       "04315",
+       "O método da rigidez direta",
+       []
+      ],
+      [
+       "04316",
+       "Comportamento de vigas contínuas",
+       []
+      ],
+      [
+       "04317",
+       "Comportamento de pórticos planos",
+       []
+      ],
+      [
+       "05278",
+       "Análise de vigas isostáticas",
+       []
+      ],
+      [
+       "05279",
+       "Análise de pórticos isostáticos planos",
+       []
+      ],
+      [
+       "05280",
+       "Linhas de influência em vigas isostáticas",
+       []
+      ],
+      [
+       "05281",
+       "Deformações em estruturas isostáticas",
+       []
+      ],
+      [
+       "05286",
+       "Modelos de estruturas isostáticas",
+       []
+      ]
+     ]
+    ],
+    [
+     "Concreto, aço e madeira",
+     [
+      [
+       "02388",
+       "Dimensionamento de concreto armado à flexão",
+       []
+      ],
+      [
+       "03177",
+       "Estruturas de madeira",
+       []
+      ],
+      [
+       "04368",
+       "Projeto de Pilares de Concreto Armado",
+       []
+      ],
+      [
+       "04369",
+       "Projeto de Caixas, Rampas e Escadas de Concreto Armado",
+       []
+      ],
+      [
+       "04370",
+       "Método das bielas e tirantes e aplicações",
+       []
+      ],
+      [
+       "04371",
+       "Cargas horizontais em edifícios",
+       []
+      ],
+      [
+       "04372",
+       "Bases para projeto em concreto protendido",
+       []
+      ],
+      [
+       "04373",
+       "Projeto de Lajes Especiais",
+       []
+      ],
+      [
+       "07430",
+       "Sistemas estruturais em aço",
+       []
+      ],
+      [
+       "07431",
+       "Elementos de aço sob tração e sob compressão",
+       []
+      ],
+      [
+       "07432",
+       "Elementos de aço sob flexão e flexocompressão",
+       []
+      ],
+      [
+       "07455",
+       "Ligações e elementos de madeira sob tração",
+       []
+      ],
+      [
+       "07456",
+       "Elementos de madeira sob flexão e compressão",
+       []
+      ]
+     ]
+    ],
+    [
+     "Materiais e construção de edifícios",
+     [
+      [
+       "02807",
+       "Softwares para a construção rural",
+       []
+      ],
+      [
+       "02812",
+       "Técnicas de construção",
+       []
+      ],
+      [
+       "04234",
+       "Materiais Estruturais",
+       []
+      ],
+      [
+       "04235",
+       "Materiais de acabamento e cobertura",
+       []
+      ],
+      [
+       "04236",
+       "Construções sustentáveis",
+       []
+      ],
+      [
+       "04374",
+       "Implantação da obra",
+       []
+      ],
+      [
+       "04375",
+       "Construção de fundações e subsolos",
+       []
+      ],
+      [
+       "04376",
+       "Processos construtivos das estruturas",
+       []
+      ],
+      [
+       "04377",
+       "Construção dos sistemas de vedação e esquadrias",
+       []
+      ],
+      [
+       "04378",
+       "Aspectos construtivos dos sistemas do edifício",
+       []
+      ],
+      [
+       "04379",
+       "Construção da cobertura e impermeabilização",
+       []
+      ]
+     ]
+    ],
+    [
+     "BIM e projeto",
+     [
+      [
+       "07115",
+       "Bases conceituais do BIM",
+       []
+      ],
+      [
+       "07116",
+       "Apresentação do Revit",
+       []
+      ],
+      [
+       "07117",
+       "Bases para arquitetura no Revit",
+       []
+      ],
+      [
+       "07118",
+       "Bases para o sistema hidráulico e sanitário no Revit",
+       []
+      ],
+      [
+       "07119",
+       "Bases para o sistema elétrico no Revit",
+       []
+      ],
+      [
+       "07120",
+       "Bases para o gerenciamento e coordenação de projetos BIM",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Geotecnia, infraestrutura e recursos hídricos",
+   "d": "Fundações, transportes, hidrologia, gestão da água e obras de saneamento.",
+   "h": 56,
+   "s": [
+    [
+     "Geotecnia e fundações",
+     [
+      [
+       "02313",
+       "Barragens",
+       []
+      ],
+      [
+       "02363",
+       "Contenções",
+       []
+      ],
+      [
+       "02484",
+       "Fundações por estacas: tipos, adequação e processo construtivo",
+       []
+      ],
+      [
+       "02498",
+       "Geotecnia ambiental",
+       []
+      ],
+      [
+       "02808",
+       "Solos, rochas e movimentos gravitacionais",
+       []
+      ]
+     ]
+    ],
+    [
+     "Transportes e mobilidade",
+     [
+      [
+       "02409",
+       "Elementos de projeto de ferrovias",
+       []
+      ],
+      [
+       "02753",
+       "Projeto geométrico de rodovias",
+       []
+      ],
+      [
+       "03175",
+       "Planejamento de roteiros turísticos",
+       []
+      ],
+      [
+       "03549",
+       "Sistemas de transportes",
+       []
+      ],
+      [
+       "03550",
+       "Modais e infraestruturas",
+       []
+      ],
+      [
+       "03551",
+       "Transporte e Meio Ambiente",
+       []
+      ],
+      [
+       "03552",
+       "Planejamento da mobilidade urbana",
+       []
+      ],
+      [
+       "03553",
+       "Mobilidade legal",
+       []
+      ]
+     ]
+    ],
+    [
+     "Hidrologia e recursos hídricos",
+     [
+      [
+       "03364",
+       "Engenharia Hidrológica",
+       []
+      ],
+      [
+       "03365",
+       "Precipitação, perdas e escoamento superficial",
+       []
+      ],
+      [
+       "03366",
+       "Movimento das águas subterrâneas",
+       []
+      ],
+      [
+       "03367",
+       "Regularização de vazão",
+       []
+      ],
+      [
+       "03560",
+       "Usos da água",
+       []
+      ],
+      [
+       "05353",
+       "Gestão de recursos hídricos e desenvolvimento sustentável",
+       []
+      ],
+      [
+       "05354",
+       "Aspectos legais e institucionais da gestão dos recursos hídricos",
+       []
+      ],
+      [
+       "05355",
+       "Comitês de bacias hidrográficas e gestão participativa",
+       []
+      ],
+      [
+       "05356",
+       "Enquadramento e classificação dos corpos d’água",
+       []
+      ],
+      [
+       "05357",
+       "Impactos ambientais aos recursos hídricos e estratégias de conservação",
+       []
+      ]
+     ]
+    ],
+    [
+     "Obras de saneamento e drenagem",
+     [
+      [
+       "07427",
+       "Obras de saneamento",
+       []
+      ],
+      [
+       "07428",
+       "Obras de canais e de drenagem",
+       []
+      ],
+      [
+       "07429",
+       "Obras de portos",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Meio ambiente e sustentabilidade",
+   "d": "Legislação, gestão e auditoria ambiental, impactos, poluição, saneamento, resíduos e saúde ambiental.",
+   "h": 80,
+   "s": [
+    [
+     "Fundamentos e legislação ambiental",
+     [
+      [
+       "00268",
+       "O planeta Terra e seus ciclos biogeoquímicos",
+       []
+      ],
+      [
+       "00469",
+       "Desenvolvimento sustentável",
+       []
+      ],
+      [
+       "01168",
+       "Sustentabilidade, sociedade e meio ambiente",
+       []
+      ],
+      [
+       "02229",
+       "A Política Nacional do Meio Ambiente",
+       []
+      ],
+      [
+       "03554",
+       "Legislação, Aspectos e Impactos e Licenciamento Ambiental",
+       []
+      ]
+     ]
+    ],
+    [
+     "Gestão e auditoria ambiental",
+     [
+      [
+       "00661",
+       "Estratégias de gestão social e ambiental",
+       []
+      ],
+      [
+       "02262",
+       "Análise de Gestão Ambiental",
+       []
+      ],
+      [
+       "02794",
+       "Sistema de Gestão Ambiental (SGA)",
+       []
+      ],
+      [
+       "03555",
+       "Gestão de Recursos Naturais e Energéticos",
+       []
+      ],
+      [
+       "03558",
+       "Produção mais limpa, ecoeficiência e gestão ambiental",
+       []
+      ],
+      [
+       "04898",
+       "Introdução à gestão, perícia e auditoria ambiental",
+       []
+      ],
+      [
+       "04899",
+       "Auditoria ambiental",
+       []
+      ]
+     ]
+    ],
+    [
+     "Impactos, riscos e perícia ambiental",
+     [
+      [
+       "02447",
+       "Estudos Ambientais",
+       []
+      ],
+      [
+       "04900",
+       "Formação em perícia ambiental",
+       []
+      ],
+      [
+       "04905",
+       "Introdução a impactos e riscos ambientais",
+       []
+      ],
+      [
+       "04906",
+       "Política e legislação pertinentes a impactos e riscos ambientais",
+       []
+      ],
+      [
+       "04907",
+       "Avaliação de impacto ambiental",
+       []
+      ],
+      [
+       "04908",
+       "Estudos de impacto ambiental",
+       []
+      ],
+      [
+       "04909",
+       "Acidentes ambientais",
+       []
+      ],
+      [
+       "05538",
+       "Previsão de impacto e análise de risco ambiental",
+       []
+      ],
+      [
+       "05540",
+       "Comunicação em avaliação de riscos e impactos ambientais",
+       []
+      ],
+      [
+       "07304",
+       "Impactos e riscos ambientais - definições e avaliações",
+       []
+      ]
+     ]
+    ],
+    [
+     "Poluição e controle",
+     [
+      [
+       "04225",
+       "Toxicologia ambiental",
+       []
+      ],
+      [
+       "04893",
+       "Conceitos e definições da poluição ambiental",
+       []
+      ],
+      [
+       "04894",
+       "Poluição atmosférica e seus efeitos",
+       []
+      ],
+      [
+       "04895",
+       "Poluição sonora",
+       []
+      ],
+      [
+       "04896",
+       "Controle de poluição hídrica",
+       []
+      ],
+      [
+       "04897",
+       "Parâmetros de controle da poluição ambiental",
+       []
+      ]
+     ]
+    ],
+    [
+     "Saneamento e tratamento de águas",
+     [
+      [
+       "03556",
+       "Gestão e tratamento de efluentes industriais",
+       []
+      ],
+      [
+       "04901",
+       "Introdução ao saneamento",
+       []
+      ],
+      [
+       "04902",
+       "Qualidade da água",
+       []
+      ],
+      [
+       "04903",
+       "Tratamento de águas de abastecimento público",
+       []
+      ],
+      [
+       "04904",
+       "Tratamento de águas residuárias",
+       []
+      ],
+      [
+       "07314",
+       "Tratamento de água",
+       []
+      ]
+     ]
+    ],
+    [
+     "Resíduos sólidos",
+     [
+      [
+       "03557",
+       "Gestão e tratamento dos resíduos sólidos industriais",
+       []
+      ],
+      [
+       "07409",
+       "Introdução à gestão dos resíduos sólidos",
+       []
+      ],
+      [
+       "07410",
+       "Caracterização dos resíduos sólidos",
+       []
+      ],
+      [
+       "07411",
+       "Aspectos legais relacionados aos resíduos sólidos",
+       []
+      ],
+      [
+       "07412",
+       "Tratamento de resíduos sólidos (crédito digital)",
+       []
+      ]
+     ]
+    ],
+    [
+     "Saúde ambiental",
+     [
+      [
+       "05560",
+       "Introdução ao conceito de Saúde Ambiental",
+       []
+      ],
+      [
+       "05561",
+       "Modelos saúde-doença, saneamento básico e saúde única",
+       []
+      ],
+      [
+       "05562",
+       "Epidemiologia em saúde e epidemiologia ambiental",
+       []
+      ],
+      [
+       "05563",
+       "Doenças e suas correlações com o ambiente",
+       []
+      ],
+      [
+       "05564",
+       "Desenvolvimento da saúde ambiental",
+       []
+      ]
+     ]
+    ],
+    [
+     "Áreas degradadas e recuperação",
+     [
+      [
+       "05615",
+       "Trato, manejo e regeneração dos povoamentos florestais",
+       []
+      ],
+      [
+       "05618",
+       "Degradação ambiental",
+       []
+      ],
+      [
+       "05619",
+       "Caracterização e diagnóstico de áreas degradadas",
+       []
+      ],
+      [
+       "05620",
+       "Mecanismos de sucessão e regeneração natural",
+       []
+      ],
+      [
+       "05621",
+       "Projeto de recuperação de áreas degradadas (PRAD)",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Segurança do trabalho e emergências",
+   "d": "NRs, perícias, acidentes e gerenciamento de crises.",
+   "h": 104,
+   "s": [
+    [
+     "Segurança e saúde no trabalho",
+     [
+      [
+       "02502",
+       "Gestão de projetos em segurança e saúde ocupacional",
+       []
+      ],
+      [
+       "02788",
+       "Serviços especializados em segurança e em medicina do trabalho",
+       []
+      ],
+      [
+       "03954",
+       "Recebimento de Combustíveis e Gestão do Posto Seguro",
+       []
+      ],
+      [
+       "05292",
+       "NR-05 CIPA - Comissão interna de prevenção de acidentes",
+       []
+      ],
+      [
+       "05294",
+       "NR-32 Segurança e saúde no trabalho em estabelecimentos de saúde",
+       []
+      ],
+      [
+       "05352",
+       "Segurança no trabalho",
+       []
+      ],
+      [
+       "07302",
+       "Introdução à saúde e segurança do trabalho",
+       []
+      ],
+      [
+       "07539",
+       "NR-06 EPI - Equipamento de proteção individual",
+       []
+      ],
+      [
+       "07616",
+       "NR-10 Segurança em instalações e serviços em eletricidade",
+       []
+      ],
+      [
+       "07617",
+       "NR-35 Trabalho em altura",
+       []
+      ],
+      [
+       "07883",
+       "NR-01 Programa de gerenciamento de risco",
+       []
+      ]
+     ]
+    ],
+    [
+     "Perícias e acidentes",
+     [
+      [
+       "02697",
+       "Perícias em engenharia de segurança",
+       []
+      ],
+      [
+       "02698",
+       "Perícias em periculosidade",
+       []
+      ],
+      [
+       "03263",
+       "Exames no local de acidente de trânsito",
+       []
+      ],
+      [
+       "05351",
+       "Acidentes do Trabalho",
+       []
+      ]
+     ]
+    ],
+    [
+     "Emergências e gerenciamento de crises",
+     [
+      [
+       "03966",
+       "Como proceder em situações de emergência ou crise",
+       []
+      ],
+      [
+       "04199",
+       "Introdução ao gerenciamento de crises",
+       []
+      ],
+      [
+       "04200",
+       "Comunicação em crises",
+       []
+      ],
+      [
+       "04201",
+       "Plano de Gerenciamento de Crises (PGC)",
+       []
+      ],
+      [
+       "04202",
+       "Situações específicas de gerenciamento de crises na aviação",
+       []
+      ],
+      [
+       "05539",
+       "Análise de riscos, segurança industrial e plano de emergência",
+       []
+      ],
+      [
+       "05617",
+       "Instalações Hidráulicas de Combate a Incêndios",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Aviação e aeroportos",
+   "d": "Voo, manutenção, fatores humanos, aeroportos e meio ambiente.",
+   "h": 129,
+   "s": [
+    [
+     "Aviação: voo e fatores humanos",
+     [
+      [
+       "02258",
+       "Altimetria e Sistemas Frontais",
+       []
+      ],
+      [
+       "02587",
+       "Manutenção de aeronaves",
+       []
+      ],
+      [
+       "02846",
+       "Voo supersônico",
+       []
+      ],
+      [
+       "03354",
+       "Teoria de voo, acidentes com rotores e vibrações em helicópteros",
+       []
+      ],
+      [
+       "03692",
+       "Os fatores humanos e a aviação - aspectos psicológicos",
+       []
+      ],
+      [
+       "03694",
+       "Condicionantes individuais",
+       []
+      ],
+      [
+       "03695",
+       "Fatores humanos e segurança aérea",
+       []
+      ],
+      [
+       "04195",
+       "Base legal e aeronavegabilidade",
+       []
+      ],
+      [
+       "04196",
+       "Manutenção básica",
+       []
+      ],
+      [
+       "04197",
+       "Fornecedores e oficinas homologadas",
+       []
+      ],
+      [
+       "04198",
+       "Comunicação e fatores diferenciais",
+       []
+      ],
+      [
+       "05603",
+       "O piloto tripulante",
+       []
+      ],
+      [
+       "05606",
+       "Acidentes e incidentes de voo",
+       []
+      ],
+      [
+       "03232",
+       "Fraseologia em inglês para aviação",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212hu/"
+      ],
+      [
+       "03693",
+       "Modelos conceituais de estudo dos fatores humanos na aviação",
+       [],
+       "https://stecine.azureedge.net/repositorio/00212hu/"
+      ]
+     ]
+    ],
+    [
+     "Aeroportos e meio ambiente",
+     [
+      [
+       "03355",
+       "Operação do Sistema de Gestão da Segurança Operacional (SGSO)",
+       []
+      ],
+      [
+       "04190",
+       "Aspectos ambientais na aviação",
+       []
+      ],
+      [
+       "04191",
+       "Legislação ambiental aplicada aos aeroportos e aos seus entornos",
+       []
+      ],
+      [
+       "04192",
+       "A interface entre o aeroporto e o meio ambiente",
+       []
+      ],
+      [
+       "04193",
+       "Estudo e Relatório de Impacto Ambiental (EIA/RIMA)",
+       []
+      ],
+      [
+       "04194",
+       "A regulamentação ambiental e a legalização de um aeroporto",
+       []
+      ],
+      [
+       "04203",
+       "Infraestrutura aeroportuária",
+       []
+      ],
+      [
+       "04204",
+       "Plano de zona de proteção de aeródromos",
+       []
+      ],
+      [
+       "04205",
+       "Evolução da infraestrutura aeroportuária",
+       []
+      ],
+      [
+       "04206",
+       "Administração aeroportuária",
+       []
+      ],
+      [
+       "04207",
+       "Tópicos da Administração Aeroportuária",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Produção, qualidade e pesquisa operacional",
+   "d": "Sistemas de produção, pesquisa operacional, simulação, filas e gestão da qualidade.",
+   "h": 128,
+   "s": [
+    [
+     "Sistemas de produção e logística",
+     [
+      [
+       "00247",
+       "Gestão de risco em cadeias de suprimentos",
+       []
+      ],
+      [
+       "00465",
+       "Planejamento da capacidade",
+       []
+      ],
+      [
+       "00787",
+       "Logística, meio ambiente e canais de distribuição reversos",
+       []
+      ],
+      [
+       "02459",
+       "Fenômenos operacionais",
+       []
+      ],
+      [
+       "03639",
+       "Processos industriais",
+       []
+      ],
+      [
+       "04185",
+       "Visão geral dos sistemas de produção",
+       []
+      ],
+      [
+       "04186",
+       "Planejamento estratégico da produção",
+       []
+      ],
+      [
+       "04187",
+       "Sistemas de Produção",
+       []
+      ],
+      [
+       "04188",
+       "Previsão de demanda",
+       []
+      ],
+      [
+       "04189",
+       "Planejamento mestre da produção (PMP)",
+       []
+      ],
+      [
+       "04835",
+       "PCP nas empresas de construção",
+       []
+      ]
+     ]
+    ],
+    [
+     "Pesquisa operacional",
+     [
+      [
+       "01279",
+       "Pesquisa operacional como ferramenta para tomada de decisão",
+       []
+      ],
+      [
+       "03805",
+       "Introdução à pesquisa operacional",
+       []
+      ],
+      [
+       "03806",
+       "Problemas de transporte e da designação",
+       []
+      ]
+     ]
+    ],
+    [
+     "Simulação e teoria das filas",
+     [
+      [
+       "04495",
+       "Processos estocásticos",
+       []
+      ],
+      [
+       "04496",
+       "Fundamentos de simulação",
+       []
+      ],
+      [
+       "04497",
+       "Modelo conceitual",
+       []
+      ],
+      [
+       "04498",
+       "Modelagem de dados de entrada para simulação",
+       []
+      ],
+      [
+       "04499",
+       "Simulação e otimização",
+       []
+      ],
+      [
+       "07459",
+       "Simulação discreta com uso do Arena ‒ aplicações",
+       []
+      ],
+      [
+       "07571",
+       "Teoria das filas",
+       []
+      ],
+      [
+       "07572",
+       "Modelos de filas",
+       []
+      ],
+      [
+       "07573",
+       "Introdução à simulação de eventos discretos",
+       []
+      ],
+      [
+       "07574",
+       "Modelos de simulação de eventos discretos com Arena",
+       []
+      ]
+     ]
+    ],
+    [
+     "Qualidade e confiabilidade",
+     [
+      [
+       "02305",
+       "Auditoria",
+       []
+      ],
+      [
+       "04308",
+       "Sistemas de gestão da qualidade",
+       []
+      ],
+      [
+       "04309",
+       "Planejamento e controle da qualidade",
+       []
+      ],
+      [
+       "04310",
+       "Normalização, auditoria e certificação para a qualidade",
+       []
+      ],
+      [
+       "04311",
+       "Organização metrológica da qualidade",
+       []
+      ],
+      [
+       "04312",
+       "Confiabilidade de processos e produtos",
+       []
+      ]
+     ]
+    ]
+   ]
+  },
+  {
+   "n": "Projeto, gestão e inovação em engenharia",
+   "d": "Prática profissional, gestão de projetos, desenvolvimento de produtos e engenharia econômica.",
+   "h": 152,
+   "s": [
+    [
+     "Profissão e método",
+     [
+      [
+       "00245",
+       "Método científico",
+       []
+      ],
+      [
+       "00307",
+       "Introdução a projetos de engenharia",
+       []
+      ],
+      [
+       "00410",
+       "Engenharia e desenvolvimento",
+       []
+      ],
+      [
+       "02304",
+       "Atuação profissional do engenheiro",
+       []
+      ],
+      [
+       "02376",
+       "Plano do projeto final em engenharia",
+       []
+      ],
+      [
+       "02672",
+       "Orientação da prática profissional de engenharia",
+       []
+      ],
+      [
+       "03831",
+       "Metodologia para construção de projeto final em Engenharia",
+       []
+      ],
+      [
+       "03871",
+       "Empreendedorismo",
+       []
+      ],
+      [
+       "03872",
+       "Metodologia para construção de projeto final em automação industrial",
+       []
+      ]
+     ]
+    ],
+    [
+     "Gestão de projetos",
+     [
+      [
+       "02221",
+       "A gestão dos programas",
+       []
+      ],
+      [
+       "03691",
+       "Gestão de projetos e engenharia simultânea",
+       []
+      ],
+      [
+       "03859",
+       "Gerenciamento do tempo e dos custos de um projeto",
+       []
+      ]
+     ]
+    ],
+    [
+     "Inovação e desenvolvimento de produtos",
+     [
+      [
+       "03686",
+       "Gestão da inovação tecnológica",
+       [
+        "07725"
+       ]
+      ],
+      [
+       "03687",
+       "Inovação e desenvolvimento de produtos",
+       []
+      ],
+      [
+       "03688",
+       "Processo de desenvolvimento de produto: do conceito ao protótipo",
+       []
+      ],
+      [
+       "03689",
+       "Processo de desenvolvimento de produto: do protótipo ao produto",
+       []
+      ],
+      [
+       "03690",
+       "Ferramentas para o desenvolvimento de produtos",
+       []
+      ]
+     ]
+    ],
+    [
+     "Engenharia econômica",
+     [
+      [
+       "04363",
+       "Visão Geral da Engenharia Econômica",
+       []
+      ],
+      [
+       "04364",
+       "Métodos de Seleção e Análise de Viabilidade de Projetos",
+       []
+      ],
+      [
+       "04365",
+       "Construção do fluxo de caixa de um projeto",
+       []
+      ],
+      [
+       "04366",
+       "Análise de risco e de ativos",
+       []
+      ],
+      [
+       "04367",
+       "Análise de risco de um projeto de investimento",
+       []
+      ]
+     ]
+    ]
+   ]
+  }
+ ]
+}
