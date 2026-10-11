@@ -1,8 +1,8 @@
-# 📚 Trilhas de Ensino
+# 📚 Desbloqueie Seu Potencial
 
 **Aprender fica mais fácil quando o conhecimento tem um caminho.**
 
-O **Trilhas de Ensino** é uma plataforma de estudos que reúne conteúdos educacionais em diferentes áreas do conhecimento, organizados para tornar a aprendizagem mais simples, intuitiva e acessível.
+O **Desbloqueie Seu Potencial** é uma plataforma de estudos que reúne conteúdos educacionais em diferentes áreas do conhecimento, organizados para tornar a aprendizagem mais simples, intuitiva e acessível.
 
 Com uma experiência visual personalizada para cada área, o aluno pode explorar temas, acessar aulas, acompanhar seu progresso e construir sua própria jornada de aprendizado.
 
